@@ -23,7 +23,13 @@
     {
       "id": "sw_hard",
       "name": "Star Wars (Hard)"
-    }
+    },
+    { "id": "disney_easy", "name": "Disney/Pixar (Easy)" },
+    { "id": "disney_medium", "name": "Disney/Pixar (Medium)" },
+    { "id": "disney_hard", "name": "Disney/Pixar (Hard)" },
+    { "id": "history_easy", "name": "World History (Easy)" },
+    { "id": "history_medium", "name": "World History (Medium)" },
+    { "id": "history_hard", "name": "World History (Hard)" }
   ],
   "questions": [
     {
@@ -1225,6 +1231,246 @@
     {
       "id": "sw_hard_50", "categoryId": "sw_hard", "text": "What is the name of the Jedi Master who created the first Holocron?",
       "answers": ["Ood Bnar", "Arca Jeth", "Gnost-Dural", "Ulic Qel-Droma"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_easy_1", "categoryId": "disney_easy", "text": "What is the name of the cowboy in 'Toy Story'?",
+      "answers": ["Buzz Lightyear", "Woody", "Mr. Potato Head", "Slinky Dog"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_easy_2", "categoryId": "disney_easy", "text": "Who is Mickey Mouse's faithful dog companion?",
+      "answers": ["Goofy", "Donald", "Pluto", "Figaro"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_easy_3", "categoryId": "disney_easy", "text": "What does Cinderella's fairy godmother turn into a coach?",
+      "answers": ["A mouse", "A pumpkin", "A watermelon", "A shoe"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_easy_4", "categoryId": "disney_easy", "text": "In 'The Lion King,' who is Simba's father?",
+      "answers": ["Scar", "Zazu", "Timon", "Mufasa"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "disney_easy_5", "categoryId": "disney_easy", "text": "What is the name of the little girl in 'Monsters, Inc.'?",
+      "answers": ["Mary", "Boo", "Cindy", "Sally"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_easy_6", "categoryId": "disney_easy", "text": "In 'Finding Nemo,' what kind of fish is Nemo?",
+      "answers": ["Clownfish", "Blue Tang", "Pufferfish", "Angelfish"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "disney_easy_7", "categoryId": "disney_easy", "text": "Who sings the song 'Let It Go' in 'Frozen'?",
+      "answers": ["Anna", "Olaf", "Elsa", "Kristoff"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_easy_8", "categoryId": "disney_easy", "text": "What is the name of the princess in 'The Little Mermaid'?",
+      "answers": ["Belle", "Jasmine", "Ariel", "Pocahontas"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_easy_9", "categoryId": "disney_easy", "text": "In 'Aladdin,' what is the name of Aladdin's monkey sidekick?",
+      "answers": ["Iago", "Rajah", "Abu", "Zazu"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_easy_10", "categoryId": "disney_easy", "text": "What happens to Pinocchio's nose when he tells a lie?",
+      "answers": ["It shrinks", "It turns blue", "It wiggles", "It grows longer"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "disney_medium_1", "categoryId": "disney_medium", "text": "In 'The Incredibles,' what is the name of Frozone's wife, who is never seen on screen?",
+      "answers": ["Honey", "Sugar", "Sweetie", "Precious"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "disney_medium_2", "categoryId": "disney_medium", "text": "What is the motto of the company in 'Monsters, Inc.'?",
+      "answers": ["'Fright is Right'", "'We Scare Because We Care'", "'Screams for the Team'", "'Your Fear is Our Gear'"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_medium_3", "categoryId": "disney_medium", "text": "In 'Coco,' what song did Héctor write for his daughter?",
+      "answers": ["'Un Poco Loco'", "'The World Es Mi Familia'", "'Proud Corazón'", "'Remember Me'"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "disney_medium_4", "categoryId": "disney_medium", "text": "What is the name of the restaurant that Remy the rat works in in 'Ratatouille'?",
+      "answers": ["La Ratatouille", "Le Remy", "Gusteau's", "Skinner's"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_medium_5", "categoryId": "disney_medium", "text": "In 'Up,' Carl Fredricksen attaches balloons to his house to fly it to which location?",
+      "answers": ["Angel Falls", "Victoria Falls", "Paradise Falls", "Niagara Falls"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_medium_6", "categoryId": "disney_medium", "text": "What are the names of the three hyenas in 'The Lion King'?",
+      "answers": ["Larry, Curly, and Moe", "Flotsam, Jetsam, and Ursula", "Pain, Panic, and Hades", "Shenzi, Banzai, and Ed"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "disney_medium_7", "categoryId": "disney_medium", "text": "In 'Beauty and the Beast,' how many eggs does Gaston claim to eat every morning to help him get large?",
+      "answers": ["Three dozen", "Four dozen", "Five dozen", "Six dozen"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_medium_8", "categoryId": "disney_medium", "text": "What is the name of Andy's destructive neighbor in 'Toy Story'?",
+      "answers": ["Al", "Sid", "Davis", "Molly"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_medium_9", "categoryId": "disney_medium", "text": "In 'Brave,' a witch gives Merida a cursed tart that turns her mother into what animal?",
+      "answers": ["A horse", "A bear", "A wolf", "A dragon"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_medium_10", "categoryId": "disney_medium", "text": "What is the name of the high-energy pop star in 'A Goofy Movie'?",
+      "answers": ["Te-vin Campbell", "Bobby Brown", "Powerline", "Lester"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_hard_1", "categoryId": "disney_hard", "text": "What is the name of the shopkeeper in 'Frozen' who runs 'Wandering Oaken's Trading Post and Sauna'?",
+      "answers": ["Sven", "Kristoff", "Hans", "Oaken"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "disney_hard_2", "categoryId": "disney_hard", "text": "What is the address of the dentist's office where Nemo is kept in 'Finding Nemo'?",
+      "answers": ["123 Fish Tank Rd", "P. Sherman, 42 Wallaby Way, Sydney", "10 Reef Street, Coral Bay", "50 Ocean Ave, Marine World"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_hard_3", "categoryId": "disney_hard", "text": "In 'WALL-E,' what does the acronym 'EVE' stand for?",
+      "answers": ["Environmental Verification Entity", "External Voyager Explorer", "Extraterrestrial Vegetation Evaluator", "Earth Vitality Examiner"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_hard_4", "categoryId": "disney_hard", "text": "What is the full name of the villain in 'The Rescuers Down Under'?",
+      "answers": ["Percival C. McLeach", "Clayton", "Sykes", "Alameda Slim"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "disney_hard_5", "categoryId": "disney_hard", "text": "In 'Mulan,' what is the name of Mulan's horse?",
+      "answers": ["Mushu", "Khan", "Yao", "Ling"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_hard_6", "categoryId": "disney_hard", "text": "What is the name of Lady Tremaine's wicked cat in 'Cinderella'?",
+      "answers": ["Figaro", "Sgt. Tibbs", "Lucifer", "Pom-Pom"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_hard_7", "categoryId": "disney_hard", "text": "In 'Hercules,' what creatures are Pain and Panic shape-shifted into during the 'Zero to Hero' sequence?",
+      "answers": ["Birds", "Bunnies", "Worms", "Fish"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "disney_hard_8", "categoryId": "disney_hard", "text": "What are the names of the three stone gargoyles in 'The Hunchback of Notre Dame'?",
+      "answers": ["Athos, Porthos, and Aramis", "Victor, Hugo, and Laverne", "Gus, Jaq, and Bruno", "Larry, Moe, and Curly"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "disney_hard_9", "categoryId": "disney_hard", "text": "In 'The Princess and the Frog,' what is the name of the voodoo witch doctor?",
+      "answers": ["Doctor Facilier", "Lawrence", "Mama Odie", "JuJu"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "disney_hard_10", "categoryId": "disney_hard", "text": "In 'Zootopia,' what type of business is run by Mr. Big?",
+      "answers": ["A bakery", "A flower shop", "The DMV", "A crime organization"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_easy_1", "categoryId": "history_easy", "text": "Who was the first President of the United States?",
+      "answers": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_easy_2", "categoryId": "history_easy", "text": "The ancient Egyptians are famous for building what monumental structures?",
+      "answers": ["Ziggurats", "Pyramids", "Castles", "Aqueducts"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_easy_3", "categoryId": "history_easy", "text": "Which explorer is credited with discovering America in 1492?",
+      "answers": ["Ferdinand Magellan", "Marco Polo", "Leif Erikson", "Christopher Columbus"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_easy_4", "categoryId": "history_easy", "text": "In which country did the ancient Olympic Games originate?",
+      "answers": ["Rome", "Egypt", "Greece", "China"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_easy_5", "categoryId": "history_easy", "text": "What famous Roman general and dictator was assassinated on the Ides of March?",
+      "answers": ["Augustus", "Nero", "Julius Caesar", "Mark Antony"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_easy_6", "categoryId": "history_easy", "text": "World War I was primarily fought from:",
+      "answers": ["1905-1910", "1914-1918", "1929-1935", "1939-1945"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_easy_7", "categoryId": "history_easy", "text": "Who is famous for painting the Mona Lisa?",
+      "answers": ["Vincent van Gogh", "Michelangelo", "Leonardo da Vinci", "Pablo Picasso"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_easy_8", "categoryId": "history_easy", "text": "What is the name of the ancient wall built in China to protect against invasions?",
+      "answers": ["The Berlin Wall", "Hadrian's Wall", "The Great Wall", "The Western Wall"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_easy_9", "categoryId": "history_easy", "text": "What event marked the beginning of World War II in Europe?",
+      "answers": ["The bombing of Pearl Harbor", "The invasion of Poland", "The Battle of Britain", "The signing of the Treaty of Versailles"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_easy_10", "categoryId": "history_easy", "text": "Who was the queen of ancient Egypt known for her beauty and alliance with Roman leaders?",
+      "answers": ["Nefertiti", "Hatshepsut", "Cleopatra", "Isis"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_medium_1", "categoryId": "history_medium", "text": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "answers": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Mikhail Gorbachev"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_medium_2", "categoryId": "history_medium", "text": "The Renaissance, a period of 'rebirth' in arts and sciences, began in which European country?",
+      "answers": ["France", "Spain", "England", "Italy"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_medium_3", "categoryId": "history_medium", "text": "The Magna Carta, signed by King John in 1215, is considered a foundational document for the constitution of which country?",
+      "answers": ["France", "The United States", "England", "Germany"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_medium_4", "categoryId": "history_medium", "text": "The Industrial Revolution in the 18th century began in which nation?",
+      "answers": ["United States", "Great Britain", "Germany", "France"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_medium_5", "categoryId": "history_medium", "text": "What was the name of the battle in 1066 that led to the Norman conquest of England?",
+      "answers": ["Battle of Agincourt", "Battle of Waterloo", "Battle of Hastings", "Battle of Stamford Bridge"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_medium_6", "categoryId": "history_medium", "text": "What system of writing was used by the ancient Sumerians in Mesopotamia?",
+      "answers": ["Hieroglyphics", "Cuneiform", "Alphabet", "Ideograms"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_medium_7", "categoryId": "history_medium", "text": "Who was the last pharaoh of Ptolemaic Egypt?",
+      "answers": ["Ramesses II", "Akhenaten", "King Tut", "Cleopatra VII"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_medium_8", "categoryId": "history_medium", "text": "The 'Cold War' was a state of geopolitical tension between which two superpowers?",
+      "answers": ["China and Japan", "The United States and the Soviet Union", "The UK and Germany", "France and Russia"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_medium_9", "categoryId": "history_medium", "text": "What empire was ruled by Genghis Khan and his descendants?",
+      "answers": ["The Ottoman Empire", "The Roman Empire", "The Mongol Empire", "The Persian Empire"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_medium_10", "categoryId": "history_medium", "text": "Martin Luther's Ninety-five Theses were a catalyst for what major religious movement?",
+      "answers": ["The Counter-Reformation", "The Great Schism", "The Protestant Reformation", "The First Crusade"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_hard_1", "categoryId": "history_hard", "text": "What treaty, signed in 1648, is generally considered to have ended the Thirty Years' War?",
+      "answers": ["Treaty of Versailles", "Peace of Westphalia", "Congress of Vienna", "Treaty of Tordesillas"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_hard_2", "categoryId": "history_hard", "text": "The series of conflicts between Rome and Carthage for control of the Mediterranean were known as the:",
+      "answers": ["Peloponnesian Wars", "Gallic Wars", "Punic Wars", "Samnite Wars"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_hard_3", "categoryId": "history_hard", "text": "Who was the first emperor of a unified China, beginning the Qin Dynasty?",
+      "answers": ["Sun Tzu", "Confucius", "Emperor Wu of Han", "Qin Shi Huang"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_hard_4", "categoryId": "history_hard", "text": "The 'Pax Romana' was a long period of relative peace and stability experienced by which empire?",
+      "answers": ["The British Empire", "The Mongol Empire", "The Roman Empire", "The Ottoman Empire"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_hard_5", "categoryId": "history_hard", "text": "The Khmer Rouge regime carried out a genocide in the 1970s in which modern-day country?",
+      "answers": ["Vietnam", "Thailand", "Laos", "Cambodia"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_hard_6", "categoryId": "history_hard", "text": "The 'Glorious Revolution' in 1688 led to the overthrow of which English king?",
+      "answers": ["Charles I", "James II", "Henry VIII", "George III"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_hard_7", "categoryId": "history_hard", "text": "Justinian I was a famous emperor of which empire, known for his legal code and attempts to reconquer western territories?",
+      "answers": ["The Holy Roman Empire", "The Byzantine Empire", "The Persian Empire", "The Carolingian Empire"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "history_hard_8", "categoryId": "history_hard", "text": "The Meiji Restoration in the late 19th century marked a period of rapid modernization in which country?",
+      "answers": ["China", "Korea", "Japan", "Russia"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "history_hard_9", "categoryId": "history_hard", "text": "What was the name of the system of racial segregation enforced in South Africa from 1948 to 1994?",
+      "answers": ["Jim Crow", "Segregation", "Caste System", "Apartheid"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "history_hard_10", "categoryId": "history_hard", "text": "The Battle of Agincourt, a major English victory in the Hundred Years' War, was notable for the effectiveness of what weapon?",
+      "answers": ["The catapult", "The cannon", "The longbow", "The crossbow"], "correctAnswerIndex": 2
     }
   ]
 } 
