@@ -1585,7 +1585,7 @@
       "answers": ["A happy thought, a feather, and wind", "Faith, trust, and pixie dust", "A running start, a jump, and a wish", "Magic, hope, and a song"], "correctAnswerIndex": 1
     },
     {
-      "id": "disney_medium_39", "categoryId": "disney_medium", "text": "What is the name of the villainous jaguar in 'The Jungle Book'?",
+      "id": "disney_medium_39", "categoryId": "disney_medium", "text": "What is the name of the villainous tiger in 'The Jungle Book'?",
       "answers": ["Kaa", "Baloo", "Bagheera", "Shere Khan"], "correctAnswerIndex": 3
     },
     {
