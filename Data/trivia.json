@@ -22,7 +22,7 @@
     },
     {
       "id": "sw_hard",
-      "name": "Star Wars (Hard) like my..."
+      "name": "Star Wars (Hard)"
     }
   ],
   "questions": [
@@ -147,6 +147,86 @@
       "answers": ["Nurmengard", "Gringotts", "The Ministry of Magic", "Azkaban"], "correctAnswerIndex": 3
     },
     {
+      "id": "hp_easy_31", "categoryId": "hp_easy", "text": "What is the name of the wizarding world's most popular sport?",
+      "answers": ["Wizard's Chess", "Gobstones", "Quidditch", "Dueling"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_32", "categoryId": "hp_easy", "text": "What magical creature can transform into a person's worst fear?",
+      "answers": ["Dementor", "Boggart", "Ghoul", "Imp"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_33", "categoryId": "hp_easy", "text": "Who is the head of Gryffindor house?",
+      "answers": ["Professor Snape", "Professor Flitwick", "Professor Sprout", "Professor McGonagall"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_easy_34", "categoryId": "hp_easy", "text": "What is the name of the school of witchcraft and wizardry in Great Britain?",
+      "answers": ["Hogwarts", "Beauxbatons", "Durmstrang", "Ilvermorny"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_easy_35", "categoryId": "hp_easy", "text": "What is the Dursleys' address?",
+      "answers": ["12 Grimmauld Place", "The Burrow", "Number 4, Privet Drive", "Spinner's End"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_36", "categoryId": "hp_easy", "text": "What does the spell 'Wingardium Leviosa' do?",
+      "answers": ["Starts a fire", "Unlocks a door", "Makes objects float", "Stuns an enemy"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_37", "categoryId": "hp_easy", "text": "What is the name of the train that takes students to Hogwarts?",
+      "answers": ["The Knight Bus", "The Hogwarts Express", "The Durmstrang Ship", "The Beauxbatons Carriage"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_38", "categoryId": "hp_easy", "text": "Which magical object can make its user invisible?",
+      "answers": ["The Remembrall", "The Time-Turner", "The Invisibility Cloak", "The Pensieve"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_39", "categoryId": "hp_easy", "text": "Who is the potions master for most of Harry's time at Hogwarts?",
+      "answers": ["Horace Slughorn", "Gilderoy Lockhart", "Remus Lupin", "Severus Snape"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_easy_40", "categoryId": "hp_easy", "text": "What type of pet does Hermione Granger have?",
+      "answers": ["An owl", "A cat", "A toad", "A rat"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_41", "categoryId": "hp_easy", "text": "What is the name of the village near Hogwarts where students can visit?",
+      "answers": ["Godric's Hollow", "Hogsmeade", "Little Hangleton", "Ottery St Catchpole"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_42", "categoryId": "hp_easy", "text": "What is the goal of the Seeker in a Quidditch match?",
+      "answers": ["To score with the Quaffle", "To defend the goalposts", "To hit Bludgers at opponents", "To catch the Golden Snitch"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_easy_43", "categoryId": "hp_easy", "text": "What class teaches students about magical plants?",
+      "answers": ["Potions", "Herbology", "Transfiguration", "Charms"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_44", "categoryId": "hp_easy", "text": "What are non-magical people called?",
+      "answers": ["Squibs", "No-Majs", "Mundanes", "Muggles"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_easy_45", "categoryId": "hp_easy", "text": "What creature guards the vaults at Gringotts Bank?",
+      "answers": ["Dragons", "Goblins", "Trolls", "Sphinxes"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_easy_46", "categoryId": "hp_easy", "text": "Which of these is a form of wizarding money?",
+      "answers": ["Dollars", "Pounds", "Knut", "Euros"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_47", "categoryId": "hp_easy", "text": "What is the name of the dark wizard who killed Harry's parents?",
+      "answers": ["Grindelwald", "Lucius Malfoy", "Lord Voldemort", "Bellatrix Lestrange"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_easy_48", "categoryId": "hp_easy", "text": "What is the name of Hagrid's giant boarhound?",
+      "answers": ["Fang", "Norbert", "Buckbeak", "Aragog"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_easy_49", "categoryId": "hp_easy", "text": "What does the spell 'Alohomora' do?",
+      "answers": ["Locks doors", "Repairs broken objects", "Creates water", "Unlocks doors"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_easy_50", "categoryId": "hp_easy", "text": "Who are the mischievous twin brothers of Ron Weasley?",
+      "answers": ["Percy and Charlie", "Bill and Percy", "Fred and George", "Charlie and Bill"], "correctAnswerIndex": 2
+    },
+    {
       "id": "hp_medium_1", "categoryId": "hp_medium", "text": "What is the full name of the Hogwarts headmaster when Harry arrives?",
       "answers": ["Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "Albus Brian Dumbledore", "Albus Wulfric Dumbledore"], "correctAnswerIndex": 1
     },
@@ -265,6 +345,86 @@
     {
       "id": "hp_medium_30", "categoryId": "hp_medium", "text": "What is the location of the Order of the Phoenix headquarters?",
       "answers": ["The Burrow", "Hogwarts Castle", "12 Grimmauld Place", "The Ministry of Magic"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_31", "categoryId": "hp_medium", "text": "Who gave Harry the Marauder's Map?",
+      "answers": ["Sirius Black", "Remus Lupin", "Fred and George Weasley", "His father, James Potter"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_32", "categoryId": "hp_medium", "text": "What is the name of the wizarding wireless network?",
+      "answers": ["Wizarding Wireless Network (WWN)", "Magical Radio Service (MRS)", "The Potterwatch Program", "The Quibbler Radio"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_medium_33", "categoryId": "hp_medium", "text": "What is the form of Ginny Weasley's Patronus?",
+      "answers": ["A horse", "An otter", "A doe", "A swan"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_medium_34", "categoryId": "hp_medium", "text": "What is the name of the Bulgarian Seeker that Harry competes against in the Quidditch World Cup?",
+      "answers": ["Igor Karkaroff", "Gellert Grindelwald", "Viktor Krum", "Poliakoff"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_35", "categoryId": "hp_medium", "text": "Which creature's tears are the only known antidote to Basilisk venom?",
+      "answers": ["Phoenix", "Griffin", "Unicorn", "Dragon"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_medium_36", "categoryId": "hp_medium", "text": "What is the name of the house-elf who served the Black family?",
+      "answers": ["Dobby", "Winky", "Hokey", "Kreacher"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_medium_37", "categoryId": "hp_medium", "text": "Which Hogwarts professor was a champion in the Triwizard Tournament?",
+      "answers": ["Cedric Diggory", "Fleur Delacour", "Alastor 'Mad-Eye' Moody (Barty Crouch Jr.)", "There wasn't one"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_38", "categoryId": "hp_medium", "text": "What is the name of the potion that grants good luck?",
+      "answers": ["Draught of Living Death", "Felix Felicis", "Veritaserum", "Amortentia"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_medium_39", "categoryId": "hp_medium", "text": "Who was the flying instructor at Hogwarts?",
+      "answers": ["Madam Pince", "Madam Pomfrey", "Madam Hooch", "Madam Malkin"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_40", "categoryId": "hp_medium", "text": "What organization did Lord Voldemort create?",
+      "answers": ["The Order of the Phoenix", "Dumbledore's Army", "The Death Eaters", "The Ministry of Magic"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_41", "categoryId": "hp_medium", "text": "What is the first password to the Gryffindor common room that Harry uses?",
+      "answers": ["Fortuna Major", "Mimbulus Mimbletonia", "Balderdash", "Caput Draconis"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_medium_42", "categoryId": "hp_medium", "text": "What does a Howler do when it's opened?",
+      "answers": ["Sings a song", "Delivers a message in a loud, shouting voice", "Explodes with confetti", "Releases a bad smell"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_medium_43", "categoryId": "hp_medium", "text": "What is the name of the magical creature that can be seen only by those who have witnessed death?",
+      "answers": ["Thestral", "Hippogriff", "Grindylow", "Banshee"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_medium_44", "categoryId": "hp_medium", "text": "Who wrote the seven-volume series 'The Rise and Fall of the Dark Arts'?",
+      "answers": ["Bathilda Bagshot", "Gilderoy Lockhart", "Adalbert Waffling", "Galatea Merrythought"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_medium_45", "categoryId": "hp_medium", "text": "What is the spell used to disarm an opponent?",
+      "answers": ["Stupefy", "Expelliarmus", "Rictusempra", "Petrificus Totalus"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_medium_46", "categoryId": "hp_medium", "text": "What kind of wood is Harry's wand made of?",
+      "answers": ["Oak", "Yew", "Vine", "Holly"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_medium_47", "categoryId": "hp_medium", "text": "What is the name of the reporter for the Daily Prophet who often writes sensationalist stories?",
+      "answers": ["Betty Braithwaite", "Rita Skeeter", "Wilhelmina Grubbly-Plank", "Elphias Doge"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_medium_48", "categoryId": "hp_medium", "text": "What is the name of the love potion featured in 'Harry Potter and the Half-Blood Prince'?",
+      "answers": ["Veritaserum", "Polyjuice Potion", "Amortentia", "Felix Felicis"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_49", "categoryId": "hp_medium", "text": "Which character is known for the catchphrase 'Constant vigilance!'?",
+      "answers": ["Remus Lupin", "Sirius Black", "Alastor 'Mad-Eye' Moody", "Arthur Weasley"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_medium_50", "categoryId": "hp_medium", "text": "Who was the caretaker of Hogwarts before Argus Filch?",
+      "answers": ["Apollyon Pringle", "Ogg", "Rancorous Carpe", "Gladys Boothby"], "correctAnswerIndex": 0
     },
     {
       "id": "hp_hard_1", "categoryId": "hp_hard", "text": "What is the serial number of the wand Harry Potter possesses?",
@@ -387,6 +547,86 @@
       "answers": ["Harry Potter only", "Neville Longbottom only", "Both Harry and Neville", "Neither Harry nor Neville"], "correctAnswerIndex": 2
     },
     {
+      "id": "hp_hard_31", "categoryId": "hp_hard", "text": "What is the name of the fountain in the atrium of the Ministry of Magic?",
+      "answers": ["Fountain of Magical Brethren", "The Fountain of Fair Fortune", "Fountain of Power", "The Brotherhood Fountain"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_32", "categoryId": "hp_hard", "text": "Who was the editor of The Quibbler?",
+      "answers": ["Luna Lovegood", "Pandora Lovegood", "Xenophilius Lovegood", "Barnaby Cuffe"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_hard_33", "categoryId": "hp_hard", "text": "What is the name of the centaur who taught Divination at Hogwarts?",
+      "answers": ["Firenze", "Bane", "Ronan", "Magorian"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_34", "categoryId": "hp_hard", "text": "What is the primary ingredient in the Draught of Living Death?",
+      "answers": ["Powdered root of asphodel", "Infusion of wormwood", "Sloth brain mucus", "Moondew"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_35", "categoryId": "hp_hard", "text": "What is the name of the ghoul that lives in the Weasley's attic?",
+      "answers": ["It has no name", "Barnaby", "Peeves", "Binky"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_36", "categoryId": "hp_hard", "text": "Who was the Hufflepuff student who was also a champion in the Triwizard Tournament?",
+      "answers": ["Justin Finch-Fletchley", "Ernie Macmillan", "Susan Bones", "Cedric Diggory"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_hard_37", "categoryId": "hp_hard", "text": "What is the name of the device Dumbledore uses to put out lights?",
+      "answers": ["The Deluminator", "The Lumos Maxima", "The Snuffer", "The Extinguisher"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_38", "categoryId": "hp_hard", "text": "What is the name of the curse that caused the permanent residents of St. Mungo's long-term resident ward to be there?",
+      "answers": ["Memory Charm", "Babbling Curse", "Jelly-Legs Jinx", "Unforgivable Curses"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_39", "categoryId": "hp_hard", "text": "Which of these is NOT a sweet from Honeydukes?",
+      "answers": ["Fizzing Whizbees", "Drooble's Best Blowing Gum", "Bertie Bott's Every Flavour Beans", "Sugar Quills"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "hp_hard_40", "categoryId": "hp_hard", "text": "What is the name of the Bulgarian Minister for Magic?",
+      "answers": ["Oblansk", "Karkaroff", "Volkov", "Zograf"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_41", "categoryId": "hp_hard", "text": "Who was the original owner of the locket Horcrux?",
+      "answers": ["Salazar Slytherin", "Merope Gaunt", "Hepzibah Smith", "Marvolo Gaunt"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_42", "categoryId": "hp_hard", "text": "What is the core of Hermione Granger's wand?",
+      "answers": ["Phoenix Feather", "Dragon Heartstring", "Unicorn Hair", "Veela Hair"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_hard_43", "categoryId": "hp_hard", "text": "What is the name of the wizarding hospital?",
+      "answers": ["St. Mungo's Hospital for Magical Maladies and Injuries", "The Wizarding Infirmary", "The Magical Menagerie", "St. Oswald's Hospital for Old Witches and Wizards"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_44", "categoryId": "hp_hard", "text": "What is the name of the village where the Potters lived and were killed?",
+      "answers": ["Hogsmeade", "Little Hangleton", "Godric's Hollow", "Tinworth"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "hp_hard_45", "categoryId": "hp_hard", "text": "What is the name of the organization founded by Harry, Ron, and Hermione to oppose Dolores Umbridge?",
+      "answers": ["The Order of the Phoenix", "Dumbledore's Army", "The Society for the Protection of Elfish Welfare", "The Triwizard Champions"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "hp_hard_46", "categoryId": "hp_hard", "text": "What is the name of the Irish Quidditch team's Chasers?",
+      "answers": ["Troy, Moran, and Quigley", "Lynch, Connolly, and Ryan", "Moran, Troy, and Connolly", "Quigley, Lynch, and Ryan"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_47", "categoryId": "hp_hard", "text": "Who was the Hogwarts librarian?",
+      "answers": ["Irma Pince", "Aurora Sinistra", "Poppy Pomfrey", "Charity Burbage"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_48", "categoryId": "hp_hard", "text": "What is the name of the charm that conjures a snake?",
+      "answers": ["Serpensortia", "Vipera Evanesca", "Anguis duo", "Colubra apereo"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_49", "categoryId": "hp_hard", "text": "What is the name of the werewolf who bit Remus Lupin?",
+      "answers": ["Fenrir Greyback", "Silas Greyvane", "Tiberius McLaggen", "Yaxley"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "hp_hard_50", "categoryId": "hp_hard", "text": "What is the incantation for the spell that killed Snape?",
+      "answers": ["Avada Kedavra", "Sectumsempra", "Crucio", "There was no incantation, Nagini killed him"], "correctAnswerIndex": 3
+    },
+    {
       "id": "sw_easy_1", "categoryId": "sw_easy", "text": "Who is Luke Skywalker's father?",
       "answers": ["Obi-Wan Kenobi", "Emperor Palpatine", "Darth Vader", "Han Solo"], "correctAnswerIndex": 2
     },
@@ -505,6 +745,86 @@
     {
       "id": "sw_easy_30", "categoryId": "sw_easy", "text": "What is the name of the scavenger from Jakku in 'The Force Awakens'?",
       "answers": ["Jyn Erso", "Qi'ra", "Rose Tico", "Rey"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_easy_31", "categoryId": "sw_easy", "text": "What is the famous line that Han Solo says to Princess Leia before being frozen in carbonite?",
+      "answers": ["'I love you too.'", "'I know.'", "'I'll be back.'", "'May the Force be with you.'"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_32", "categoryId": "sw_easy", "text": "What is the name of the droid who is Poe Dameron's companion?",
+      "answers": ["R2-D2", "C-3PO", "BB-8", "Chopper"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_33", "categoryId": "sw_easy", "text": "What is the primary color of the Sith's lightsabers?",
+      "answers": ["Blue", "Green", "Red", "Purple"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_34", "categoryId": "sw_easy", "text": "Who is the leader of the Rebel Alliance during the original trilogy?",
+      "answers": ["Bail Organa", "Mon Mothma", "Admiral Ackbar", "General Dodonna"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_35", "categoryId": "sw_easy", "text": "What is the name of the planet that is home to the Wookiees?",
+      "answers": ["Endor", "Kashyyyk", "Tatooine", "Naboo"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_36", "categoryId": "sw_easy", "text": "What is the name of the vehicle that Luke Skywalker uses to travel around his home planet?",
+      "answers": ["Speeder bike", "Landspeeder", "Snowspeeder", "Starfighter"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_37", "categoryId": "sw_easy", "text": "Who is Luke Skywalker's twin sister?",
+      "answers": ["Padmé Amidala", "Ahsoka Tano", "Leia Organa", "Rey"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_38", "categoryId": "sw_easy", "text": "What is the name of the species that inhabits Tatooine and sells droids?",
+      "answers": ["Tusken Raiders", "Hutts", "Rodians", "Jawas"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_easy_39", "categoryId": "sw_easy", "text": "What is the name of the Sith Lord who was Darth Vader's master?",
+      "answers": ["Darth Maul", "Count Dooku", "Emperor Palpatine", "Darth Plagueis"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_40", "categoryId": "sw_easy", "text": "What is the main goal of the Rebel Alliance?",
+      "answers": ["To conquer the galaxy", "To restore the Republic", "To create a new Empire", "To destroy all droids"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_41", "categoryId": "sw_easy", "text": "What is the name of the battle where the Rebel Alliance destroyed the first Death Star?",
+      "answers": ["Battle of Hoth", "Battle of Endor", "Battle of Yavin", "Battle of Scarif"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_42", "categoryId": "sw_easy", "text": "What is the name of the creature that Jabba the Hutt tries to feed Luke Skywalker to?",
+      "answers": ["Sarlacc", "Rancor", "Wampa", "Nexu"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_43", "categoryId": "sw_easy", "text": "What is the name of the Jedi who was Qui-Gon Jinn's Padawan?",
+      "answers": ["Anakin Skywalker", "Obi-Wan Kenobi", "Mace Windu", "Yoda"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_44", "categoryId": "sw_easy", "text": "What is the name of the planet where Luke Skywalker was raised?",
+      "answers": ["Alderaan", "Naboo", "Tatooine", "Coruscant"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_45", "categoryId": "sw_easy", "text": "What is the name of the armored walkers used by the Empire on Hoth?",
+      "answers": ["AT-STs", "AT-ATs", "AT-TEs", "AT-DPs"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_46", "categoryId": "sw_easy", "text": "What is the name of the bounty hunter who captured Han Solo?",
+      "answers": ["IG-88", "Dengar", "Bossk", "Boba Fett"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_easy_47", "categoryId": "sw_easy", "text": "What is the opening line of every Star Wars film's title crawl?",
+      "answers": ["'A long time ago in a galaxy far, far away....'", "'In a galaxy divided....'", "'War! The Republic is crumbling....'", "'The Jedi are all but extinct....'"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_easy_48", "categoryId": "sw_easy", "text": "What is the name of the Resistance's top pilot?",
+      "answers": ["Finn", "Poe Dameron", "Snap Wexley", "Bodhi Rook"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_easy_49", "categoryId": "sw_easy", "text": "What is the name of the First Order's main battleship?",
+      "answers": ["The Executor", "The Supremacy", "The Finalizer", "The Steadfast"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_easy_50", "categoryId": "sw_easy", "text": "What are the Force-sensitive children that the Empire hunts called?",
+      "answers": ["Younglings", "Padawans", "Initiates", "Force-sensitives"], "correctAnswerIndex": 0
     },
     {
       "id": "sw_medium_1", "categoryId": "sw_medium", "text": "What was the executive order that Palpatine used to brand the Jedi as traitors?",
@@ -627,6 +947,86 @@
       "answers": ["Wedge Antilles", "Snap Wexley", "Biggs Darklighter", "Jek Porkins"], "correctAnswerIndex": 1
     },
     {
+      "id": "sw_medium_31", "categoryId": "sw_medium", "text": "Who ordered the creation of the clone army?",
+      "answers": ["Chancellor Palpatine", "Jedi Master Sifo-Dyas", "Count Dooku", "Lama Su"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_medium_32", "categoryId": "sw_medium", "text": "What is the name of the operation to steal the Death Star plans in 'Rogue One'?",
+      "answers": ["Operation: Skyhook", "Operation: Cinder", "Project Stardust", "Operation: Hope"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_medium_33", "categoryId": "sw_medium", "text": "What is the species of the character Greedo, who Han Solo famously shoots in the cantina?",
+      "answers": ["Trandoshan", "Duros", "Ithorian", "Rodian"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_medium_34", "categoryId": "sw_medium", "text": "What is the name of the 'Child' in 'The Mandalorian'?",
+      "answers": ["Baby Yoda", "The Asset", "Grogu", "It is never named"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_medium_35", "categoryId": "sw_medium", "text": "Which Jedi Master sits on the Jedi Council but is of the same species as Yoda?",
+      "answers": ["Yaddle", "Oppo Rancisis", "Even Piell", "Yarael Poof"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_36", "categoryId": "sw_medium", "text": "What is the name of the planet where the Rebel Alliance has its base in 'The Empire Strikes Back'?",
+      "answers": ["Yavin 4", "Hoth", "Endor", "Dantooine"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_medium_37", "categoryId": "sw_medium", "text": "Who is the leader of the Knights of Ren?",
+      "answers": ["Kylo Ren", "Snoke", "Palpatine", "The Ren"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_38", "categoryId": "sw_medium", "text": "What is the name of the ship that Anakin and Obi-Wan crash-land on Coruscant in 'Revenge of the Sith'?",
+      "answers": ["The Invisible Hand", "The Malevolence", "The Resolute", "The Negotiator"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_39", "categoryId": "sw_medium", "text": "What is the name of the leader of the Geonosians?",
+      "answers": ["Poggle the Lesser", "Wat Tambor", "San Hill", "Shu Mai"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_40", "categoryId": "sw_medium", "text": "What is the name of the senator from Alderaan who is a key figure in the Rebel Alliance?",
+      "answers": ["Mon Mothma", "Bail Organa", "Padmé Amidala", "Fang Zar"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_medium_41", "categoryId": "sw_medium", "text": "What is the name of the Imperial officer who gives the order to fire on the fleeing Tantive IV?",
+      "answers": ["Captain Needa", "Admiral Ozzel", "Captain Piett", "Commander Praji"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_medium_42", "categoryId": "sw_medium", "text": "What is the name of the ancient dark side weapon that the Sith seek in 'The Rise of Skywalker'?",
+      "answers": ["The Darksaber", "A Sith Holocron", "The Wayfinder", "A Kyber Crystal"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_medium_43", "categoryId": "sw_medium", "text": "What is the name of the planet where Rey finds Luke Skywalker in 'The Force Awakens'?",
+      "answers": ["Ahch-To", "Crait", "Takodana", "Pasaana"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_44", "categoryId": "sw_medium", "text": "What is the name of the leader of the Cloud Riders in 'Solo: A Star Wars Story'?",
+      "answers": ["Dryden Vos", "Enfys Nest", "Qi'ra", "Tobias Beckett"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_medium_45", "categoryId": "sw_medium", "text": "What is the name of the Jedi Knight who was killed by Darth Maul on Naboo?",
+      "answers": ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Mace Windu", "Kit Fisto"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_46", "categoryId": "sw_medium", "text": "What is the name of the planet where the final battle takes place in 'The Rise of Skywalker'?",
+      "answers": ["Exegol", "Ajan Kloss", "Kef Bir", "Pasaana"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_medium_47", "categoryId": "sw_medium", "text": "What is the name of the Twi'lek pilot who is a member of the Spectres in 'Star Wars Rebels'?",
+      "answers": ["Sabine Wren", "Hera Syndulla", "Kanan Jarrus", "Zeb Orrelios"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_medium_48", "categoryId": "sw_medium", "text": "What is the name of the Imperial Grand Admiral known for his brilliant strategies and appreciation of art?",
+      "answers": ["Grand Moff Tarkin", "Director Krennic", "Grand Admiral Thrawn", "Admiral Piett"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_medium_49", "categoryId": "sw_medium", "text": "What is the name of the former stormtrooper who helps the heroes in 'The Mandalorian'?",
+      "answers": ["Cara Dune", "Greef Karga", "Migs Mayfeld", "Boba Fett"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_medium_50", "categoryId": "sw_medium", "text": "What is the name of the crystal that powers the Death Star's superlaser?",
+      "answers": ["Kyber crystals", "Tibanna gas", "Coaxium", "Aurodium"], "correctAnswerIndex": 0
+    },
+    {
       "id": "sw_hard_1", "categoryId": "sw_hard", "text": "What is the name of the Sith Lord who established the 'Rule of Two'?",
       "answers": ["Darth Revan", "Darth Bane", "Darth Plagueis", "Darth Malak"], "correctAnswerIndex": 1
     },
@@ -745,6 +1145,86 @@
     {
       "id": "sw_hard_30", "categoryId": "sw_hard", "text": "Who was the pilot of Red Five before Luke Skywalker took the callsign?",
       "answers": ["Jek Porkins", "Garven Dreis", "Biggs Darklighter", "Pedrin Gaul"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_hard_31", "categoryId": "sw_hard", "text": "What is the name of the ancient species that the 'Mortis gods' belong to?",
+      "answers": ["The Celestials", "The Ones", "The Rakata", "The Whills"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_hard_32", "categoryId": "sw_hard", "text": "What is the name of the planet where the first Jedi Temple was located?",
+      "answers": ["Tython", "Ossus", "Coruscant", "Ahch-To"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_hard_33", "categoryId": "sw_hard", "text": "What is the name of the secret Imperial facility on Scarif?",
+      "answers": ["The Citadel", "The Spire", "The Vault", "The Maw"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_34", "categoryId": "sw_hard", "text": "What is the name of the Yuuzhan Vong's living starships in Legends?",
+      "answers": ["Koros-Strohna", "Yorik-Strohna", "Vua'Strohna", "Shree-Strohna"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_hard_35", "categoryId": "sw_hard", "text": "Who was the founder of the Inquisitorius program?",
+      "answers": ["Darth Vader", "Emperor Palpatine", "Grand Moff Tarkin", "The Grand Inquisitor"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_hard_36", "categoryId": "sw_hard", "text": "What is the name of the force-sensitive tree that was located in the Jedi Temple on Coruscant?",
+      "answers": ["The Great Tree", "The Force Tree", "The Uneti Tree", "The Giving Tree"], "correctAnswerIndex": 2
+    },
+    {
+      "id": "sw_hard_37", "categoryId": "sw_hard", "text": "What is the name of the planet where the battle between Obi-Wan Kenobi and General Grievous took place?",
+      "answers": ["Mygeeto", "Felucia", "Saleucami", "Utapau"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_hard_38", "categoryId": "sw_hard", "text": "What is the name of the Mandalorian who created the Darksaber?",
+      "answers": ["Tarre Vizsla", "Pre Vizsla", "Paz Vizsla", "Fenn Rau"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_39", "categoryId": "sw_hard", "text": "What is the name of the species that pilots the Separatist droid control ships?",
+      "answers": ["Neimoidians", "Skakoans", "Muuns", "Koorivars"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_40", "categoryId": "sw_hard", "text": "What is the name of the planet where the Starkiller Base was constructed?",
+      "answers": ["Ilum", "D'Qar", "Crait", "Takodana"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_41", "categoryId": "sw_hard", "text": "What is the name of the ancient Sith superweapon that could destroy stars?",
+      "answers": ["The Sun Crusher", "The Star Forge", "The Celestial Hammer", "The Galaxy Gun"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_42", "categoryId": "sw_hard", "text": "What is the name of the protocol that allows a droid to ignore its programming and kill its master?",
+      "answers": ["Protocol 66", "The Omega Protocol", "The Inhibitor Chip", "The Zillo Beast Protocol"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_hard_43", "categoryId": "sw_hard", "text": "What is the name of the Jedi Master who was known as the 'Lord of the Light'?",
+      "answers": ["Odan-Urr", "Ulic Qel-Droma", "Nomi Sunrider", "Thon"], "correctAnswerIndex": 3
+    },
+    {
+      "id": "sw_hard_44", "categoryId": "sw_hard", "text": "What is the name of the planet where the Rakatan Star Forge was located?",
+      "answers": ["Lehon", "Korriban", "Dromund Kaas", "Ziost"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_45", "categoryId": "sw_hard", "text": "What is the name of the Sith Lord who was known as the 'Lord of Hunger'?",
+      "answers": ["Darth Nihilus", "Darth Sion", "Darth Traya", "Darth Malak"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_46", "categoryId": "sw_hard", "text": "What is the name of the planet where the Amaxine warriors were from?",
+      "answers": ["Amaxine", "Tasu Leech", "Kanjiklub", "The Guavian Death Gang"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_47", "categoryId": "sw_hard", "text": "What is the name of the secret organization that controlled both the Republic and the Separatists during the Clone Wars?",
+      "answers": ["The Banking Clan", "The Sith", "The Trade Federation", "The Techno Union"], "correctAnswerIndex": 1
+    },
+    {
+      "id": "sw_hard_48", "categoryId": "sw_hard", "text": "What is the name of the planet where the 'Mortis' arc takes place in 'The Clone Wars'?",
+      "answers": ["Mortis", "Lola Sayu", "Umbara", "Kiros"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_49", "categoryId": "sw_hard", "text": "What is the name of the species that is native to the planet Utapau?",
+      "answers": ["Pau'ans and Utai", "Talz and Ortolans", "Lurmen and Twi'leks", "Iktotchi and Cereans"], "correctAnswerIndex": 0
+    },
+    {
+      "id": "sw_hard_50", "categoryId": "sw_hard", "text": "What is the name of the Jedi Master who created the first Holocron?",
+      "answers": ["Ood Bnar", "Arca Jeth", "Gnost-Dural", "Ulic Qel-Droma"], "correctAnswerIndex": 2
     }
   ]
 } 
