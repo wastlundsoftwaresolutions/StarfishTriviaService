@@ -45,9 +45,1071 @@
     {
       "id": "dc",
       "name": "DC Comics"
+    },
+    {
+      "id": "stargate",
+      "name": "Stargate"
+    },
+    {
+      "id": "star_trek",
+      "name": "Star Trek"
+    },
+    {
+      "id": "potc",
+      "name": "Pirates of the Caribbean"
     }
   ],
   "questions": [
+    {
+      "id": "stargate_1",
+      "categoryId": "stargate",
+      "text": "What does the acronym SGC stand for?",
+      "answers": ["Stargate Command", "Space Gate Central", "Stargate Center", "System Genesis Command"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_2",
+      "categoryId": "stargate",
+      "text": "Who is the original leader of the SG-1 team?",
+      "answers": ["Daniel Jackson", "Samantha Carter", "Jack O'Neill", "Teal'c"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_3",
+      "categoryId": "stargate",
+      "text": "What is the name of the primary alien antagonists in Stargate SG-1?",
+      "answers": ["The Asgard", "The Nox", "The Goa'uld", "The Replicators"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_4",
+      "categoryId": "stargate",
+      "text": "What is the home planet of the Asgard in the Ida galaxy?",
+      "answers": ["Orilla", "Hala", "Othala", "Valhalla"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_5",
+      "categoryId": "stargate",
+      "text": "Teal'c is a member of which race?",
+      "answers": ["Tok'ra", "Human", "Goa'uld", "Jaffa"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_6",
+      "categoryId": "stargate",
+      "text": "What powerful energy source, created by the Ancients, is used to power city-ships and outposts?",
+      "answers": ["A Naquadah Reactor", "A Cold Fusion Core", "A Zero Point Module (ZPM)", "A Staff Weapon Power Coil"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_7",
+      "categoryId": "stargate",
+      "text": "In which galaxy is the city-ship of Atlantis located?",
+      "answers": ["Andromeda", "Triangulum", "Ida", "Pegasus"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_8",
+      "categoryId": "stargate",
+      "text": "Who is the initial military commander of the Atlantis expedition?",
+      "answers": ["John Sheppard", "Evan Lorne", "Marshall Sumner", "Abraham Ellis"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_9",
+      "categoryId": "stargate",
+      "text": "What is the name of the vampiric, hive-based species that feeds on humans in the Pegasus galaxy?",
+      "answers": ["The Genii", "The Travelers", "The Wraith", "The Asurans"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_10",
+      "categoryId": "stargate",
+      "text": "What is the name of the Ancient spaceship the characters in 'Stargate Universe' are stranded on?",
+      "answers": ["Odyssey", "Destiny", "Prometheus", "Aurora"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_11",
+      "categoryId": "stargate",
+      "text": "Dr. Daniel Jackson is an expert in what field?",
+      "answers": ["Astrophysics", "Xenobiology", "Archaeology and Linguistics", "Theoretical Physics"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_12",
+      "categoryId": "stargate",
+      "text": "What is the name of the Jaffa homeworld?",
+      "answers": ["Chulak", "Dakara", "Abydos", "Langara"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_13",
+      "categoryId": "stargate",
+      "text": "Which character frequently uses the phrase 'Indeed'?",
+      "answers": ["Jack O'Neill", "Daniel Jackson", "Samantha Carter", "Teal'c"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_14",
+      "categoryId": "stargate",
+      "text": "The Goa'uld who opposes the System Lords and fights with the Tau'ri is part of which group?",
+      "answers": ["The Jaffa Rebellion", "The Lucian Alliance", "The Tok'ra", "The Genii"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_15",
+      "categoryId": "stargate",
+      "text": "What is the designation of Earth's first interstellar battlecruiser?",
+      "answers": ["BC-303 (Prometheus)", "BC-304 (Daedalus)", "F-302", "Puddle Jumper"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_16",
+      "categoryId": "stargate",
+      "text": "Who becomes the leader of the SGC after General Hammond?",
+      "answers": ["Jack O'Neill", "Hank Landry", "George Hammond", "Elizabeth Weir"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_17",
+      "categoryId": "stargate",
+      "text": "What is the name of the self-replicating, block-based machines that threaten the Asgard and the Milky Way?",
+      "answers": ["The Borg", "The Cybermen", "The Replicators", "The Asurans"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_18",
+      "categoryId": "stargate",
+      "text": "Which Ancient is known for ascending and occasionally helping SG-1?",
+      "answers": ["Merlin", "Ganos Lal (Morgan Le Fay)", "Oma Desala", "Janus"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_19",
+      "categoryId": "stargate",
+      "text": "What is the real name of the race that built the Stargates?",
+      "answers": ["The Ancients (Alterans)", "The Furlings", "The Nox", "The Asgard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_20",
+      "categoryId": "stargate",
+      "text": "In 'Stargate Universe', who is the civilian leader in charge of the expedition?",
+      "answers": ["Everett Young", "Nicholas Rush", "Camile Wray", "Eli Wallace"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_21",
+      "categoryId": "stargate",
+      "text": "What is the home planet of the Unas?",
+      "answers": ["P3X-888", "Abydos", "Langara", "Tollana"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_22",
+      "categoryId": "stargate",
+      "text": "What is the symbol on Teal'c's forehead a mark of?",
+      "answers": ["Apophis", "Ra", "Anubis", "Cronus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_23",
+      "categoryId": "stargate",
+      "text": "Dr. Rodney McKay is a brilliant but arrogant scientist in which series?",
+      "answers": ["Stargate SG-1", "Stargate Atlantis", "Stargate Universe", "Stargate Origins"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_24",
+      "categoryId": "stargate",
+      "text": "What is the primary weapon of a Jaffa warrior?",
+      "answers": ["Zat'nik'tel", "Staff weapon", "Intar", "P-90"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_25",
+      "categoryId": "stargate",
+      "text": "The Ori are a race of ascended beings who demand what from their followers?",
+      "answers": ["Sacrifice", "Obedience", "Worship", "Tribute"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_26",
+      "categoryId": "stargate",
+      "text": "What does a Zat'nik'tel do on the first, second, and third shot?",
+      "answers": ["Stun, Kill, Disintegrate", "Wound, Stun, Kill", "Kill, Stun, Revive", "Disintegrate, Stun, Kill"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_27",
+      "categoryId": "stargate",
+      "text": "Who is the leader of the Genii in the Pegasus galaxy?",
+      "answers": ["Kolya", "Ladon Radim", "Cowen", "Sora"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_28",
+      "categoryId": "stargate",
+      "text": "Vala Mal Doran was once the human host for which Goa'uld?",
+      "answers": ["Osiris", "Ba'al", "Nirrti", "Qetesh"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_29",
+      "categoryId": "stargate",
+      "text": "The address for Earth is composed of how many chevrons?",
+      "answers": ["6", "7", "8", "9"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_30",
+      "categoryId": "stargate",
+      "text": "What device allows for long-distance communication by swapping consciousness with another person?",
+      "answers": ["The Quantum Mirror", "The Communication Stones", "The Tollan Communicator", "The FTL Radio"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_31",
+      "categoryId": "stargate",
+      "text": "Who is the leader of the Lucian Alliance?",
+      "answers": ["Netan", "Vala Mal Doran", "Jolan", "Worrel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_32",
+      "categoryId": "stargate",
+      "text": "What is the name of the SGC's off-world research base established in the series?",
+      "answers": ["Alpha Site", "Beta Site", "Gamma Site", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_33",
+      "categoryId": "stargate",
+      "text": "Which character from 'Stargate Atlantis' is a Satedan?",
+      "answers": ["John Sheppard", "Teyla Emmagan", "Aiden Ford", "Ronon Dex"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_34",
+      "categoryId": "stargate",
+      "text": "What is the name of the small, puddle-like spaceships used by the Atlantis team?",
+      "answers": ["Puddle Jumpers", "Gateships", "Scouts", "Both A and B"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_35",
+      "categoryId": "stargate",
+      "text": "Who is the last of the Goa'uld System Lords to be defeated?",
+      "answers": ["Anubis", "Apophis", "Sokar", "Ba'al"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_36",
+      "categoryId": "stargate",
+      "text": "What is the name of the child of Skaara and the Goa'uld Klorel?",
+      "answers": ["Shifu", "Rya'c", "Harsesis", "Apophis Jr."],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_37",
+      "categoryId": "stargate",
+      "text": "What element is the key component in building Stargates and other advanced technology?",
+      "answers": ["Trinium", "Naquadah", "Neutronium", "Iridium"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_38",
+      "categoryId": "stargate",
+      "text": "Where is Stargate Command located?",
+      "answers": ["Area 51, Nevada", "Cheyenne Mountain, Colorado", "Wright-Patterson AFB, Ohio", "The Pentagon, Virginia"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_39",
+      "categoryId": "stargate",
+      "text": "Who composed the main theme music for 'Stargate SG-1'?",
+      "answers": ["Joel Goldsmith", "David Arnold", "Jerry Goldsmith", "Bear McCreary"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_40",
+      "categoryId": "stargate",
+      "text": "Which ancient civilization does the planet Tollana resemble?",
+      "answers": ["Roman", "Greek", "Egyptian", "Norse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "stargate_41",
+      "categoryId": "stargate",
+      "text": "The Replicators in the Pegasus Galaxy are also known by what name?",
+      "answers": ["The Brotherhood", "The Asurans", "The Celestials", "The Mecha"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_42",
+      "categoryId": "stargate",
+      "text": "What is the name of the planet where the SGC finds the Antarctic Stargate?",
+      "answers": ["Abydos", "Heliopolis", "Praclarush Taonas", "P3X-984"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_43",
+      "categoryId": "stargate",
+      "text": "What is the designation for the Earth-built fighter craft?",
+      "answers": ["F-16", "X-301", "F-302", "X-303"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_44",
+      "categoryId": "stargate",
+      "text": "Who is the leader of the Nox?",
+      "answers": ["Lya", "Ohper", "Anteaus", "They have no leader"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_45",
+      "categoryId": "stargate",
+      "text": "What is the name of the device that can cure almost any ailment, invented by the Goa'uld?",
+      "answers": ["The Healing Cube", "The Sarcophagus", "The Regeneration Chamber", "The Life Crystal"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_46",
+      "categoryId": "stargate",
+      "text": "What is the name of the Athosian leader and friend of the Atlantis team?",
+      "answers": ["Kanaan", "Halling", "Teyla Emmagan", "Jinto"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "stargate_47",
+      "categoryId": "stargate",
+      "text": "Which SG-1 member has a tattoo of a serpent on their arm?",
+      "answers": ["Jack O'Neill", "Daniel Jackson", "Samantha Carter", "No one"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_48",
+      "categoryId": "stargate",
+      "text": "In 'Stargate Universe', what is the purpose of the ship Destiny?",
+      "answers": ["To colonize new worlds", "To follow a ship that seeded Stargates", "To escape a dying galaxy", "To find the source of a mysterious signal"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "stargate_49",
+      "categoryId": "stargate",
+      "text": "What is the name of the 'fifth race' in the ancient alliance?",
+      "answers": ["The Asgard", "The Furlings", "The Nox", "The Ancients"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "stargate_50",
+      "categoryId": "stargate",
+      "text": "Which System Lord was the main villain in the original 'Stargate' movie?",
+      "answers": ["Apophis", "Anubis", "Ba'al", "Ra"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_1",
+      "categoryId": "star_trek",
+      "text": "Who is the original captain of the starship Enterprise (NCC-1701)?",
+      "answers": ["Christopher Pike", "James T. Kirk", "Robert April", "Jonathan Archer"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_2",
+      "categoryId": "star_trek",
+      "text": "What is the guiding principle of Starfleet that prohibits interference with less developed cultures?",
+      "answers": ["The Omega Directive", "The Prime Directive", "General Order 1", "The First Commandment"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_3",
+      "categoryId": "star_trek",
+      "text": "Which alien race is known for their logical philosophy and pointed ears?",
+      "answers": ["Klingons", "Romulans", "Vulcans", "Andorians"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_4",
+      "categoryId": "star_trek",
+      "text": "Who is the android officer who serves aboard the Enterprise-D in 'The Next Generation'?",
+      "answers": ["Lore", "Data", "B-4", "Lal"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_5",
+      "categoryId": "star_trek",
+      "text": "The Borg are a cyborg collective with what famous catchphrase?",
+      "answers": ["'We are the Borg.'", "'Resistance is futile.'", "'You will be assimilated.'", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_6",
+      "categoryId": "star_trek",
+      "text": "What is the name of the space station that is the primary setting for 'Deep Space Nine'?",
+      "answers": ["Deep Space 9", "Starbase 375", "Empok Nor", "Terok Nor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_7",
+      "categoryId": "star_trek",
+      "text": "Which quadrant of the galaxy is the USS Voyager stranded in?",
+      "answers": ["Alpha Quadrant", "Beta Quadrant", "Gamma Quadrant", "Delta Quadrant"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_8",
+      "categoryId": "star_trek",
+      "text": "Who is the captain of the USS Voyager?",
+      "answers": ["Benjamin Sisko", "Jean-Luc Picard", "Kathryn Janeway", "Erica Ortegas"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_9",
+      "categoryId": "star_trek",
+      "text": "What is the name of the Klingon homeworld?",
+      "answers": ["Romulus", "Cardassia Prime", "Qo'noS", "Vulcan"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_10",
+      "categoryId": "star_trek",
+      "text": "What is the name of the first warp-capable Earth ship in 'Star Trek: First Contact'?",
+      "answers": ["The Phoenix", "The Enterprise", "The Intrepid", "The Conestoga"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_11",
+      "categoryId": "star_trek",
+      "text": "What is the registry number of the USS Enterprise in 'The Original Series'?",
+      "answers": ["NCC-1701-D", "NCC-1701", "NX-01", "NCC-74656"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_12",
+      "categoryId": "star_trek",
+      "text": "Who is the first officer and best friend of Captain Kirk?",
+      "answers": ["Dr. McCoy", "Scotty", "Sulu", "Spock"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_13",
+      "categoryId": "star_trek",
+      "text": "The main antagonists in 'Deep Space Nine' are from the Gamma Quadrant and are called what?",
+      "answers": ["The Cardassians", "The Romulans", "The Dominion", "The Breen"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_14",
+      "categoryId": "star_trek",
+      "text": "Which character is a former Borg drone who joins the crew of USS Voyager?",
+      "answers": ["The Doctor", "Neelix", "Seven of Nine", "Tuvok"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_15",
+      "categoryId": "star_trek",
+      "text": "Who is the captain of the first Starship Enterprise (NX-01) in 'Star Trek: Enterprise'?",
+      "answers": ["Jonathan Archer", "Jeffery Hunter", "Robert April", "Matthew Decker"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_16",
+      "categoryId": "star_trek",
+      "text": "What is the name of the Klingon Chancellor who seeks peace with the Federation in 'Star Trek VI'?",
+      "answers": ["Gorkon", "Martok", "Gowron", "Chang"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_17",
+      "categoryId": "star_trek",
+      "text": "In 'The Next Generation', what is the name of the omnipotent being who frequently tests humanity?",
+      "answers": ["The Traveler", "The Nagus", "Q", "The Caretaker"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_18",
+      "categoryId": "star_trek",
+      "text": "What is the standard greeting and salute of the Vulcan people?",
+      "answers": ["'Peace and long life'", "'Live long and prosper'", "'Glory to you and your house'", "'My honor is my life'"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_19",
+      "categoryId": "star_trek",
+      "text": "Which species is known for their obsession with profit and their 'Rules of Acquisition'?",
+      "answers": ["The Pakleds", "The Ferengi", "The Breen", "The Bolians"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_20",
+      "categoryId": "star_trek",
+      "text": "What is the name of Worf's son?",
+      "answers": ["Martok", "Kurn", "Alexander Rozhenko", "Gowron"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_21",
+      "categoryId": "star_trek",
+      "text": "What is a 'holodeck'?",
+      "answers": ["A type of engine", "A cargo bay", "An energy-matter simulation room", "The main bridge"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_22",
+      "categoryId": "star_trek",
+      "text": "Who is the chief engineer of the Enterprise-D?",
+      "answers": ["Miles O'Brien", "Reginald Barclay", "Geordi La Forge", "B'Elanna Torres"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_23",
+      "categoryId": "star_trek",
+      "text": "The Cardassians occupied which planet for many years before the events of 'Deep Space Nine'?",
+      "answers": ["Bajor", "Vulcan", "Ferenginar", "Trill"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_24",
+      "categoryId": "star_trek",
+      "text": "What is the name of the ship's counselor aboard the Enterprise-D?",
+      "answers": ["Beverly Crusher", "Deanna Troi", "Natasha Yar", "Ro Laren"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_25",
+      "categoryId": "star_trek",
+      "text": "What is the name of the test for Starfleet cadets that is designed to be unwinnable?",
+      "answers": ["The Picard Maneuver", "The Starfleet Marathon", "The Kobayashi Maru", "The Vulcan Mastery Test"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_26",
+      "categoryId": "star_trek",
+      "text": "What is the name of the shapeshifting security chief on Deep Space 9?",
+      "answers": ["Quark", "Garak", "Odo", "Weyoun"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_27",
+      "categoryId": "star_trek",
+      "text": "Which film features the crew of the original Enterprise traveling back in time to 1986 San Francisco?",
+      "answers": ["Star Trek: The Motion Picture", "Star Trek II: The Wrath of Khan", "Star Trek III: The Search for Spock", "Star Trek IV: The Voyage Home"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_28",
+      "categoryId": "star_trek",
+      "text": "What is the name of the Romulan ship that can cloak or become invisible?",
+      "answers": ["Bird-of-Prey", "Warbird", "D'deridex-class", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_29",
+      "categoryId": "star_trek",
+      "text": "The 'Neutral Zone' is a buffer of space between the Federation and which other power?",
+      "answers": ["The Klingon Empire", "The Romulan Star Empire", "The Cardassian Union", "The Breen Confederacy"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_30",
+      "categoryId": "star_trek",
+      "text": "Who is the main antagonist in the film 'Star Trek II: The Wrath of Khan'?",
+      "answers": ["General Chang", "Kruge", "Khan Noonien Singh", "Sybok"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_31",
+      "categoryId": "star_trek",
+      "text": "Which character in 'Star Trek: Discovery' is Spock's adopted sister?",
+      "answers": ["Saru", "Sylvia Tilly", "Michael Burnham", "Philippa Georgiou"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_32",
+      "categoryId": "star_trek",
+      "text": "What is the name of Captain Picard's signature beverage order?",
+      "answers": ["Coffee, black", "Tea, Earl Grey, hot", "Raktajino", "Kanar"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_33",
+      "categoryId": "star_trek",
+      "text": "What is the name of the wormhole near Deep Space 9?",
+      "answers": ["The Barzan Wormhole", "The Subspace Corridor", "The Bajoran Wormhole", "The Celestial Temple"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_34",
+      "categoryId": "star_trek",
+      "text": "In 'Star Trek: Picard', Jean-Luc has retired from Starfleet and lives where?",
+      "answers": ["On Earth, in France", "On Vulcan", "On Risa", "On Nepenthe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "star_trek_35",
+      "categoryId": "star_trek",
+      "text": "What species is Neelix, the morale officer and cook on USS Voyager?",
+      "answers": ["Ocampan", "Talaxian", "Kazon", "Hirogen"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_36",
+      "categoryId": "star_trek",
+      "text": "What is the name of the emergency medical program on USS Voyager?",
+      "answers": ["The EMH", "The Doctor", "The Medical Hologram", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_37",
+      "categoryId": "star_trek",
+      "text": "What is the traditional Klingon weapon of honor?",
+      "answers": ["The D'k tahg", "The Mek'leth", "The Bat'leth", "The Disruptor"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_38",
+      "categoryId": "star_trek",
+      "text": "What is the title of the leader of the Ferengi Alliance?",
+      "answers": ["The First Clerk", "The Chief Executive", "The Grand Nagus", "The Prime Minister"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_39",
+      "categoryId": "star_trek",
+      "text": "Who is the chief medical officer on the original Enterprise?",
+      "answers": ["Dr. Phlox", "Dr. Crusher", "Dr. Pulaski", "Dr. Leonard 'Bones' McCoy"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_40",
+      "categoryId": "star_trek",
+      "text": "The United Federation of Planets was founded in what city on Earth?",
+      "answers": ["Paris", "New York", "San Francisco", "London"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_41",
+      "categoryId": "star_trek",
+      "text": "What is the name of the 'mirror' universe where the Federation is a brutal empire?",
+      "answers": ["The Dark Universe", "The Terran Universe", "The Shadow Universe", "The Prime Universe"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_42",
+      "categoryId": "star_trek",
+      "text": "Who is the first officer of the Enterprise-D, known for his beard and trombone playing?",
+      "answers": ["Data", "Geordi La Forge", "Worf", "William T. Riker"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "star_trek_43",
+      "categoryId": "star_trek",
+      "text": "What is the name of the race of shapeshifters who founded the Dominion?",
+      "answers": ["The Vorta", "The Jem'Hadar", "The Founders", "The Changelings"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_44",
+      "categoryId": "star_trek",
+      "text": "Which character in 'Star Trek: Lower Decks' is an Ensign known for being 'bad at Starfleet stuff'?",
+      "answers": ["Beckett Mariner", "Brad Boimler", "D'Vana Tendi", "Sam Rutherford"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_45",
+      "categoryId": "star_trek",
+      "text": "What is the name of the Vulcan ritual where they suppress all emotion?",
+      "answers": ["Pon farr", "Kolinahr", "Tal-shaya", "Fal-tor-pan"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_46",
+      "categoryId": "star_trek",
+      "text": "Who created the 'Star Trek' franchise?",
+      "answers": ["George Lucas", "Isaac Asimov", "Gene Roddenberry", "J.J. Abrams"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "star_trek_47",
+      "categoryId": "star_trek",
+      "text": "What color uniform do command division officers typically wear in 'The Original Series' and 'The Next Generation'?",
+      "answers": ["Blue", "Gold/Yellow", "Red", "Green"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_48",
+      "categoryId": "star_trek",
+      "text": "Who is the main villain in 'Star Trek Into Darkness'?",
+      "answers": ["Nero", "Khan", "Krall", "Admiral Marcus"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_49",
+      "categoryId": "star_trek",
+      "text": "What are the celestial beings who live in the Bajoran wormhole called by the Bajorans?",
+      "answers": ["The Founders", "The Prophets", "The Caretakers", "The Watchers"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "star_trek_50",
+      "categoryId": "star_trek",
+      "text": "What is the name of the device used for transporting people from one location to another?",
+      "answers": ["Replicator", "Transporter", "Warp Core", "Deflector Dish"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_1",
+      "categoryId": "potc",
+      "text": "What is the name of Captain Jack Sparrow's ship?",
+      "answers": ["The Flying Dutchman", "The Queen Anne's Revenge", "The Black Pearl", "The Interceptor"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_2",
+      "categoryId": "potc",
+      "text": "Who is the blacksmith who teams up with Jack Sparrow to rescue Elizabeth Swann?",
+      "answers": ["James Norrington", "Will Turner", "Hector Barbossa", "Joshamee Gibbs"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_3",
+      "categoryId": "potc",
+      "text": "What is the curse on Captain Barbossa and his crew in the first film?",
+      "answers": ["They cannot die and are skeletons in moonlight", "They are slowly turning into fish-men", "They are immortal but cannot feel pleasure", "They are bound to their ship forever"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_4",
+      "categoryId": "potc",
+      "text": "Who is the fearsome captain of the Flying Dutchman?",
+      "answers": ["Blackbeard", "Salazar", "Davy Jones", "Lord Cutler Beckett"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_5",
+      "categoryId": "potc",
+      "text": "What is contained within the Dead Man's Chest?",
+      "answers": ["Gold and jewels", "Davy Jones's beating heart", "The Trident of Poseidon", "A map to the Fountain of Youth"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_6",
+      "categoryId": "potc",
+      "text": "What is the name of the sea goddess who was imprisoned in a human body?",
+      "answers": ["Athena", "Amphitrite", "Calypso", "Tethys"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_7",
+      "categoryId": "potc",
+      "text": "What is the name of Barbossa's monkey?",
+      "answers": ["Jack", "Spike", "Cotton", "Hector"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_8",
+      "categoryId": "potc",
+      "text": "To break the Aztec curse, what must the pirates do?",
+      "answers": ["Return all the cursed gold", "Sacrifice a pirate", "Return all the gold and repay a blood debt", "Find a magic amulet"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_9",
+      "categoryId": "potc",
+      "text": "What is Jack Sparrow's magical compass supposed to point to?",
+      "answers": ["North", "The nearest treasure", "The thing the holder wants most", "The Black Pearl"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_10",
+      "categoryId": "potc",
+      "text": "Who becomes the new captain of the Flying Dutchman at the end of 'At World's End'?",
+      "answers": ["Jack Sparrow", "Davy Jones", "Will Turner", "James Norrington"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_11",
+      "categoryId": "potc",
+      "text": "What is the name of the legendary sea monster controlled by Davy Jones?",
+      "answers": ["The Leviathan", "The Hydra", "The Kraken", "The Scylla"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_12",
+      "categoryId": "potc",
+      "text": "Who is the Pirate Lord of the Caspian Sea?",
+      "answers": ["Jack Sparrow", "Sao Feng", "Hector Barbossa", "Chevalle"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_13",
+      "categoryId": "potc",
+      "text": "What is the name of the primary antagonist in 'On Stranger Tides'?",
+      "answers": ["Davy Jones", "Salazar", "Lord Beckett", "Blackbeard"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_14",
+      "categoryId": "potc",
+      "text": "What is the main quest in 'On Stranger Tides'?",
+      "answers": ["To find the Dead Man's Chest", "To find the Fountain of Youth", "To find the Trident of Poseidon", "To rescue Calypso"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_15",
+      "categoryId": "potc",
+      "text": "What is the name of the main antagonist in 'Dead Men Tell No Tales'?",
+      "answers": ["Captain Brand", "Captain Salazar", "Captain Blackheart", "Captain Morgan"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_16",
+      "categoryId": "potc",
+      "text": "What is Will Turner's father's nickname?",
+      "answers": ["Old Bill", "Bootstrap Bill", "Barnacle Bill", "Salty Bill"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_17",
+      "categoryId": "potc",
+      "text": "What is the name of the main British trading company trying to eliminate piracy?",
+      "answers": ["West India Trading Company", "British Imperial Trading", "East India Trading Company", "Royal Navy Trading Co."],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_18",
+      "categoryId": "potc",
+      "text": "Which character has a parrot that speaks for him?",
+      "answers": ["Pintel", "Ragetti", "Gibbs", "Cotton"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_19",
+      "categoryId": "potc",
+      "text": "What is the human name of the sea goddess Calypso?",
+      "answers": ["Anamaria", "Giselle", "Tia Dalma", "Scarlett"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_20",
+      "categoryId": "potc",
+      "text": "How is the Brethren Court of Pirate Lords summoned?",
+      "answers": ["By lighting a beacon", "By sounding a horn", "By using the Pieces of Eight", "By a magical map"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_21",
+      "categoryId": "potc",
+      "text": "What is Jack Sparrow's father's name?",
+      "answers": ["Captain Teague", "Captain Jack Sr.", "Captain Edward", "Captain Bill"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_22",
+      "categoryId": "potc",
+      "text": "What is the name of the British Royal Navy officer who is a rival to both Will and Jack?",
+      "answers": ["Lieutenant Groves", "Admiral Croft", "Commodore Norrington", "Captain Mullroy"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_23",
+      "categoryId": "potc",
+      "text": "What does Jack Sparrow famously ask? 'But why is the ___ gone?'",
+      "answers": ["Gold", "Rum", "Ship", "Food"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_24",
+      "categoryId": "potc",
+      "text": "In 'At World's End', who is elected the Pirate King?",
+      "answers": ["Hector Barbossa", "Sao Feng", "Jack Sparrow", "Elizabeth Swann"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_25",
+      "categoryId": "potc",
+      "text": "What is the duty of the captain of the Flying Dutchman?",
+      "answers": ["To rule the seas", "To ferry souls lost at sea to the next world", "To protect the ocean's treasures", "To sink any ship they find"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_26",
+      "categoryId": "potc",
+      "text": "What is the name of Blackbeard's magical sword?",
+      "answers": ["The Sword of Triton", "The Sword of Cortés", "The Sword of Poseidon", "The Sword of Calypso"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_27",
+      "categoryId": "potc",
+      "text": "What item is needed to find the way to Davy Jones' Locker?",
+      "answers": ["A magical compass", "A star chart", "A navigational chart", "A magical telescope"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_28",
+      "categoryId": "potc",
+      "text": "Who kills Lord Cutler Beckett?",
+      "answers": ["Jack Sparrow", "His ship is destroyed by the Black Pearl and Flying Dutchman", "Davy Jones", "Will Turner"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_29",
+      "categoryId": "potc",
+      "text": "What is the name of the main port town for pirates?",
+      "answers": ["Port Royal", "Singapore", "Tortuga", "Shipwreck Cove"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_30",
+      "categoryId": "potc",
+      "text": "What is the 'black spot' a summons for?",
+      "answers": ["A duel with another pirate", "A debt to be paid to Davy Jones", "A meeting of the Brethren Court", "Execution for breaking the Pirate Code"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_31",
+      "categoryId": "potc",
+      "text": "What is the name of the character with a wooden eye?",
+      "answers": ["Pintel", "Gibbs", "Ragetti", "Cotton"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_32",
+      "categoryId": "potc",
+      "text": "What must one do to become immortal at the Fountain of Youth?",
+      "answers": ["Drink the water", "Drink from two chalices, one with a mermaid's tear", "Bathe in the water", "Sacrifice someone"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_33",
+      "categoryId": "potc",
+      "text": "Who is the daughter of Hector Barbossa?",
+      "answers": ["Angelica", "Syrena", "Carina Smyth", "Anna Maria"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_34",
+      "categoryId": "potc",
+      "text": "What is the Trident of Poseidon capable of doing?",
+      "answers": ["Controlling the weather", "Creating sea monsters", "Breaking every curse of the sea", "Granting immortality"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_35",
+      "categoryId": "potc",
+      "text": "What is the name of the fort where Elizabeth Swann lives at the beginning of the series?",
+      "answers": ["Fort Charles", "Fort Nassau", "Fort James", "Fort George"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_36",
+      "categoryId": "potc",
+      "text": "Who is Jack Sparrow looking for in 'On Stranger Tides' who is impersonating him?",
+      "answers": ["Blackbeard", "Angelica", "Anamaria", "The Spaniard"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_37",
+      "categoryId": "potc",
+      "text": "How did Captain Salazar and his crew become ghosts?",
+      "answers": ["A deal with Davy Jones", "Cursed by Calypso", "Tricked by a young Jack Sparrow into sailing into the Devil's Triangle", "A magical storm"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_38",
+      "categoryId": "potc",
+      "text": "What is the name of the Pirate Code's keeper?",
+      "answers": ["Captain Teague", "Captain Jack Sparrow", "Captain Barbossa", "Captain Sao Feng"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_39",
+      "categoryId": "potc",
+      "text": "What is the only thing that can kill an immortal pirate captain of the Flying Dutchman?",
+      "answers": ["A special sword", "Another immortal", "Destroying the ship", "Stabbing the captain's heart"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_40",
+      "categoryId": "potc",
+      "text": "Who is the son of Will Turner and Elizabeth Swann?",
+      "answers": ["Jack Turner", "Philip Swift", "Henry Turner", "William Turner III"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_41",
+      "categoryId": "potc",
+      "text": "What do the Nine Pieces of Eight actually turn out to be?",
+      "answers": ["Golden coins", "Random junk items", "Silver medallions", "Magical gems"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_42",
+      "categoryId": "potc",
+      "text": "Where is the Brethren Court's meeting place?",
+      "answers": ["Tortuga", "Port Royal", "Isla de Muerta", "Shipwreck Cove"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_43",
+      "categoryId": "potc",
+      "text": "What is the name of Blackbeard's ship?",
+      "answers": ["The Silent Mary", "The Endeavour", "The Queen Anne's Revenge", "The Cobra"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_44",
+      "categoryId": "potc",
+      "text": "What is the title given to the head of the East India Trading Company's forces?",
+      "answers": ["Admiral", "Lord", "Governor", "Commodore"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "potc_45",
+      "categoryId": "potc",
+      "text": "How does Jack Sparrow escape the gallows in the first film?",
+      "answers": ["He is rescued by the Black Pearl's crew", "He fights his way out", "Will Turner helps him escape", "He makes a deal with Norrington"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_46",
+      "categoryId": "potc",
+      "text": "What is Jack Sparrow's favorite drink?",
+      "answers": ["Grog", "Beer", "Wine", "Rum"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "potc_47",
+      "categoryId": "potc",
+      "text": "Which character says, 'They're not just pieces of eight, they're just pieces of junk'?",
+      "answers": ["Jack Sparrow", "Pintel", "Gibbs", "Ragetti"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "potc_48",
+      "categoryId": "potc",
+      "text": "What is the name of the missionary held captive on Blackbeard's ship?",
+      "answers": ["Philip Swift", "Theodore Groves", "Gillette", "Salaman"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_49",
+      "categoryId": "potc",
+      "text": "What happens to a person every ten years if they are captain of the Flying Dutchman?",
+      "answers": ["They get one day on land", "They must fight the Kraken", "They lose a piece of their soul", "The ship gets a new coat of paint"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "potc_50",
+      "categoryId": "potc",
+      "text": "What is Jack Sparrow's official title he insists on?",
+      "answers": ["Commodore", "Captain", "First Mate", "Admiral"],
+      "correctAnswerIndex": 1
+    },
     {
       "id": "lotr_1",
       "categoryId": "lotr",
