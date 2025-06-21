@@ -29,9 +29,1425 @@
     { "id": "disney_hard", "name": "Disney/Pixar (Hard)" },
     { "id": "history_easy", "name": "World History (Easy)" },
     { "id": "history_medium", "name": "World History (Medium)" },
-    { "id": "history_hard", "name": "World History (Hard)" }
+    { "id": "history_hard", "name": "World History (Hard)" },
+    {
+      "id": "lotr",
+      "name": "Lord of the Rings"
+    },
+    {
+      "id": "hg",
+      "name": "The Hunger Games"
+    },
+    {
+      "id": "marvel",
+      "name": "Marvel"
+    },
+    {
+      "id": "dc",
+      "name": "DC Comics"
+    }
   ],
   "questions": [
+    {
+      "id": "lotr_1",
+      "categoryId": "lotr",
+      "text": "What is the name of the wizard who guides the Fellowship of the Ring?",
+      "answers": ["Saruman", "Gandalf", "Radagast", "Alatar"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_2",
+      "categoryId": "lotr",
+      "text": "What is the name of Aragorn's sword, reforged from the shards of Narsil?",
+      "answers": ["Glamdring", "Orcrist", "Sting", "Andúril"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_3",
+      "categoryId": "lotr",
+      "text": "What creature does Gandalf fight on the Bridge of Khazad-dûm?",
+      "answers": ["A Dragon", "A Cave Troll", "An Orc", "A Balrog"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_4",
+      "categoryId": "lotr",
+      "text": "Who is the elf princess of Rivendell who is in love with Aragorn?",
+      "answers": ["Galadriel", "Arwen", "Tauriel", "Éowyn"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_5",
+      "categoryId": "lotr",
+      "text": "What is the name of Gollum's 'precious' possession?",
+      "answers": ["The Arkenstone", "A Silmaril", "The One Ring", "The Palantír"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_6",
+      "categoryId": "lotr",
+      "text": "Which two hobbits are captured by the Uruk-hai at the end of 'The Fellowship of the Ring'?",
+      "answers": ["Frodo and Sam", "Merry and Pippin", "Sam and Pippin", "Frodo and Merry"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_7",
+      "categoryId": "lotr",
+      "text": "What is the name of the giant spider that Frodo encounters in Mordor?",
+      "answers": ["Aragog", "Shelob", "Ungoliant", "Mirkwood Spider"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_8",
+      "categoryId": "lotr",
+      "text": "What is the name of the fortress of Sauron in Mordor?",
+      "answers": ["Minas Tirith", "Isengard", "Barad-dûr", "Helm's Deep"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_9",
+      "categoryId": "lotr",
+      "text": "What are the golden-leafed trees of Lothlórien called?",
+      "answers": ["Weirwood", "Ents", "Mallorn", "Huorns"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_10",
+      "categoryId": "lotr",
+      "text": "Who is the King of Rohan?",
+      "answers": ["Théoden", "Denethor", "Elrond", "Aragorn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "hg_1",
+      "categoryId": "hg",
+      "text": "Who is the main protagonist of 'The Hunger Games'?",
+      "answers": ["Primrose Everdeen", "Katniss Everdeen", "Gale Hawthorne", "Peeta Mellark"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_2",
+      "categoryId": "hg",
+      "text": "What is Katniss's home district?",
+      "answers": ["District 1", "District 4", "District 11", "District 12"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_3",
+      "categoryId": "hg",
+      "text": "What is Katniss's signature weapon?",
+      "answers": ["Sword", "Spear", "Bow and Arrow", "Knife"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_4",
+      "categoryId": "hg",
+      "text": "Who is the male tribute from District 12 in the 74th Hunger Games?",
+      "answers": ["Gale Hawthorne", "Haymitch Abernathy", "Peeta Mellark", "Finnick Odair"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_5",
+      "categoryId": "hg",
+      "text": "What is the symbol of the rebellion, worn as a pin by Katniss?",
+      "answers": ["A golden arrow", "A flaming bird", "A mockingjay", "A silent whistle"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_6",
+      "categoryId": "hg",
+      "text": "What is the name of the tyrannical president of Panem?",
+      "answers": ["President Snow", "President Coin", "President Paylor", "President Abernathy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "hg_7",
+      "categoryId": "hg",
+      "text": "What are the genetically engineered birds that can mimic sounds called?",
+      "answers": ["Jabberjays", "Tracker Jackers", "Mockingbirds", "Songbirds"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "hg_8",
+      "categoryId": "hg",
+      "text": "Who is Katniss's stylist for the Hunger Games?",
+      "answers": ["Effie Trinket", "Cinna", "Portia", "Venia"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_9",
+      "categoryId": "hg",
+      "text": "The third Quarter Quell required tributes to be chosen from what group of people?",
+      "answers": ["Previous volunteers", "Capitol citizens", "Existing victors", "Family of officials"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_10",
+      "categoryId": "hg",
+      "text": "What does the three-fingered salute signify in the districts?",
+      "answers": ["Respect and rebellion", "Loyalty to the Capitol", "A call for help", "A common greeting"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_1",
+      "categoryId": "marvel",
+      "text": "What is the name of Thor's enchanted hammer?",
+      "answers": ["Stormbreaker", "Mjolnir", "Gungnir", "Hofund"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_2",
+      "categoryId": "marvel",
+      "text": "Who is the billionaire genius who becomes Iron Man?",
+      "answers": ["Bruce Banner", "Tony Stark", "Steve Rogers", "Reed Richards"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_3",
+      "categoryId": "marvel",
+      "text": "What is Captain America's shield made of?",
+      "answers": ["Adamantium", "Uru", "Vibranium", "Titanium"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_4",
+      "categoryId": "marvel",
+      "text": "Who is the main antagonist in 'The Avengers' (2012 film)?",
+      "answers": ["Thanos", "Ultron", "Loki", "Red Skull"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_5",
+      "categoryId": "marvel",
+      "text": "What is the name of the organization Nick Fury leads?",
+      "answers": ["S.H.I.E.L.D.", "HYDRA", "S.W.O.R.D.", "A.I.M."],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_6",
+      "categoryId": "marvel",
+      "text": "Which Infinity Stone is embedded in Vision's forehead?",
+      "answers": ["The Space Stone", "The Reality Stone", "The Power Stone", "The Mind Stone"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "marvel_7",
+      "categoryId": "marvel",
+      "text": "What is the name of Black Panther's home country?",
+      "answers": ["Sokovia", "Wakanda", "Latveria", "Madripoor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_8",
+      "categoryId": "marvel",
+      "text": "Which Guardian of the Galaxy is a talking raccoon?",
+      "answers": ["Groot", "Drax", "Star-Lord", "Rocket"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "marvel_9",
+      "categoryId": "marvel",
+      "text": "How did Spider-Man get his powers?",
+      "answers": ["He was born with them", "A lab accident", "Bitten by a radioactive spider", "Exposed to gamma radiation"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_10",
+      "categoryId": "marvel",
+      "text": "What is the real name of the Hulk?",
+      "answers": ["Tony Stark", "Peter Parker", "Bruce Banner", "Stephen Strange"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_1",
+      "categoryId": "dc",
+      "text": "What is the secret identity of Batman?",
+      "answers": ["Clark Kent", "Bruce Wayne", "Hal Jordan", "Barry Allen"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_2",
+      "categoryId": "dc",
+      "text": "What is Superman's home planet?",
+      "answers": ["Mars", "Krypton", "Daxam", "Earth"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_3",
+      "categoryId": "dc",
+      "text": "Who is Batman's arch-nemesis, also known as the 'Clown Prince of Crime'?",
+      "answers": ["The Riddler", "The Penguin", "The Joker", "Two-Face"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_4",
+      "categoryId": "dc",
+      "text": "What is the name of Wonder Woman's home island?",
+      "answers": ["Atlantis", "Themyscira", "Asgard", "Krypton"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_5",
+      "categoryId": "dc",
+      "text": "Which superhero is known as the 'Fastest Man Alive'?",
+      "answers": ["Superman", "Aquaman", "The Flash", "Green Lantern"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_6",
+      "categoryId": "dc",
+      "text": "What is the name of the fictional city that Superman protects?",
+      "answers": ["Gotham City", "Star City", "Central City", "Metropolis"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_7",
+      "categoryId": "dc",
+      "text": "What is the source of a Green Lantern's power?",
+      "answers": ["A magic word", "A power ring", "A Speed Force", "A yellow sun"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_8",
+      "categoryId": "dc",
+      "text": "What is Aquaman's real name?",
+      "answers": ["Clark Kent", "Bruce Wayne", "Arthur Curry", "Barry Allen"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_9",
+      "categoryId": "dc",
+      "text": "Which team of superheroes includes Batman, Superman, and Wonder Woman?",
+      "answers": ["The Avengers", "The Justice League", "The Teen Titans", "The Suicide Squad"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_10",
+      "categoryId": "dc",
+      "text": "What is Superman's main weakness?",
+      "answers": ["Magic", "Fire", "Kryptonite", "Lead"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_11",
+      "categoryId": "lotr",
+      "text": "Who is Legolas's father, the king of the Mirkwood Elves?",
+      "answers": ["Elrond", "Celeborn", "Thranduil", "Gil-galad"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_12",
+      "categoryId": "lotr",
+      "text": "What is the name of the Ent who befriends Merry and Pippin?",
+      "answers": ["Quickbeam", "Treebeard", "Leaflock", "Skinbark"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_13",
+      "categoryId": "lotr",
+      "text": "Who is the Steward of Gondor and father of Boromir and Faramir?",
+      "answers": ["Denethor", "Théoden", "Aragorn", "Imrahil"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "lotr_14",
+      "categoryId": "lotr",
+      "text": "What gift does Galadriel give Frodo to help him in dark places?",
+      "answers": ["A new sword", "Elven rope", "Lembas bread", "The Phial of Galadriel"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_15",
+      "categoryId": "lotr",
+      "text": "What is the password to open the Doors of Durin, the west gate of Moria?",
+      "answers": ["Open", "Friendship", "Mellon", "Durin"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_16",
+      "categoryId": "lotr",
+      "text": "Gimli, son of Glóin, belongs to which race of Middle-earth?",
+      "answers": ["Hobbit", "Man", "Elf", "Dwarf"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_17",
+      "categoryId": "lotr",
+      "text": "What is the name of the inn in Bree where the hobbits first meet Aragorn?",
+      "answers": ["The Green Dragon", "The Prancing Pony", "The Golden Perch", "The Ivy Bush"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_18",
+      "categoryId": "lotr",
+      "text": "What is the name of the evil wizard who controls Isengard?",
+      "answers": ["Gandalf", "Sauron", "Saruman", "Radagast"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_19",
+      "categoryId": "lotr",
+      "text": "How many members make up the Fellowship of the Ring?",
+      "answers": ["7", "8", "9", "10"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_20",
+      "categoryId": "lotr",
+      "text": "What special bread given by the elves can sustain a traveler for a whole day?",
+      "answers": ["Cram", "Waybread", "Lembas", "Miruvor"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_21",
+      "categoryId": "lotr",
+      "text": "Who slays the Witch-king of Angmar during the Battle of the Pelennor Fields?",
+      "answers": ["Aragorn", "Théoden", "Éomer", "Éowyn"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_22",
+      "categoryId": "lotr",
+      "text": "What is the name of Frodo's home in Hobbiton?",
+      "answers": ["Brandy Hall", "Tuckborough", "Bag End", "The Great Smials"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_23",
+      "categoryId": "lotr",
+      "text": "What are the two fortresses referred to in 'The Two Towers'?",
+      "answers": ["Helm's Deep and Minas Tirith", "Barad-dûr and Minas Morgul", "Orthanc and Barad-dûr", "Isengard and Mordor"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_24",
+      "categoryId": "lotr",
+      "text": "What does Samwise Gamgee famously say he wants to do with potatoes in Mordor?",
+      "answers": ["Roast 'em", "Slice 'em", "Put 'em in a stew", "Boil 'em, mash 'em, stick 'em in a stew"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_25",
+      "categoryId": "lotr",
+      "text": "What is the name of Gandalf's majestic white horse?",
+      "answers": ["Bill", "Arod", "Brego", "Shadowfax"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_26",
+      "categoryId": "lotr",
+      "text": "Who is the first member of the Fellowship to die?",
+      "answers": ["Gandalf", "Boromir", "Frodo", "Aragorn"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_27",
+      "categoryId": "lotr",
+      "text": "What is the name of the dragon Bilbo Baggins confronts in 'The Hobbit'?",
+      "answers": ["Glaurung", "Ancalagon", "Smaug", "Scatha"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_28",
+      "categoryId": "lotr",
+      "text": "What is the capital city of Gondor?",
+      "answers": ["Osgiliath", "Minas Tirith", "Edoras", "Dol Amroth"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_29",
+      "categoryId": "lotr",
+      "text": "How many Rings of Power were given to the Dwarf-lords?",
+      "answers": ["3", "9", "1", "7"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_30",
+      "categoryId": "lotr",
+      "text": "Who becomes King of Gondor at the end of the War of the Ring?",
+      "answers": ["Faramir", "Aragorn", "Boromir", "Imrahil"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_31",
+      "categoryId": "lotr",
+      "text": "What is the name of the river that flows through the Elven realm of Lothlórien?",
+      "answers": ["Anduin", "Isen", "Celebrant", "Bruinen"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_32",
+      "categoryId": "lotr",
+      "text": "From which creature did Bilbo Baggins acquire the One Ring?",
+      "answers": ["Sauron", "A dragon", "Gollum", "An orc"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_33",
+      "categoryId": "lotr",
+      "text": "What is the name of Théoden's son, who dies in battle?",
+      "answers": ["Éomer", "Théodred", "Haleth", "Grimbold"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_34",
+      "categoryId": "lotr",
+      "text": "What seeing-stones were used for communication and to see events far away?",
+      "answers": ["Silmarils", "Arkenstones", "Palantíri", "Elfstones"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_35",
+      "categoryId": "lotr",
+      "text": "What is the name of the Horn of Gondor, carried by Boromir?",
+      "answers": ["The Horn of Helm Hammerhand", "The Horn of Valere", "The War-horn of Vorondil", "The Great Horn"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_36",
+      "categoryId": "lotr",
+      "text": "Who is the Lord of Rivendell and father of Arwen?",
+      "answers": ["Thranduil", "Celeborn", "Elrond", "Círdan"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_37",
+      "categoryId": "lotr",
+      "text": "The Dead Marshes are haunted by the spirits of which battle?",
+      "answers": ["Battle of the Five Armies", "Battle of Dagorlad", "Battle of the Pelennor Fields", "Battle of the Morannon"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_38",
+      "categoryId": "lotr",
+      "text": "What is the Elvish word for 'friend'?",
+      "answers": ["Elen", "Valar", "Mellon", "Amdir"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_39",
+      "categoryId": "lotr",
+      "text": "Who carries Frodo up the final stretch of Mount Doom?",
+      "answers": ["Gandalf", "Aragorn", "Gollum", "Samwise Gamgee"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_40",
+      "categoryId": "lotr",
+      "text": "What is the name of the capital city of Rohan?",
+      "answers": ["Helm's Deep", "Minas Tirith", "Aldburg", "Edoras"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_41",
+      "categoryId": "lotr",
+      "text": "What is the name of Faramir and Boromir's father?",
+      "answers": ["Denethor", "Théoden", "Aragorn", "Elrond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "lotr_42",
+      "categoryId": "lotr",
+      "text": "What is the name of the Dark Lord of Mordor?",
+      "answers": ["Saruman", "The Witch-king", "Sauron", "Morgoth"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_43",
+      "categoryId": "lotr",
+      "text": "What gift does Lady Galadriel give to Gimli?",
+      "answers": ["A dagger", "An Elven cloak", "Three strands of her hair", "A bow"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_44",
+      "categoryId": "lotr",
+      "text": "What is the name of the battle where Isildur cut the Ring from Sauron's hand?",
+      "answers": ["Battle of the Last Alliance", "Battle of the Pelennor Fields", "Battle of Dagorlad", "War of Wrath"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "lotr_45",
+      "categoryId": "lotr",
+      "text": "What does Aragorn's royal name, Elessar, mean?",
+      "answers": ["Hope", "Elfstone", "King", "Longshanks"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_46",
+      "categoryId": "lotr",
+      "text": "Who is the last of the Ringwraiths to be destroyed?",
+      "answers": ["Khamûl the Easterling", "The Witch-king of Angmar", "They are destroyed with the Ring", "The Dwimmerlaik"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "lotr_47",
+      "categoryId": "lotr",
+      "text": "What kind of creature is Tom Bombadil?",
+      "answers": ["Wizard", "Man", "Hobbit", "His nature is a mystery"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_48",
+      "categoryId": "lotr",
+      "text": "Which Hobbit becomes the Mayor of Michel Delving?",
+      "answers": ["Frodo Baggins", "Pippin Took", "Merry Brandybuck", "Samwise Gamgee"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "lotr_49",
+      "categoryId": "lotr",
+      "text": "What is the name of Samwise Gamgee's pony?",
+      "answers": ["Stybba", "Bill", "Fatty Lumpkin", "Arod"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "lotr_50",
+      "categoryId": "lotr",
+      "text": "What is the language of Mordor called?",
+      "answers": ["Quenya", "Sindarin", "Westron", "The Black Speech"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_11",
+      "categoryId": "hg",
+      "text": "Who is the president of the rebel District 13?",
+      "answers": ["President Snow", "Alma Coin", "Commander Paylor", "Plutarch Heavensbee"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_12",
+      "categoryId": "hg",
+      "text": "What is the primary industry of Katniss's home, District 12?",
+      "answers": ["Fishing", "Lumber", "Coal mining", "Agriculture"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_13",
+      "categoryId": "hg",
+      "text": "What is the name of the deadly, genetically engineered wasps?",
+      "answers": ["Jabberjays", "Tracker Jackers", "Muttations", "Creeper Vines"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_14",
+      "categoryId": "hg",
+      "text": "What is the name of Katniss's younger sister for whom she volunteers?",
+      "answers": ["Rue", "Madge", "Primrose", "Annie"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_15",
+      "categoryId": "hg",
+      "text": "Who is the charming victor from District 4 who wields a trident?",
+      "answers": ["Peeta Mellark", "Haymitch Abernathy", "Gale Hawthorne", "Finnick Odair"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_16",
+      "categoryId": "hg",
+      "text": "What is the name of the black market in District 12 where Katniss trades?",
+      "answers": ["The Seam", "The Hob", "The Black Market", "The Trade Post"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_17",
+      "categoryId": "hg",
+      "text": "What type of business does Peeta's family own?",
+      "answers": ["A tailor shop", "A bakery", "A butcher shop", "An apothecary"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_18",
+      "categoryId": "hg",
+      "text": "Who is the Head Gamemaker for the 75th Hunger Games (The Quarter Quell)?",
+      "answers": ["Seneca Crane", "Plutarch Heavensbee", "Coriolanus Snow", "Caesar Flickerman"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_19",
+      "categoryId": "hg",
+      "text": "What does Katniss do to honor Rue after her death in the arena?",
+      "answers": ["Sings a lullaby", "Gives the District 12 salute", "Covers her in flowers", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_20",
+      "categoryId": "hg",
+      "text": "What is the name of the television host who interviews the tributes?",
+      "answers": ["Claudius Templesmith", "Seneca Crane", "Caesar Flickerman", "Plutarch Heavensbee"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_21",
+      "categoryId": "hg",
+      "text": "The arena for the 75th Hunger Games is designed to look like what?",
+      "answers": ["A desert", "A frozen tundra", "A clock", "A mountain range"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_22",
+      "categoryId": "hg",
+      "text": "What weapon does Johanna Mason from District 7 favor?",
+      "answers": ["A sword", "A bow", "An axe", "A spear"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_23",
+      "categoryId": "hg",
+      "text": "What are the propaganda videos starring Katniss called in 'Mockingjay'?",
+      "answers": ["Rebel Reels", "Propos", "Capitol Commercials", "Freedom Films"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_24",
+      "categoryId": "hg",
+      "text": "What is the name of Primrose Everdeen's cat?",
+      "answers": ["Lion", "Tiger", "Buttercup", "Dandelion"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_25",
+      "categoryId": "hg",
+      "text": "What is the name of the poisonous berries that lead to a rule change?",
+      "answers": ["Moonseed", "Nightlock", "Hemlock", "Wolfsbane"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_26",
+      "categoryId": "hg",
+      "text": "What is the primary industry of District 11, Rue's home district?",
+      "answers": ["Technology", "Livestock", "Agriculture", "Mining"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_27",
+      "categoryId": "hg",
+      "text": "Who gives Katniss the Mockingjay pin?",
+      "answers": ["Her mother", "Prim", "Madge Undersee", "Gale"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_28",
+      "categoryId": "hg",
+      "text": "What tribute from District 1 does Katniss kill, which haunts her?",
+      "answers": ["Glimmer", "Clove", "Cato", "Marvel"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_29",
+      "categoryId": "hg",
+      "text": "What is the primary industry of District 4, Finnick's home district?",
+      "answers": ["Fishing", "Lumber", "Luxury", "Power"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "hg_30",
+      "categoryId": "hg",
+      "text": "What is the term for the day tributes are selected for the Hunger Games?",
+      "answers": ["The Selection", "The Draft", "The Choosing", "The Reaping"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_31",
+      "categoryId": "hg",
+      "text": "What does Katniss shoot an arrow at during her private session with the Gamemakers?",
+      "answers": ["The Gamemakers' table", "A roast pig", "A dummy", "The ceiling"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_32",
+      "categoryId": "hg",
+      "text": "Who kills President Coin at the end of the rebellion?",
+      "answers": ["President Snow", "Peeta Mellark", "Katniss Everdeen", "Gale Hawthorne"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_33",
+      "categoryId": "hg",
+      "text": "What major injury does Peeta sustain during the 74th Hunger Games?",
+      "answers": ["Loses an arm", "Loses a leg", "Becomes deaf in one ear", "Loses an eye"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_34",
+      "categoryId": "hg",
+      "text": "What is the name of the intelligent tribute from District 3 who helps Katniss destroy the Careers' supplies?",
+      "answers": ["Wiress", "Beetee", "Blight", "Gloss"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_35",
+      "categoryId": "hg",
+      "text": "What is the famous catchphrase of the Hunger Games, often said by Effie Trinket?",
+      "answers": ["'And may the odds be ever in your favor.'", "'Let the Games begin!'", "'Happy Hunger Games!'", "All of the above"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "hg_36",
+      "categoryId": "hg",
+      "text": "Where does Katniss find Peeta hiding after he is wounded by Cato?",
+      "answers": ["In a cave", "Up a tree", "Camouflaged in a riverbank", "In the Cornucopia"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_37",
+      "categoryId": "hg",
+      "text": "Who is Katniss's first official ally in the 74th Hunger Games?",
+      "answers": ["Peeta", "Rue", "Thresh", "Foxface"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_38",
+      "categoryId": "hg",
+      "text": "What is the final fate of President Snow?",
+      "answers": ["Executed by Katniss", "Escapes to the wilderness", "Dies in a riot while choking", "Imprisoned for life"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_39",
+      "categoryId": "hg",
+      "text": "What song, taught to Katniss by her father, becomes an anthem of the rebellion?",
+      "answers": ["'Deep in the Meadow'", "'The Valley Song'", "'The Hanging Tree'", "'Rue's Lullaby'"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_40",
+      "categoryId": "hg",
+      "text": "What is the name given to the mind-control torture Peeta endures in the Capitol?",
+      "answers": ["Brainwashing", "Re-programming", "Hijacking", "Conditioning"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_41",
+      "categoryId": "hg",
+      "text": "Who is the victor from District 12, besides Katniss and Peeta?",
+      "answers": ["Gale Hawthorne", "Haymitch Abernathy", "Madge Undersee", "There are no others"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_42",
+      "categoryId": "hg",
+      "text": "What is the nickname Katniss is given after the 74th Hunger Games?",
+      "answers": ["The Mockingjay", "The Girl on Fire", "The Archer", "The Victor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_43",
+      "categoryId": "hg",
+      "text": "What token from District 11 does Thresh spare Katniss for?",
+      "answers": ["Her mockingjay pin", "The bread from District 11", "Her kindness to Rue", "Her bow and arrows"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_44",
+      "categoryId": "hg",
+      "text": "What is the primary industry of District 7?",
+      "answers": ["Lumber", "Textiles", "Masonry", "Grain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "hg_45",
+      "categoryId": "hg",
+      "text": "What is the name of Katniss and Peeta's daughter?",
+      "answers": ["Primrose", "Rue", "Willow", "Hope"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_46",
+      "categoryId": "hg",
+      "text": "What color are the parachutes that deliver gifts from sponsors?",
+      "answers": ["Gold", "Silver", "White", "Red"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_47",
+      "categoryId": "hg",
+      "text": "Who is the elderly victor from District 4 who sacrifices herself for Peeta?",
+      "answers": ["Wiress", "Mags", "Cecelia", "Seeder"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "hg_48",
+      "categoryId": "hg",
+      "text": "What is the primary food source for many in District 12?",
+      "answers": ["Fish", "Grain", "Squirrel", "Bread"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_49",
+      "categoryId": "hg",
+      "text": "What is the name of the Capitol's military force?",
+      "answers": ["The Guard", "The Army", "Peacekeepers", "Enforcers"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "hg_50",
+      "categoryId": "hg",
+      "text": "How many victors were there from District 12 before Katniss and Peeta?",
+      "answers": ["0", "1", "2", "4"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_11",
+      "categoryId": "marvel",
+      "text": "What species is Groot from Guardians of the Galaxy?",
+      "answers": ["Kree", "Skrull", "Flora Colossus", "Celestial"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_12",
+      "categoryId": "marvel",
+      "text": "Who is Nick Fury's most trusted agent and second-in-command?",
+      "answers": ["Phil Coulson", "Maria Hill", "Clint Barton", "Natasha Romanoff"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_13",
+      "categoryId": "marvel",
+      "text": "What is the name of the AI Tony Stark creates that becomes Ultron?",
+      "answers": ["J.A.R.V.I.S.", "F.R.I.D.A.Y.", "A peacekeeping program", "The Iron Legion"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_14",
+      "categoryId": "marvel",
+      "text": "What is the real name of Black Widow?",
+      "answers": ["Wanda Maximoff", "Carol Danvers", "Natasha Romanoff", "Peggy Carter"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_15",
+      "categoryId": "marvel",
+      "text": "What is the real name of Hawkeye?",
+      "answers": ["Clint Barton", "Bucky Barnes", "Sam Wilson", "Scott Lang"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_16",
+      "categoryId": "marvel",
+      "text": "What is the name of Star-Lord's celestial father?",
+      "answers": ["The Collector", "Ronan", "Ego", "Yondu"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_17",
+      "categoryId": "marvel",
+      "text": "In 'Avengers: Infinity War', who does Thanos sacrifice on Vormir to get the Soul Stone?",
+      "answers": ["Nebula", "Gamora", "Loki", "Iron Man"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_18",
+      "categoryId": "marvel",
+      "text": "What is the name of Ant-Man's daughter?",
+      "answers": ["Hope", "Janet", "Cassie", "Maggie"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_19",
+      "categoryId": "marvel",
+      "text": "What is the name of the microscopic universe Ant-Man travels to?",
+      "answers": ["The Negative Zone", "The Microverse", "The Quantum Realm", "The Astral Plane"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_20",
+      "categoryId": "marvel",
+      "text": "What is the name of Tony Stark's original A.I. assistant?",
+      "answers": ["F.R.I.D.A.Y.", "K.A.R.E.N.", "J.A.R.V.I.S.", "E.D.I.T.H."],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_21",
+      "categoryId": "marvel",
+      "text": "On which planet did Thanos retrieve the Power Stone from the Nova Corps?",
+      "answers": ["Sakaar", "Knowhere", "Ego", "Xandar"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "marvel_22",
+      "categoryId": "marvel",
+      "text": "What is the name of the ex-S.H.I.E.L.D. agent who becomes the villain Crossbones?",
+      "answers": ["Jack Rollins", "Jasper Sitwell", "Georges Batroc", "Brock Rumlow"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "marvel_23",
+      "categoryId": "marvel",
+      "text": "What is the name of Peter Parker's best friend in the MCU?",
+      "answers": ["Harry Osborn", "Flash Thompson", "Ned Leeds", "Miles Morales"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_24",
+      "categoryId": "marvel",
+      "text": "What kind of doctor was Stephen Strange before his accident?",
+      "answers": ["Cardiologist", "Neurosurgeon", "Trauma Surgeon", "Oncologist"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_25",
+      "categoryId": "marvel",
+      "text": "What is the name of the event where Thanos snaps his fingers, wiping out half of all life?",
+      "answers": ["The Snap", "The Blip", "The Decimation", "The Infinity War"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_26",
+      "categoryId": "marvel",
+      "text": "What is the name of Captain Marvel's cat, who is actually a Flerken?",
+      "answers": ["Chewie", "Goose", "Redwing", "Zola"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_27",
+      "categoryId": "marvel",
+      "text": "Who is the main villain in 'Spider-Man: Homecoming'?",
+      "answers": ["The Tinkerer", "Shocker", "The Vulture", "Mysterio"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_28",
+      "categoryId": "marvel",
+      "text": "Where is the Soul Stone hidden?",
+      "answers": ["Nowhere", "Asgard", "Vormir", "Knowhere"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_29",
+      "categoryId": "marvel",
+      "text": "What is the name of the sentient tree in Guardians of the Galaxy?",
+      "answers": ["Rocket", "Drax", "Groot", "Yggdrasil"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_30",
+      "categoryId": "marvel",
+      "text": "Which character says 'I can do this all day'?",
+      "answers": ["Iron Man", "Thor", "Captain America", "Hulk"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_31",
+      "categoryId": "marvel",
+      "text": "What is the name of the spy organization that infiltrated S.H.I.E.L.D.?",
+      "answers": ["A.I.M.", "The Ten Rings", "HYDRA", "The Hand"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_32",
+      "categoryId": "marvel",
+      "text": "Who is the Sorcerer Supreme before Doctor Strange?",
+      "answers": ["Mordo", "The Ancient One", "Kaecilius", "Wong"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_33",
+      "categoryId": "marvel",
+      "text": "What is the name of Peter Quill's (Star-Lord's) mother?",
+      "answers": ["Laura Haddock", "Meredith Quill", "Carina Walters", "Bereet"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_34",
+      "categoryId": "marvel",
+      "text": "What is the name of the treaty that divides the Avengers in 'Civil War'?",
+      "answers": ["The Wakanda Accords", "The S.H.I.E.L.D. Accords", "The Sokovia Accords", "The Avengers Accords"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_35",
+      "categoryId": "marvel",
+      "text": "Which Infinity Stone does Doctor Strange protect?",
+      "answers": ["The Time Stone", "The Reality Stone", "The Soul Stone", "The Space Stone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_36",
+      "categoryId": "marvel",
+      "text": "What is the name of Thor's axe, forged in 'Infinity War'?",
+      "answers": ["Mjolnir", "Gungnir", "Jarnbjorn", "Stormbreaker"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "marvel_37",
+      "categoryId": "marvel",
+      "text": "Who is the leader of the Ravagers who raises Peter Quill?",
+      "answers": ["Taserface", "Kraglin", "Yondu Udonta", "Stakar Ogord"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_38",
+      "categoryId": "marvel",
+      "text": "In which film does Black Panther first appear?",
+      "answers": ["Avengers: Age of Ultron", "Captain America: Civil War", "Black Panther", "Iron Man 2"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_39",
+      "categoryId": "marvel",
+      "text": "What is the name of Black Panther's sister, a technological genius?",
+      "answers": ["Okoye", "Nakia", "Shuri", "Ramonda"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_40",
+      "categoryId": "marvel",
+      "text": "What does 'S.H.I.E.L.D.' stand for?",
+      "answers": ["Strategic Homeland Intervention, Enforcement and Logistics Division", "Supreme Headquarters, International Espionage, Law-Enforcement Division", "Strategic Hazard Intervention Espionage Logistics Directorate", "There is no official meaning"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_41",
+      "categoryId": "marvel",
+      "text": "Which movie kicked off the Marvel Cinematic Universe?",
+      "answers": ["The Incredible Hulk", "Iron Man", "Thor", "Captain America: The First Avenger"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_42",
+      "categoryId": "marvel",
+      "text": "What gives Carol Danvers her powers?",
+      "answers": ["Gamma radiation", "A radioactive spider", "The Tesseract's energy", "The Super-Soldier Serum"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_43",
+      "categoryId": "marvel",
+      "text": "What is the real name of The Falcon?",
+      "answers": ["Sam Wilson", "James Rhodes", "Bucky Barnes", "T'Challa"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "marvel_44",
+      "categoryId": "marvel",
+      "text": "What is the Red Room?",
+      "answers": ["A prison", "A S.H.I.E.L.D. facility", "A Black Widow training program", "A HYDRA base"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_45",
+      "categoryId": "marvel",
+      "text": "Who is the primary villain of 'Guardians of the Galaxy'?",
+      "answers": ["Thanos", "The Collector", "Ronan the Accuser", "Ego"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_46",
+      "categoryId": "marvel",
+      "text": "What is the name of the planet where the Grandmaster holds his Contest of Champions?",
+      "answers": ["Xandar", "Knowhere", "Sakaar", "Asgard"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_47",
+      "categoryId": "marvel",
+      "text": "What is the real name of War Machine?",
+      "answers": ["Tony Stark", "Sam Wilson", "James 'Rhodey' Rhodes", "Happy Hogan"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "marvel_48",
+      "categoryId": "marvel",
+      "text": "How many Infinity Stones are there?",
+      "answers": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_49",
+      "categoryId": "marvel",
+      "text": "What phrase does Bucky Barnes say when he is under HYDRA's control?",
+      "answers": ["Hail HYDRA", "Longing, Rusted, Seventeen...", "I'm ready to comply", "I am the Winter Soldier"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "marvel_50",
+      "categoryId": "marvel",
+      "text": "Who is the only character to say 'Avengers, assemble!' in the first Avengers movie?",
+      "answers": ["Iron Man", "Captain America", "Nick Fury", "No one says it"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_11",
+      "categoryId": "dc",
+      "text": "What is the name of Batman's loyal butler?",
+      "answers": ["James Gordon", "Lucius Fox", "Alfred Pennyworth", "Harvey Dent"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_12",
+      "categoryId": "dc",
+      "text": "What is the name of Superman's alter ego, the mild-mannered reporter?",
+      "answers": ["Bruce Wayne", "Clark Kent", "Peter Parker", "Hal Jordan"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_13",
+      "categoryId": "dc",
+      "text": "Which villain broke Batman's back in the 'Knightfall' comic storyline?",
+      "answers": ["The Joker", "Bane", "Ra's al Ghul", "Killer Croc"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_14",
+      "categoryId": "dc",
+      "text": "What is the name of Wonder Woman's signature weapon, a magical rope?",
+      "answers": ["The Golden Fleece", "The Aegis Shield", "The Lasso of Truth", "The Sword of Athena"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_15",
+      "categoryId": "dc",
+      "text": "Who is the original Green Lantern of Earth?",
+      "answers": ["John Stewart", "Guy Gardner", "Hal Jordan", "Alan Scott"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_16",
+      "categoryId": "dc",
+      "text": "What is the name of the asylum for the criminally insane in Gotham City?",
+      "answers": ["Belle Reve", "Stryker's Island", "Iron Heights", "Arkham Asylum"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_17",
+      "categoryId": "dc",
+      "text": "Who is the original Robin, who later becomes Nightwing?",
+      "answers": ["Jason Todd", "Tim Drake", "Dick Grayson", "Damian Wayne"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_18",
+      "categoryId": "dc",
+      "text": "What is the name of the king of Atlantis and Aquaman's half-brother?",
+      "answers": ["Black Manta", "Ocean Master", "Nereus", "Vulko"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_19",
+      "categoryId": "dc",
+      "text": "What is the real name of The Flash (Barry Allen)?",
+      "answers": ["Wally West", "Jay Garrick", "Barry Allen", "Bart Allen"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_20",
+      "categoryId": "dc",
+      "text": "What is the name of Superman's cousin, who is also a superhero?",
+      "answers": ["Power Girl", "Superwoman", "Supergirl", "Stargirl"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_21",
+      "categoryId": "dc",
+      "text": "Which DC villain is a brilliant scientist who controls plants?",
+      "answers": ["Poison Ivy", "Catwoman", "Harley Quinn", "Talia al Ghul"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "dc_22",
+      "categoryId": "dc",
+      "text": "What is the name of the intergalactic police force that Green Lantern belongs to?",
+      "answers": ["The Nova Corps", "The Green Lantern Corps", "The Sinestro Corps", "The Star Sapphire Corps"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_23",
+      "categoryId": "dc",
+      "text": "What is the source of The Flash's super speed?",
+      "answers": ["A science experiment", "A magic spell", "The Speed Force", "Alien technology"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_24",
+      "categoryId": "dc",
+      "text": "Who killed Batman's parents?",
+      "answers": ["The Joker", "A random mugger named Joe Chill", "Carmine Falcone", "It was never solved"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_25",
+      "categoryId": "dc",
+      "text": "What is the name of the newspaper where Clark Kent works?",
+      "answers": ["The Gotham Gazette", "The Central City Citizen", "The Daily Planet", "The New York Times"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_26",
+      "categoryId": "dc",
+      "text": "Which superhero is also known as the 'Dark Knight'?",
+      "answers": ["Superman", "Green Arrow", "Batman", "Martian Manhunter"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_27",
+      "categoryId": "dc",
+      "text": "What is the name of the government agent who runs the Suicide Squad?",
+      "answers": ["Amanda Waller", "Steve Trevor", "Maxwell Lord", "Lex Luthor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "dc_28",
+      "categoryId": "dc",
+      "text": "What is the real name of the Martian Manhunter?",
+      "answers": ["J'onn J'onzz", "K'lar J'onzz", "M'gann M'orzz", "D'kay D'razz"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "dc_29",
+      "categoryId": "dc",
+      "text": "Which member of the Batman family was paralyzed by the Joker and became Oracle?",
+      "answers": ["Selina Kyle", "Barbara Gordon", "Kate Kane", "Cassandra Cain"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_30",
+      "categoryId": "dc",
+      "text": "What powerful cosmic entity is the main villain in 'Justice League' (2017 film)?",
+      "answers": ["Darkseid", "Brainiac", "Steppenwolf", "Doomsday"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_31",
+      "categoryId": "dc",
+      "text": "What is Superman's birth name on Krypton?",
+      "answers": ["Jor-El", "Zor-El", "Kal-El", "Dru-Zod"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_32",
+      "categoryId": "dc",
+      "text": "Which villain is known for his obsession with riddles?",
+      "answers": ["The Joker", "The Penguin", "The Riddler", "Scarecrow"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_33",
+      "categoryId": "dc",
+      "text": "What is the name of Wonder Woman's mother, the queen of the Amazons?",
+      "answers": ["Antiope", "Artemis", "Hippolyta", "Diana"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_34",
+      "categoryId": "dc",
+      "text": "Who is the arch-nemesis of The Flash?",
+      "answers": ["Captain Cold", "Gorilla Grodd", "The Reverse-Flash", "The Trickster"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_35",
+      "categoryId": "dc",
+      "text": "What is the name of the underwater kingdom Aquaman rules?",
+      "answers": ["Themyscira", "Xebel", "Atlantis", "The Trench"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_36",
+      "categoryId": "dc",
+      "text": "Which character famously says 'Shazam!' to transform into a superhero?",
+      "answers": ["Captain Marvel", "Black Adam", "Billy Batson", "Freddy Freeman"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_37",
+      "categoryId": "dc",
+      "text": "What metal are Wonder Woman's bracelets made of?",
+      "answers": ["Vibranium", "Adamantium", "Nth Metal", "Amazonium/Feminum"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_38",
+      "categoryId": "dc",
+      "text": "What color of Kryptonite is lethal to Superman?",
+      "answers": ["Red", "Blue", "Green", "Black"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_39",
+      "categoryId": "dc",
+      "text": "What is the real name of Green Arrow?",
+      "answers": ["Roy Harper", "John Diggle", "Oliver Queen", "Arthur King"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_40",
+      "categoryId": "dc",
+      "text": "What is the headquarters of the Justice League called?",
+      "answers": ["The Hall of Justice", "The Watchtower", "The Fortress of Solitude", "Titans Tower"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_41",
+      "categoryId": "dc",
+      "text": "Which Robin was beaten to death by the Joker?",
+      "answers": ["Dick Grayson", "Jason Todd", "Tim Drake", "Damian Wayne"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_42",
+      "categoryId": "dc",
+      "text": "What is the name of the entity that embodies fear and powers Sinestro's corps?",
+      "answers": ["The Butcher", "Ophidian", "Parallax", "The Predator"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_43",
+      "categoryId": "dc",
+      "text": "What is the name of Superman's dog?",
+      "answers": ["Ace", "Krypto", "Comet", "Streaky"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_44",
+      "categoryId": "dc",
+      "text": "Who is the god of war and a frequent antagonist of Wonder Woman?",
+      "answers": ["Zeus", "Hades", "Ares", "Apollo"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_45",
+      "categoryId": "dc",
+      "text": "What is the real name of Cyborg?",
+      "answers": ["John Henry Irons", "Victor Stone", "Ronnie Raymond", "Michael Carter"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_46",
+      "categoryId": "dc",
+      "text": "What is the name of the event that rebooted the DC Universe in 2011?",
+      "answers": ["Crisis on Infinite Earths", "Infinite Crisis", "Final Crisis", "Flashpoint"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_47",
+      "categoryId": "dc",
+      "text": "Which villain famously deduced Batman's secret identity on his own?",
+      "answers": ["The Joker", "The Riddler", "Hugo Strange", "Bane"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "dc_48",
+      "categoryId": "dc",
+      "text": "What is the name of the organization founded by Ra's al Ghul?",
+      "answers": ["The Court of Owls", "The League of Assassins", "H.I.V.E.", "Kobra Cult"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "dc_49",
+      "categoryId": "dc",
+      "text": "Which superhero team is based in Titans Tower?",
+      "answers": ["Justice League", "Justice Society", "The Outsiders", "Teen Titans"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "dc_50",
+      "categoryId": "dc",
+      "text": "What is the name of the planet-devouring villain who has heralds like the Silver Surfer in Marvel, but has a DC counterpart?",
+      "answers": ["Galactus", "Anti-Monitor", "Imperiex", "Brainiac"],
+      "correctAnswerIndex": 2
+    },
     {
       "id": "hp_easy_1", "categoryId": "hp_easy", "text": "What is the name of Harry's owl?",
       "answers": ["Hedwig", "Errol", "Pigwidgeon", "Crookshanks"], "correctAnswerIndex": 0
