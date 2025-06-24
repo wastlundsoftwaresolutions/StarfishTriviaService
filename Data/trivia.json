@@ -57,9 +57,363 @@
     {
       "id": "potc",
       "name": "Pirates of the Caribbean"
+    },
+    {
+      "id": "twilight",
+      "name": "Twilight"
     }
   ],
   "questions": [
+    {
+      "id": "twilight_1",
+      "categoryId": "twilight",
+      "text": "What is the full name of the main female protagonist in the Twilight series?",
+      "answers": ["Bella Swan", "Isabella Swan", "Isabelle Swan", "Isabel Swan"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_2",
+      "categoryId": "twilight",
+      "text": "What is Edward Cullen's special ability?",
+      "answers": ["Seeing the future", "Mind reading", "Controlling emotions", "Super strength"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_3",
+      "categoryId": "twilight",
+      "text": "What town does Bella move to at the beginning of the series?",
+      "answers": ["Forks", "Port Angeles", "Olympia", "Salem"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_4",
+      "categoryId": "twilight",
+      "text": "Who is the leader of the Cullen family?",
+      "answers": ["Edward", "Carlisle", "Emmett", "Jasper"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_5",
+      "categoryId": "twilight",
+      "text": "What creature is Jacob Black?",
+      "answers": ["Vampire", "Hybrid", "Werewolf", "Shapeshifter"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "twilight_6",
+      "categoryId": "twilight",
+      "text": "Who is the Volturi leader?",
+      "answers": ["Aro", "Marcus", "Caius", "Felix"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_7",
+      "categoryId": "twilight",
+      "text": "What is the name of Edward and Bella's daughter?",
+      "answers": ["Rosalie", "Renesmee", "Esme", "Evelyn"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_8",
+      "categoryId": "twilight",
+      "text": "Which Cullen member has the ability to control emotions?",
+      "answers": ["Alice", "Emmett", "Jasper", "Rosalie"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "twilight_9",
+      "categoryId": "twilight",
+      "text": "Which member of the Cullen family was most resistant to Bella becoming a vampire?",
+      "answers": ["Rosalie", "Alice", "Carlisle", "Jasper"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_10",
+      "categoryId": "twilight",
+      "text": "In which book does Bella become a vampire?",
+      "answers": ["Twilight", "New Moon", "Eclipse", "Breaking Dawn"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "twilight_11",
+      "categoryId": "twilight",
+      "text": "What is the name of the treaty that prevents the Cullens from biting humans?",
+      "answers": ["Quileute Treaty", "Forks Treaty", "Vampire Pact", "Covenant of Peace"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_12",
+      "categoryId": "twilight",
+      "text": "Who first tells Bella that Edward is a vampire?",
+      "answers": ["Edward", "Jacob", "Alice", "Jessica"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_13",
+      "categoryId": "twilight",
+      "text": "What sport do the Cullens famously play during a thunderstorm?",
+      "answers": ["Baseball", "Soccer", "Football", "Cricket"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_14",
+      "categoryId": "twilight",
+      "text": "What is Bella’s father’s name?",
+      "answers": ["Charlie", "Carl", "Chris", "Chad"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_15",
+      "categoryId": "twilight",
+      "text": "What is the name of the vampire who wants to kill Bella in the first book?",
+      "answers": ["James", "Victoria", "Laurent", "Alec"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_16",
+      "categoryId": "twilight",
+      "text": "Who is Alice’s romantic partner?",
+      "answers": ["Emmett", "Jasper", "Jacob", "Aro"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_17",
+      "categoryId": "twilight",
+      "text": "What is Bella’s special ability as a vampire?",
+      "answers": ["Telekinesis", "Shielding", "Invisibility", "Flight"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "twilight_18",
+      "categoryId": "twilight",
+      "text": "Who is Renesmee's romantic interest?",
+      "answers": ["Seth", "Alec", "Jacob", "Embry"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "twilight_19",
+      "categoryId": "twilight",
+      "text": "Which Cullen was turned during the Spanish Influenza?",
+      "answers": ["Edward", "Carlisle", "Jasper", "Esme"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "twilight_20",
+      "categoryId": "twilight",
+      "text": "Where do Bella and Edward go on their honeymoon?",
+      "answers": ["Italy", "Isle Esme", "Rio de Janeiro", "Paris"],
+      "correctAnswerIndex": 1
+    },
+    {
+    "id": "twilight_21",
+    "categoryId": "twilight",
+    "text": "What is the name of the vampire coven that arrives to witness Renesmee's growth?",
+    "answers": ["Denali", "Romanian", "Amazon", "Volturi"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_22",
+    "categoryId": "twilight",
+    "text": "Which Cullen sibling is known for their physical strength?",
+    "answers": ["Emmett", "Edward", "Jasper", "Carlisle"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_23",
+    "categoryId": "twilight",
+    "text": "Which vampire has the power to see the future?",
+    "answers": ["Alice", "Esme", "Rosalie", "Jane"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_24",
+    "categoryId": "twilight",
+    "text": "What state is Forks located in?",
+    "answers": ["Washington", "Oregon", "California", "Idaho"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_25",
+    "categoryId": "twilight",
+    "text": "Which character is a member of the Volturi guard and causes pain with her mind?",
+    "answers": ["Jane", "Heidi", "Chelsea", "Renata"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_26",
+    "categoryId": "twilight",
+    "text": "What animal is featured on the cover of the first Twilight book?",
+    "answers": ["Apple", "Wolf", "Vampire Bat", "Rose"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_27",
+    "categoryId": "twilight",
+    "text": "What year was Edward Cullen born?",
+    "answers": ["1901", "1897", "1910", "1905"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_28",
+    "categoryId": "twilight",
+    "text": "Who turned Rosalie into a vampire?",
+    "answers": ["Carlisle", "Edward", "Esme", "Aro"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_29",
+    "categoryId": "twilight",
+    "text": "What was Jacob Black's father's name?",
+    "answers": ["Billy", "Sam", "Charlie", "Ephraim"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_30",
+    "categoryId": "twilight",
+    "text": "Who kills James in the first Twilight movie?",
+    "answers": ["Edward", "Alice", "Emmett", "Jasper"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "twilight_31",
+    "categoryId": "twilight",
+    "text": "Where does Bella first meet the Cullens as a group?",
+    "answers": ["At school", "At their house", "At a restaurant", "At the hospital"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "twilight_32",
+    "categoryId": "twilight",
+    "text": "What is the name of the vampire who has a romantic history with James and seeks revenge?",
+    "answers": ["Victoria", "Jane", "Heidi", "Tanya"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_33",
+    "categoryId": "twilight",
+    "text": "What does Bella use to distract the newborn vampires in the final battle of Eclipse?",
+    "answers": ["Her scent", "Her shield", "A fire", "A decoy trail"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "twilight_34",
+    "categoryId": "twilight",
+    "text": "What vampire helps train the Cullens for the Volturi confrontation?",
+    "answers": ["Garrett", "Benjamin", "Peter", "Eleazar"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_35",
+    "categoryId": "twilight",
+    "text": "What is the name of the leader of the wolf pack?",
+    "answers": ["Sam Uley", "Jacob Black", "Embry Call", "Quil Ateara"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_36",
+    "categoryId": "twilight",
+    "text": "Which Cullen was a Confederate soldier before becoming a vampire?",
+    "answers": ["Jasper", "Edward", "Emmett", "Carlisle"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_37",
+    "categoryId": "twilight",
+    "text": "What does Bella name her daughter after?",
+    "answers": ["Her mom and Edward's mom", "A flower and a place", "A vampire legend", "A dream"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_38",
+    "categoryId": "twilight",
+    "text": "What is Renesmee's middle name?",
+    "answers": ["Carly", "Esme", "Marie", "Carlie"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "twilight_39",
+    "categoryId": "twilight",
+    "text": "How does Bella become pregnant?",
+    "answers": ["During her honeymoon", "By vampire magic", "By accident before turning", "After becoming a vampire"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_40",
+    "categoryId": "twilight",
+    "text": "What nickname does Jacob give Renesmee?",
+    "answers": ["Nessie", "Ren", "Nes", "Rena"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_41",
+    "categoryId": "twilight",
+    "text": "What is the unique trait of Renesmee as a hybrid?",
+    "answers": ["She can show memories", "She can fly", "She can shape-shift", "She doesn't need blood"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_42",
+    "categoryId": "twilight",
+    "text": "Which member of the Amazon coven joins the Cullen cause?",
+    "answers": ["Zafrina", "Senna", "Tia", "Irina"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_43",
+    "categoryId": "twilight",
+    "text": "Which vampire breaks the rule and alerts the Volturi to Renesmee’s existence?",
+    "answers": ["Irina", "Kate", "Carmen", "Siobhan"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_44",
+    "categoryId": "twilight",
+    "text": "What happens to Bella when giving birth to Renesmee?",
+    "answers": ["She dies", "She is critically injured", "She turns into a vampire instantly", "She loses her memory"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "twilight_45",
+    "categoryId": "twilight",
+    "text": "What musical instrument does Edward play?",
+    "answers": ["Violin", "Guitar", "Piano", "Flute"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "twilight_46",
+    "categoryId": "twilight",
+    "text": "Where do Bella and Edward attend prom?",
+    "answers": ["At school", "In the forest", "In a gazebo", "At the Cullen house"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "twilight_47",
+    "categoryId": "twilight",
+    "text": "Who said the quote: 'You are my life now'?",
+    "answers": ["Edward", "Bella", "Jacob", "Alice"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "twilight_48",
+    "categoryId": "twilight",
+    "text": "How many books are in the Twilight Saga?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "twilight_49",
+    "categoryId": "twilight",
+    "text": "Who wrote the Twilight series?",
+    "answers": ["J.K. Rowling", "Veronica Roth", "Stephenie Meyer", "Suzanne Collins"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "twilight_50",
+    "categoryId": "twilight",
+    "text": "What is the final line in the book *Breaking Dawn*?",
+    "answers": ["We continued blissfully into this small but perfect piece of our forever.", "The end.", "I love you.", "Forever begins now."],
+    "correctAnswerIndex": 0
+  },
     {
       "id": "stargate_1",
       "categoryId": "stargate",
