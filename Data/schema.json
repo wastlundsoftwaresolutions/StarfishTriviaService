@@ -1,25 +1,25 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Trivia",
-  "description": "A collection of trivia categories and questions.",
-  "type": "object",
-  "properties": {
-    "categories": {
+  "title": "Trivia Data",
+  "description": "Schema for Starfish Trivia data files. This can be a list of categories or a list of questions.",
+  "oneOf": [
+    {
+      "title": "Category List",
       "description": "A list of trivia categories.",
       "type": "array",
       "items": {
         "$ref": "#/definitions/Category"
       }
     },
-    "questions": {
+    {
+      "title": "Question List",
       "description": "A list of trivia questions.",
       "type": "array",
       "items": {
         "$ref": "#/definitions/Question"
       }
     }
-  },
-  "required": ["categories", "questions"],
+  ],
   "definitions": {
     "Category": {
       "type": "object",
