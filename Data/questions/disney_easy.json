@@ -1,0 +1,602 @@
+[
+  {
+    "id": "disney_easy_1",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the cowboy in 'Toy Story'?",
+    "answers": [
+      "Buzz Lightyear",
+      "Woody",
+      "Mr. Potato Head",
+      "Slinky Dog"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_2",
+    "categoryId": "disney_easy",
+    "text": "Who is Mickey Mouse's faithful dog companion?",
+    "answers": [
+      "Goofy",
+      "Donald",
+      "Pluto",
+      "Figaro"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_3",
+    "categoryId": "disney_easy",
+    "text": "What does Cinderella's fairy godmother turn into a coach?",
+    "answers": [
+      "A mouse",
+      "A pumpkin",
+      "A watermelon",
+      "A shoe"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_4",
+    "categoryId": "disney_easy",
+    "text": "In 'The Lion King,' who is Simba's father?",
+    "answers": [
+      "Scar",
+      "Zazu",
+      "Timon",
+      "Mufasa"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_5",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the little girl in 'Monsters, Inc.'?",
+    "answers": [
+      "Mary",
+      "Boo",
+      "Cindy",
+      "Sally"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_6",
+    "categoryId": "disney_easy",
+    "text": "In 'Finding Nemo,' what kind of fish is Nemo?",
+    "answers": [
+      "Clownfish",
+      "Blue Tang",
+      "Pufferfish",
+      "Angelfish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_easy_7",
+    "categoryId": "disney_easy",
+    "text": "Who sings the song 'Let It Go' in 'Frozen'?",
+    "answers": [
+      "Anna",
+      "Olaf",
+      "Elsa",
+      "Kristoff"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_8",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the princess in 'The Little Mermaid'?",
+    "answers": [
+      "Belle",
+      "Jasmine",
+      "Ariel",
+      "Pocahontas"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_9",
+    "categoryId": "disney_easy",
+    "text": "In 'Aladdin,' what is the name of Aladdin's monkey sidekick?",
+    "answers": [
+      "Iago",
+      "Rajah",
+      "Abu",
+      "Zazu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_10",
+    "categoryId": "disney_easy",
+    "text": "What happens to Pinocchio's nose when he tells a lie?",
+    "answers": [
+      "It shrinks",
+      "It turns blue",
+      "It wiggles",
+      "It grows longer"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_11",
+    "categoryId": "disney_easy",
+    "text": "What does WALL-E stand for?",
+    "answers": [
+      "Waste Allocation Load Lifter - Earth-Class",
+      "World Abolition Light Lifter - Extra-Class",
+      "Waste Assignment Load Lugger - E-Series",
+      "Western Android Life-Like - Emulation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_easy_12",
+    "categoryId": "disney_easy",
+    "text": "In 'The Jungle Book,' what kind of animal is Baloo?",
+    "answers": [
+      "A panther",
+      "A tiger",
+      "A snake",
+      "A bear"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_13",
+    "categoryId": "disney_easy",
+    "text": "Which princess has a chameleon named Pascal as a sidekick?",
+    "answers": [
+      "Cinderella",
+      "Rapunzel",
+      "Tiana",
+      "Aurora"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_14",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the main villain in 'Peter Pan'?",
+    "answers": [
+      "Smee",
+      "Mr. Darling",
+      "Captain Hook",
+      "The Lost Boys"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_15",
+    "categoryId": "disney_easy",
+    "text": "What type of car is Lightning McQueen in 'Cars'?",
+    "answers": [
+      "A stock car",
+      "A convertible",
+      "A monster truck",
+      "A minivan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_easy_16",
+    "categoryId": "disney_easy",
+    "text": "In 'Snow White and the Seven Dwarfs,' which dwarf does not talk?",
+    "answers": [
+      "Grumpy",
+      "Sleepy",
+      "Sneezy",
+      "Dopey"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_17",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the teacup in 'Beauty and the Beast'?",
+    "answers": [
+      "Lumi\u00e8re",
+      "Cogsworth",
+      "Chip",
+      "Mrs. Potts"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_18",
+    "categoryId": "disney_easy",
+    "text": "In 'Moana,' what is the name of the demigod who helps Moana?",
+    "answers": [
+      "Heihei",
+      "Maui",
+      "Tamatoa",
+      "Tui"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_19",
+    "categoryId": "disney_easy",
+    "text": "What does the Genie grant Aladdin?",
+    "answers": [
+      "Unlimited riches",
+      "Eternal life",
+      "Three wishes",
+      "The ability to fly"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_20",
+    "categoryId": "disney_easy",
+    "text": "Who is the 'fastest' character in 'Zootopia'?",
+    "answers": [
+      "Judy Hopps",
+      "Nick Wilde",
+      "Flash",
+      "Chief Bogo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_21",
+    "categoryId": "disney_easy",
+    "text": "What is the name of Sleeping Beauty?",
+    "answers": [
+      "Aurora",
+      "Briar Rose",
+      "Both A and B",
+      "Maleficent"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_22",
+    "categoryId": "disney_easy",
+    "text": "In 'Inside Out,' which emotion is the leader of the group?",
+    "answers": [
+      "Sadness",
+      "Anger",
+      "Fear",
+      "Joy"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_23",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the villain in 'The Little Mermaid'?",
+    "answers": [
+      "Flounder",
+      "Sebastian",
+      "Ursula",
+      "King Triton"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_24",
+    "categoryId": "disney_easy",
+    "text": "What is the famous phrase Buzz Lightyear says in 'Toy Story'?",
+    "answers": [
+      "'To infinity, and far away!'",
+      "'To the stars and beyond!'",
+      "'To infinity, and beyond!'",
+      "'Let's fly to infinity!'"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_25",
+    "categoryId": "disney_easy",
+    "text": "What kind of animal is Thumper from 'Bambi'?",
+    "answers": [
+      "A deer",
+      "A rabbit",
+      "A skunk",
+      "An owl"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_26",
+    "categoryId": "disney_easy",
+    "text": "What is the name of Lilo's 'dog' in 'Lilo & Stitch'?",
+    "answers": [
+      "Jumba",
+      "Pleakley",
+      "Stitch",
+      "Gantu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_27",
+    "categoryId": "disney_easy",
+    "text": "What does Mary Poppins use to fly?",
+    "answers": [
+      "A broomstick",
+      "An umbrella",
+      "A carpet",
+      "A kite"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_28",
+    "categoryId": "disney_easy",
+    "text": "In 'Pocahontas,' what is the name of her raccoon friend?",
+    "answers": [
+      "Flit",
+      "Percy",
+      "Wiggins",
+      "Meeko"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_29",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the kingdom in 'Frozen'?",
+    "answers": [
+      "Arendelle",
+      "Corona",
+      "Atlantica",
+      "Agrabah"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_easy_30",
+    "categoryId": "disney_easy",
+    "text": "What is the primary setting for 'The Nightmare Before Christmas'?",
+    "answers": [
+      "Christmas Town",
+      "Easter Town",
+      "Halloween Town",
+      "Thanksgiving Town"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_31",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the Dalmatian puppy who loves to eat?",
+    "answers": [
+      "Patch",
+      "Lucky",
+      "Rolly",
+      "Penny"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_32",
+    "categoryId": "disney_easy",
+    "text": "What food is Remy the rat passionate about in 'Ratatouille'?",
+    "answers": [
+      "Cheese",
+      "Bread",
+      "Fruit",
+      "Fine cuisine"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_33",
+    "categoryId": "disney_easy",
+    "text": "In 'Alice in Wonderland,' what does the White Rabbit always carry?",
+    "answers": [
+      "A teacup",
+      "A stopwatch",
+      "A fan",
+      "A trumpet"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_34",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the young boy scout in 'Up'?",
+    "answers": [
+      "Kevin",
+      "Dug",
+      "Charles",
+      "Russell"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_35",
+    "categoryId": "disney_easy",
+    "text": "Which princess pricks her finger on a spinning wheel?",
+    "answers": [
+      "Snow White",
+      "Cinderella",
+      "Aurora",
+      "Belle"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_36",
+    "categoryId": "disney_easy",
+    "text": "In 'The Emperor's New Groove,' what animal is Emperor Kuzco turned into?",
+    "answers": [
+      "A cow",
+      "A llama",
+      "A frog",
+      "A cat"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_37",
+    "categoryId": "disney_easy",
+    "text": "What color is the 'monster' Mike Wazowski in 'Monsters, Inc.'?",
+    "answers": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Red"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_38",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the main villain in '101 Dalmatians'?",
+    "answers": [
+      "Jasper",
+      "Horace",
+      "Anita",
+      "Cruella de Vil"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_39",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the kingdom where Rapunzel lives?",
+    "answers": [
+      "Arendelle",
+      "Corona",
+      "Maldonia",
+      "Andalasia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_40",
+    "categoryId": "disney_easy",
+    "text": "What power does the superhero Violet have in 'The Incredibles'?",
+    "answers": [
+      "Super speed",
+      "Invisibility",
+      "Super strength",
+      "Elasticity"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_41",
+    "categoryId": "disney_easy",
+    "text": "Who is the fairy that helps Peter Pan?",
+    "answers": [
+      "Silvermist",
+      "Fawn",
+      "Iridessa",
+      "Tinker Bell"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_42",
+    "categoryId": "disney_easy",
+    "text": "In 'The Lion King,' what is the name of the warthog?",
+    "answers": [
+      "Timon",
+      "Pumbaa",
+      "Zazu",
+      "Rafiki"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_43",
+    "categoryId": "disney_easy",
+    "text": "What object holds the Beast's curse in 'Beauty and the Beast'?",
+    "answers": [
+      "A mirror",
+      "A clock",
+      "A rose",
+      "A book"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_44",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the main character in 'Brave'?",
+    "answers": [
+      "Elinor",
+      "Maudie",
+      "Merida",
+      "Angus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_45",
+    "categoryId": "disney_easy",
+    "text": "In 'Coco,' what is Miguel's secret passion?",
+    "answers": [
+      "Making shoes",
+      "Playing music",
+      "Baking",
+      "Painting"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_46",
+    "categoryId": "disney_easy",
+    "text": "What kind of animal does Princess Jasmine have as a pet?",
+    "answers": [
+      "A monkey",
+      "A tiger",
+      "A parrot",
+      "A horse"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_47",
+    "categoryId": "disney_easy",
+    "text": "What is Dory's main problem in 'Finding Nemo'?",
+    "answers": [
+      "She can't swim well",
+      "She is afraid of sharks",
+      "She has short-term memory loss",
+      "She can't read"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_easy_48",
+    "categoryId": "disney_easy",
+    "text": "What is the profession of Alfredo Linguini in 'Ratatouille'?",
+    "answers": [
+      "Head Chef",
+      "Garbage Boy",
+      "Food Critic",
+      "Waiter"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_easy_49",
+    "categoryId": "disney_easy",
+    "text": "What is the name of the snowman in 'Frozen'?",
+    "answers": [
+      "Kristoff",
+      "Sven",
+      "Hans",
+      "Olaf"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_easy_50",
+    "categoryId": "disney_easy",
+    "text": "What does Pinocchio want to become?",
+    "answers": [
+      "A famous actor",
+      "A real boy",
+      "The smartest toy",
+      "A cricket"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

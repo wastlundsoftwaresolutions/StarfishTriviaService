@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sw_easy_1",
+    "categoryId": "sw_easy",
+    "text": "Who is Luke Skywalker's father?",
+    "answers": [
+      "Obi-Wan Kenobi",
+      "Emperor Palpatine",
+      "Darth Vader",
+      "Han Solo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_2",
+    "categoryId": "sw_easy",
+    "text": "What is the name of Han Solo's ship?",
+    "answers": [
+      "Star Destroyer",
+      "X-wing",
+      "TIE Fighter",
+      "Millennium Falcon"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_3",
+    "categoryId": "sw_easy",
+    "text": "What color is Luke Skywalker's first lightsaber in 'A New Hope'?",
+    "answers": [
+      "Green",
+      "Blue",
+      "Red",
+      "Purple"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_4",
+    "categoryId": "sw_easy",
+    "text": "Who is the princess of Alderaan?",
+    "answers": [
+      "Padm\u00e9 Amidala",
+      "Leia Organa",
+      "Rey",
+      "Ahsoka Tano"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_5",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the Wookiee who is Han Solo's co-pilot?",
+    "answers": [
+      "Tarfful",
+      "Yoda",
+      "Wicket",
+      "Chewbacca"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_6",
+    "categoryId": "sw_easy",
+    "text": "What is the weapon of a Jedi Knight?",
+    "answers": [
+      "Blaster",
+      "Lightsaber",
+      "Bowcaster",
+      "Thermal detonator"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_7",
+    "categoryId": "sw_easy",
+    "text": "Which Jedi Master famously says, 'May the Force be with you'?",
+    "answers": [
+      "Mace Windu",
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Qui-Gon Jinn"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_8",
+    "categoryId": "sw_easy",
+    "text": "What desert planet is the home of Luke Skywalker?",
+    "answers": [
+      "Jakku",
+      "Tatooine",
+      "Geonosis",
+      "Jedha"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_9",
+    "categoryId": "sw_easy",
+    "text": "What are the soldiers of the Galactic Empire called?",
+    "answers": [
+      "Rebel Soldiers",
+      "Clone Troopers",
+      "Stormtroopers",
+      "Droids"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_10",
+    "categoryId": "sw_easy",
+    "text": "Who is the small, green Jedi Master who trains Luke on Dagobah?",
+    "answers": [
+      "Plo Koon",
+      "Yoda",
+      "Ki-Adi-Mundi",
+      "Even Piell"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_11",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the Empire's planet-destroying space station?",
+    "answers": [
+      "Starkiller Base",
+      "The Death Star",
+      "The Supremacy",
+      "The Executor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_12",
+    "categoryId": "sw_easy",
+    "text": "What are the names of the two droids that serve Luke Skywalker?",
+    "answers": [
+      "K-2SO and L3-37",
+      "BB-8 and D-O",
+      "C-3PO and R2-D2",
+      "IG-11 and R5-D4"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_13",
+    "categoryId": "sw_easy",
+    "text": "Boba Fett is a clone of which character?",
+    "answers": [
+      "Anakin Skywalker",
+      "Jango Fett",
+      "Commander Cody",
+      "Captain Rex"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_14",
+    "categoryId": "sw_easy",
+    "text": "What creatures inhabit the forest moon of Endor?",
+    "answers": [
+      "Wampas",
+      "Jawas",
+      "Tusken Raiders",
+      "Ewoks"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_15",
+    "categoryId": "sw_easy",
+    "text": "Who is the supreme ruler of the Galactic Empire?",
+    "answers": [
+      "Darth Vader",
+      "Grand Moff Tarkin",
+      "Emperor Palpatine",
+      "Supreme Leader Snoke"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_16",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the ice planet from 'The Empire Strikes Back'?",
+    "answers": [
+      "Bespin",
+      "Hoth",
+      "Endor",
+      "Dagobah"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_17",
+    "categoryId": "sw_easy",
+    "text": "What is the energy field that connects all living things called?",
+    "answers": [
+      "The Light",
+      "The Way",
+      "The Force",
+      "The Path"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_18",
+    "categoryId": "sw_easy",
+    "text": "Who fires the proton torpedoes that destroy the first Death Star?",
+    "answers": [
+      "Han Solo",
+      "Wedge Antilles",
+      "Luke Skywalker",
+      "Biggs Darklighter"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_19",
+    "categoryId": "sw_easy",
+    "text": "What is the name of Lando Calrissian's mining operation on Bespin?",
+    "answers": [
+      "The Spice Mines",
+      "Cloud City",
+      "The Maw",
+      "The Refinery"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_20",
+    "categoryId": "sw_easy",
+    "text": "Who was Anakin Skywalker's Padawan learner in 'The Clone Wars'?",
+    "answers": [
+      "Barriss Offee",
+      "Kanan Jarrus",
+      "Ahsoka Tano",
+      "Ezra Bridger"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_21",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the bounty hunter from the show 'The Mandalorian'?",
+    "answers": [
+      "Boba Fett",
+      "Din Djarin",
+      "IG-11",
+      "Greef Karga"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_22",
+    "categoryId": "sw_easy",
+    "text": "What species is Jar Jar Binks?",
+    "answers": [
+      "Neimoidian",
+      "Gungan",
+      "Toydarian",
+      "Rodian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_23",
+    "categoryId": "sw_easy",
+    "text": "Which planet serves as the capital of the Galactic Republic?",
+    "answers": [
+      "Naboo",
+      "Alderaan",
+      "Coruscant",
+      "Chandrila"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_24",
+    "categoryId": "sw_easy",
+    "text": "Which Sith Lord wields a double-bladed lightsaber in 'The Phantom Menace'?",
+    "answers": [
+      "Darth Vader",
+      "Darth Maul",
+      "Count Dooku",
+      "Darth Sidious"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_25",
+    "categoryId": "sw_easy",
+    "text": "What is the main starfighter used by the Rebel Alliance?",
+    "answers": [
+      "TIE Fighter",
+      "Y-wing",
+      "X-wing",
+      "A-wing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_26",
+    "categoryId": "sw_easy",
+    "text": "What color is Mace Windu's lightsaber?",
+    "answers": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Purple"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_27",
+    "categoryId": "sw_easy",
+    "text": "Who is the cyborg commander of the Separatist droid army?",
+    "answers": [
+      "Count Dooku",
+      "General Grievous",
+      "Nute Gunray",
+      "Wat Tambor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_28",
+    "categoryId": "sw_easy",
+    "text": "What swamp planet does Yoda go into exile on?",
+    "answers": [
+      "Felucia",
+      "Naboo",
+      "Kashyyyk",
+      "Dagobah"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_29",
+    "categoryId": "sw_easy",
+    "text": "What is Kylo Ren's birth name?",
+    "answers": [
+      "Anakin Solo",
+      "Ben Solo",
+      "Jacen Solo",
+      "Ben Skywalker"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_30",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the scavenger from Jakku in 'The Force Awakens'?",
+    "answers": [
+      "Jyn Erso",
+      "Qi'ra",
+      "Rose Tico",
+      "Rey"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_31",
+    "categoryId": "sw_easy",
+    "text": "What is the famous line that Han Solo says to Princess Leia before being frozen in carbonite?",
+    "answers": [
+      "'I love you too.'",
+      "'I know.'",
+      "'I'll be back.'",
+      "'May the Force be with you.'"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_32",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the droid who is Poe Dameron's companion?",
+    "answers": [
+      "R2-D2",
+      "C-3PO",
+      "BB-8",
+      "Chopper"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_33",
+    "categoryId": "sw_easy",
+    "text": "What is the primary color of the Sith's lightsabers?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Purple"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_34",
+    "categoryId": "sw_easy",
+    "text": "Who is the leader of the Rebel Alliance during the original trilogy?",
+    "answers": [
+      "Bail Organa",
+      "Mon Mothma",
+      "Admiral Ackbar",
+      "General Dodonna"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_35",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the planet that is home to the Wookiees?",
+    "answers": [
+      "Endor",
+      "Kashyyyk",
+      "Tatooine",
+      "Naboo"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_36",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the vehicle that Luke Skywalker uses to travel around his home planet?",
+    "answers": [
+      "Speeder bike",
+      "Landspeeder",
+      "Snowspeeder",
+      "Starfighter"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_37",
+    "categoryId": "sw_easy",
+    "text": "Who is Luke Skywalker's twin sister?",
+    "answers": [
+      "Padm\u00e9 Amidala",
+      "Ahsoka Tano",
+      "Leia Organa",
+      "Rey"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_38",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the species that inhabits Tatooine and sells droids?",
+    "answers": [
+      "Tusken Raiders",
+      "Hutts",
+      "Rodians",
+      "Jawas"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_39",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the Sith Lord who was Darth Vader's master?",
+    "answers": [
+      "Darth Maul",
+      "Count Dooku",
+      "Emperor Palpatine",
+      "Darth Plagueis"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_40",
+    "categoryId": "sw_easy",
+    "text": "What is the main goal of the Rebel Alliance?",
+    "answers": [
+      "To conquer the galaxy",
+      "To restore the Republic",
+      "To create a new Empire",
+      "To destroy all droids"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_41",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the battle where the Rebel Alliance destroyed the first Death Star?",
+    "answers": [
+      "Battle of Hoth",
+      "Battle of Endor",
+      "Battle of Yavin",
+      "Battle of Scarif"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_42",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the creature that Jabba the Hutt tries to feed Luke Skywalker to?",
+    "answers": [
+      "Sarlacc",
+      "Rancor",
+      "Wampa",
+      "Nexu"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_43",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the Jedi who was Qui-Gon Jinn's Padawan?",
+    "answers": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Yoda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_44",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the planet where Luke Skywalker was raised?",
+    "answers": [
+      "Alderaan",
+      "Naboo",
+      "Tatooine",
+      "Coruscant"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_45",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the armored walkers used by the Empire on Hoth?",
+    "answers": [
+      "AT-STs",
+      "AT-ATs",
+      "AT-TEs",
+      "AT-DPs"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_46",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the bounty hunter who captured Han Solo?",
+    "answers": [
+      "IG-88",
+      "Dengar",
+      "Bossk",
+      "Boba Fett"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_easy_47",
+    "categoryId": "sw_easy",
+    "text": "What is the opening line of every Star Wars film's title crawl?",
+    "answers": [
+      "'A long time ago in a galaxy far, far away....'",
+      "'In a galaxy divided....'",
+      "'War! The Republic is crumbling....'",
+      "'The Jedi are all but extinct....'"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_easy_48",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the Resistance's top pilot?",
+    "answers": [
+      "Finn",
+      "Poe Dameron",
+      "Snap Wexley",
+      "Bodhi Rook"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_easy_49",
+    "categoryId": "sw_easy",
+    "text": "What is the name of the First Order's main battleship?",
+    "answers": [
+      "The Executor",
+      "The Supremacy",
+      "The Finalizer",
+      "The Steadfast"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_easy_50",
+    "categoryId": "sw_easy",
+    "text": "What are the Force-sensitive children that the Empire hunts called?",
+    "answers": [
+      "Younglings",
+      "Padawans",
+      "Initiates",
+      "Force-sensitives"
+    ],
+    "correctAnswerIndex": 0
+  }
+]

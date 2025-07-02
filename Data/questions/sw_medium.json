@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sw_medium_1",
+    "categoryId": "sw_medium",
+    "text": "What was the executive order that Palpatine used to brand the Jedi as traitors?",
+    "answers": [
+      "Order 65",
+      "Order 66",
+      "Order 99",
+      "Order 37"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_2",
+    "categoryId": "sw_medium",
+    "text": "In which movie does Yoda famously say, 'Do. Or do not. There is no try.'?",
+    "answers": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Phantom Menace"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_3",
+    "categoryId": "sw_medium",
+    "text": "What material is the Mandalorian's armor primarily made of?",
+    "answers": [
+      "Durasteel",
+      "Cortosis",
+      "Beskar",
+      "Phrik"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_4",
+    "categoryId": "sw_medium",
+    "text": "What is the name of Poe Dameron's astromech droid?",
+    "answers": [
+      "R2-D2",
+      "Chopper",
+      "BB-8",
+      "D-O"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_5",
+    "categoryId": "sw_medium",
+    "text": "On which planet does Anakin Skywalker lose his duel with Obi-Wan Kenobi?",
+    "answers": [
+      "Tatooine",
+      "Geonosis",
+      "Kamino",
+      "Mustafar"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_6",
+    "categoryId": "sw_medium",
+    "text": "What is Count Dooku's Sith title?",
+    "answers": [
+      "Darth Plagueis",
+      "Darth Bane",
+      "Darth Tyranus",
+      "Darth Maul"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_7",
+    "categoryId": "sw_medium",
+    "text": "Who was the lead scientist behind the creation of the Death Star?",
+    "answers": [
+      "Orson Krennic",
+      "Grand Moff Tarkin",
+      "Bevel Lemelisk",
+      "Galen Erso"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_8",
+    "categoryId": "sw_medium",
+    "text": "What is the common name for the cantina in Mos Eisley?",
+    "answers": [
+      "The Outlander Club",
+      "Dex's Diner",
+      "The Dragon's Pearl",
+      "Chalmun's Cantina"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_9",
+    "categoryId": "sw_medium",
+    "text": "What is Finn's stormtrooper designation number?",
+    "answers": [
+      "TK-421",
+      "FN-2187",
+      "CT-7567",
+      "RC-1138"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_10",
+    "categoryId": "sw_medium",
+    "text": "Which crime lord resides in a palace on Tatooine?",
+    "answers": [
+      "Xizor",
+      "Dryden Vos",
+      "Hondo Ohnaka",
+      "Jabba the Hutt"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_11",
+    "categoryId": "sw_medium",
+    "text": "The Republic's clone army was created on which planet?",
+    "answers": [
+      "Geonosis",
+      "Kamino",
+      "Naboo",
+      "Ryloth"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_12",
+    "categoryId": "sw_medium",
+    "text": "Which Mon Calamari admiral famously declared 'It's a trap!'?",
+    "answers": [
+      "Admiral Raddus",
+      "Admiral Ackbar",
+      "Nahdar Vebb",
+      "Lee-Char"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_13",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the First Order's planet-sized superweapon?",
+    "answers": [
+      "The Death Star",
+      "The Malevolence",
+      "Starkiller Base",
+      "The Sun Crusher"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_14",
+    "categoryId": "sw_medium",
+    "text": "Rey is the granddaughter of which powerful Sith Lord?",
+    "answers": [
+      "Darth Vader",
+      "Darth Maul",
+      "Darth Bane",
+      "Darth Sidious"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_15",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the creature living in the trash compactor on the first Death Star?",
+    "answers": [
+      "Sarlacc",
+      "Rancor",
+      "Dianoga",
+      "Wampa"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_16",
+    "categoryId": "sw_medium",
+    "text": "Who built the protocol droid C-3PO?",
+    "answers": [
+      "Luke Skywalker",
+      "Owen Lars",
+      "Anakin Skywalker",
+      "Padm\u00e9 Amidala"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_17",
+    "categoryId": "sw_medium",
+    "text": "Who was the Supreme Leader of the First Order before Kylo Ren?",
+    "answers": [
+      "General Hux",
+      "Captain Phasma",
+      "Emperor Palpatine",
+      "Supreme Leader Snoke"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_18",
+    "categoryId": "sw_medium",
+    "text": "Which vehicle did Luke Skywalker pilot to take down an AT-AT on Hoth?",
+    "answers": [
+      "X-wing",
+      "Snowspeeder",
+      "A-wing",
+      "Landspeeder"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_19",
+    "categoryId": "sw_medium",
+    "text": "Padm\u00e9 Amidala was the former queen and senator of which planet?",
+    "answers": [
+      "Alderaan",
+      "Chandrila",
+      "Naboo",
+      "Coruscant"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_20",
+    "categoryId": "sw_medium",
+    "text": "What species is Admiral Ackbar?",
+    "answers": [
+      "Quarren",
+      "Ithorian",
+      "Mon Calamari",
+      "Sullustan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_21",
+    "categoryId": "sw_medium",
+    "text": "Who was the Supreme Chancellor of the Republic immediately before Palpatine?",
+    "answers": [
+      "Bail Organa",
+      "Finis Valorum",
+      "Mon Mothma",
+      "Mas Amedda"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_22",
+    "categoryId": "sw_medium",
+    "text": "What type of starfighter does Boba Fett pilot?",
+    "answers": [
+      "TIE Interceptor",
+      "Slave I",
+      "Lambda-class Shuttle",
+      "Gauntlet Fighter"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_23",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the battle in which the second Death Star was destroyed?",
+    "answers": [
+      "Battle of Yavin",
+      "Battle of Hoth",
+      "Battle of Coruscant",
+      "Battle of Endor"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_24",
+    "categoryId": "sw_medium",
+    "text": "Who assassinated Jango Fett on the planet Geonosis?",
+    "answers": [
+      "Obi-Wan Kenobi",
+      "Anakin Skywalker",
+      "Mace Windu",
+      "Yoda"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_25",
+    "categoryId": "sw_medium",
+    "text": "What color is the crossguard lightsaber wielded by Kylo Ren?",
+    "answers": [
+      "Blue",
+      "Red",
+      "Green",
+      "White"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_26",
+    "categoryId": "sw_medium",
+    "text": "What is the primary export of the planet Kessel?",
+    "answers": [
+      "Bacta",
+      "Tibanna gas",
+      "Spice",
+      "Kyber crystals"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_27",
+    "categoryId": "sw_medium",
+    "text": "Who trained Obi-Wan Kenobi as a Jedi Padawan?",
+    "answers": [
+      "Yoda",
+      "Mace Windu",
+      "Plo Koon",
+      "Qui-Gon Jinn"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_28",
+    "categoryId": "sw_medium",
+    "text": "What is the capital city of Naboo?",
+    "answers": [
+      "Otoh Gunga",
+      "Theed",
+      "Keren",
+      "Moenia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_29",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the giant space slug that tries to eat the Millennium Falcon?",
+    "answers": [
+      "Sarlacc",
+      "Exogorth",
+      "Zillo Beast",
+      "Rancor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_30",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the Resistance pilot who is a close friend of Poe Dameron?",
+    "answers": [
+      "Wedge Antilles",
+      "Snap Wexley",
+      "Biggs Darklighter",
+      "Jek Porkins"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_31",
+    "categoryId": "sw_medium",
+    "text": "Who ordered the creation of the clone army?",
+    "answers": [
+      "Chancellor Palpatine",
+      "Jedi Master Sifo-Dyas",
+      "Count Dooku",
+      "Lama Su"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_32",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the operation to steal the Death Star plans in 'Rogue One'?",
+    "answers": [
+      "Operation: Skyhook",
+      "Operation: Cinder",
+      "Project Stardust",
+      "Operation: Hope"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_33",
+    "categoryId": "sw_medium",
+    "text": "What is the species of the character Greedo, who Han Solo famously shoots in the cantina?",
+    "answers": [
+      "Trandoshan",
+      "Duros",
+      "Ithorian",
+      "Rodian"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_34",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the 'Child' in 'The Mandalorian'?",
+    "answers": [
+      "Baby Yoda",
+      "The Asset",
+      "Grogu",
+      "It is never named"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_35",
+    "categoryId": "sw_medium",
+    "text": "Which Jedi Master sits on the Jedi Council but is of the same species as Yoda?",
+    "answers": [
+      "Yaddle",
+      "Oppo Rancisis",
+      "Even Piell",
+      "Yarael Poof"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_36",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the planet where the Rebel Alliance has its base in 'The Empire Strikes Back'?",
+    "answers": [
+      "Yavin 4",
+      "Hoth",
+      "Endor",
+      "Dantooine"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_37",
+    "categoryId": "sw_medium",
+    "text": "Who is the leader of the Knights of Ren?",
+    "answers": [
+      "Kylo Ren",
+      "Snoke",
+      "Palpatine",
+      "The Ren"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_38",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the ship that Anakin and Obi-Wan crash-land on Coruscant in 'Revenge of the Sith'?",
+    "answers": [
+      "The Invisible Hand",
+      "The Malevolence",
+      "The Resolute",
+      "The Negotiator"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_39",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the leader of the Geonosians?",
+    "answers": [
+      "Poggle the Lesser",
+      "Wat Tambor",
+      "San Hill",
+      "Shu Mai"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_40",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the senator from Alderaan who is a key figure in the Rebel Alliance?",
+    "answers": [
+      "Mon Mothma",
+      "Bail Organa",
+      "Padm\u00e9 Amidala",
+      "Fang Zar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_41",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the Imperial officer who gives the order to fire on the fleeing Tantive IV?",
+    "answers": [
+      "Captain Needa",
+      "Admiral Ozzel",
+      "Captain Piett",
+      "Commander Praji"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_medium_42",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the ancient dark side weapon that the Sith seek in 'The Rise of Skywalker'?",
+    "answers": [
+      "The Darksaber",
+      "A Sith Holocron",
+      "The Wayfinder",
+      "A Kyber Crystal"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_43",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the planet where Rey finds Luke Skywalker in 'The Force Awakens'?",
+    "answers": [
+      "Ahch-To",
+      "Crait",
+      "Takodana",
+      "Pasaana"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_44",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the leader of the Cloud Riders in 'Solo: A Star Wars Story'?",
+    "answers": [
+      "Dryden Vos",
+      "Enfys Nest",
+      "Qi'ra",
+      "Tobias Beckett"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_45",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the Jedi Knight who was killed by Darth Maul on Naboo?",
+    "answers": [
+      "Qui-Gon Jinn",
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Kit Fisto"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_46",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the planet where the final battle takes place in 'The Rise of Skywalker'?",
+    "answers": [
+      "Exegol",
+      "Ajan Kloss",
+      "Kef Bir",
+      "Pasaana"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_medium_47",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the Twi'lek pilot who is a member of the Spectres in 'Star Wars Rebels'?",
+    "answers": [
+      "Sabine Wren",
+      "Hera Syndulla",
+      "Kanan Jarrus",
+      "Zeb Orrelios"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_medium_48",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the Imperial Grand Admiral known for his brilliant strategies and appreciation of art?",
+    "answers": [
+      "Grand Moff Tarkin",
+      "Director Krennic",
+      "Grand Admiral Thrawn",
+      "Admiral Piett"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_49",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the former stormtrooper who helps the heroes in 'The Mandalorian'?",
+    "answers": [
+      "Cara Dune",
+      "Greef Karga",
+      "Migs Mayfeld",
+      "Boba Fett"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_medium_50",
+    "categoryId": "sw_medium",
+    "text": "What is the name of the crystal that powers the Death Star's superlaser?",
+    "answers": [
+      "Kyber crystals",
+      "Tibanna gas",
+      "Coaxium",
+      "Aurodium"
+    ],
+    "correctAnswerIndex": 0
+  }
+]

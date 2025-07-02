@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hp_hard_1",
+    "categoryId": "hp_hard",
+    "text": "What is the serial number of the wand Harry Potter possesses?",
+    "answers": [
+      "HBC 2772",
+      "Acquired from Ollivanders",
+      "There is no serial number",
+      "It is only described as '11 inches, Holly, Phoenix Feather'"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_2",
+    "categoryId": "hp_hard",
+    "text": "What is the five-digit code to enter the visitor's entrance at the Ministry of Magic?",
+    "answers": [
+      "6-2-4-4-2 (MAGIC)",
+      "7-3-2-7-3 (PEACE)",
+      "9-3-5-5-7 (WIZRD)",
+      "3-8-6-2-5 (DUMBL)"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_3",
+    "categoryId": "hp_hard",
+    "text": "Who was the proprietor of the Hog's Head Inn in Hogsmeade?",
+    "answers": [
+      "Albus Dumbledore",
+      "Mundungus Fletcher",
+      "Aberforth Dumbledore",
+      "Madam Rosmerta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_4",
+    "categoryId": "hp_hard",
+    "text": "Which Gringotts vault belonged to the Potter family?",
+    "answers": [
+      "Vault 713",
+      "Vault 687",
+      "Vault 711",
+      "Vault 722"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_5",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the book that contains the story of the Deathly Hallows?",
+    "answers": [
+      "A History of Magic",
+      "Hogwarts, A History",
+      "The Tales of Beedle the Bard",
+      "Moste Potente Potions"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_6",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the centaur who saves Harry from Quirrell in the Forbidden Forest?",
+    "answers": [
+      "Bane",
+      "Ronan",
+      "Magorian",
+      "Firenze"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_7",
+    "categoryId": "hp_hard",
+    "text": "What is the password to the Prefects' bathroom on the fifth floor?",
+    "answers": [
+      "Balderdash",
+      "Caput Draconis",
+      "Pine Fresh",
+      "Flibbertigibbet"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_8",
+    "categoryId": "hp_hard",
+    "text": "Who was the Ravenclaw Prefect that Harry and Ron asked for the location of the common room?",
+    "answers": [
+      "Penelope Clearwater",
+      "Eddie Carmichael",
+      "Padma Patil",
+      "Terry Boot"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_9",
+    "categoryId": "hp_hard",
+    "text": "What is the full name of Moaning Myrtle?",
+    "answers": [
+      "Myrtle Warren",
+      "Myrtle Elizabeth Warren",
+      "Myrtle Smith",
+      "Myrtle Anne Warren"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_10",
+    "categoryId": "hp_hard",
+    "text": "Which wizard was NOT a member of the original Order of the Phoenix?",
+    "answers": [
+      "Mundungus Fletcher",
+      "Sturgis Podmore",
+      "Benjy Fenwick",
+      "Caradoc Dearborn"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_11",
+    "categoryId": "hp_hard",
+    "text": "What is the title of Chapter 1 of 'Harry Potter and the Sorcerer's Stone'?",
+    "answers": [
+      "The Boy Who Lived",
+      "The Vanishing Glass",
+      "The Letters from No One",
+      "The Keeper of the Keys"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_12",
+    "categoryId": "hp_hard",
+    "text": "What wood is Ron's second wand made of?",
+    "answers": [
+      "Ash",
+      "Willow",
+      "Oak",
+      "Vine"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_13",
+    "categoryId": "hp_hard",
+    "text": "What is the maximum speed of a Firebolt broomstick?",
+    "answers": [
+      "120 mph",
+      "Over 150 mph",
+      "200 mph",
+      "The speed is not specified"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_14",
+    "categoryId": "hp_hard",
+    "text": "Who was the Head of the Department of Magical Law Enforcement when Harry was tried?",
+    "answers": [
+      "Cornelius Fudge",
+      "Amelia Bones",
+      "Bartemius Crouch Sr.",
+      "Pius Thicknesse"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_15",
+    "categoryId": "hp_hard",
+    "text": "What is the core of Bellatrix Lestrange's wand?",
+    "answers": [
+      "Phoenix Feather",
+      "Unicorn Hair",
+      "Veela Hair",
+      "Dragon Heartstring"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_16",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the executioner sent to execute Buckbeak?",
+    "answers": [
+      "Walden Macnair",
+      "Scabior",
+      "Yaxley",
+      "Thorfinn Rowle"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_17",
+    "categoryId": "hp_hard",
+    "text": "What does the acronym N.E.W.T. stand for in wizarding exams?",
+    "answers": [
+      "Notably Exhausting Wizarding Test",
+      "Nastily Exhausting Wizarding Test",
+      "Newt's Excellent Wizarding Test",
+      "Notably Extreme Wizarding Test"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_18",
+    "categoryId": "hp_hard",
+    "text": "Which of the following is not one of the known Peverell brothers?",
+    "answers": [
+      "Antioch",
+      "Cadmus",
+      "Ignotus",
+      "Cassius"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_19",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the Apparition instructor at Hogwarts?",
+    "answers": [
+      "Wilkie Twycross",
+      "Griselda Marchbanks",
+      "Tofty",
+      "Tiberius Ogden"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_20",
+    "categoryId": "hp_hard",
+    "text": "What is the middle name of Ginny Weasley?",
+    "answers": [
+      "Molly",
+      "Jane",
+      "Lily",
+      "Rose"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_21",
+    "categoryId": "hp_hard",
+    "text": "Who was the first goblin killed by the Basilisk in the Chamber of Secrets?",
+    "answers": [
+      "Griphook",
+      "Gornuk",
+      "No goblin was killed by the Basilisk",
+      "The book doesn't specify"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_22",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the sweet that induces bleeding from the nose, part of the Skiving Snackbox?",
+    "answers": [
+      "Nosebleed Nougat",
+      "Puking Pastilles",
+      "Fainting Fancies",
+      "Fever Fudge"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_23",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the wizard who 'invented' the Golden Snitch?",
+    "answers": [
+      "Barberus Bragge",
+      "Bowman Wright",
+      "Guthrie Lochrin",
+      "Cyprian Youdle"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_24",
+    "categoryId": "hp_hard",
+    "text": "How many possible Quidditch fouls are there?",
+    "answers": [
+      "350",
+      "500",
+      "700",
+      "1000"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_25",
+    "categoryId": "hp_hard",
+    "text": "Who was the Minister for Magic immediately preceding Cornelius Fudge?",
+    "answers": [
+      "Millicent Bagnold",
+      "Artemisia Lufkin",
+      "Eugenia Jenkins",
+      "Harold Minchum"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_26",
+    "categoryId": "hp_hard",
+    "text": "What type of wood is the Elder Wand made from?",
+    "answers": [
+      "Yew",
+      "Holly",
+      "Elder",
+      "Oak"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_27",
+    "categoryId": "hp_hard",
+    "text": "Which professor at Hogwarts is the head of Hufflepuff house?",
+    "answers": [
+      "Filius Flitwick",
+      "Horace Slughorn",
+      "Pomona Sprout",
+      "Septima Vector"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_28",
+    "categoryId": "hp_hard",
+    "text": "What is the incantation to erase memories?",
+    "answers": [
+      "Obliviate",
+      "Confundo",
+      "Imperio",
+      "Expelliarmus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_29",
+    "categoryId": "hp_hard",
+    "text": "Who is the author of 'Hogwarts: A History'?",
+    "answers": [
+      "Adalbert Waffling",
+      "Bathilda Bagshot",
+      "Newt Scamander",
+      "Arsenius Jigger"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_30",
+    "categoryId": "hp_hard",
+    "text": "In the prophecy, who is described as being 'born to those who have thrice defied' Voldemort?",
+    "answers": [
+      "Harry Potter only",
+      "Neville Longbottom only",
+      "Both Harry and Neville",
+      "Neither Harry nor Neville"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_31",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the fountain in the atrium of the Ministry of Magic?",
+    "answers": [
+      "Fountain of Magical Brethren",
+      "The Fountain of Fair Fortune",
+      "Fountain of Power",
+      "The Brotherhood Fountain"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_32",
+    "categoryId": "hp_hard",
+    "text": "Who was the editor of The Quibbler?",
+    "answers": [
+      "Luna Lovegood",
+      "Pandora Lovegood",
+      "Xenophilius Lovegood",
+      "Barnaby Cuffe"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_33",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the centaur who taught Divination at Hogwarts?",
+    "answers": [
+      "Firenze",
+      "Bane",
+      "Ronan",
+      "Magorian"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_34",
+    "categoryId": "hp_hard",
+    "text": "What is the primary ingredient in the Draught of Living Death?",
+    "answers": [
+      "Powdered root of asphodel",
+      "Infusion of wormwood",
+      "Sloth brain mucus",
+      "Moondew"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_35",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the ghoul that lives in the Weasley's attic?",
+    "answers": [
+      "It has no name",
+      "Barnaby",
+      "Peeves",
+      "Binky"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_36",
+    "categoryId": "hp_hard",
+    "text": "Who was the Hufflepuff student who was also a champion in the Triwizard Tournament?",
+    "answers": [
+      "Justin Finch-Fletchley",
+      "Ernie Macmillan",
+      "Susan Bones",
+      "Cedric Diggory"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_37",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the device Dumbledore uses to put out lights?",
+    "answers": [
+      "The Deluminator",
+      "The Lumos Maxima",
+      "The Snuffer",
+      "The Extinguisher"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_38",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the curse that caused the permanent residents of St. Mungo's long-term resident ward to be there?",
+    "answers": [
+      "Memory Charm",
+      "Babbling Curse",
+      "Jelly-Legs Jinx",
+      "Unforgivable Curses"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_39",
+    "categoryId": "hp_hard",
+    "text": "Which of these is NOT a sweet from Honeydukes?",
+    "answers": [
+      "Fizzing Whizbees",
+      "Drooble's Best Blowing Gum",
+      "Bertie Bott's Every Flavour Beans",
+      "Sugar Quills"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_hard_40",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the Bulgarian Minister for Magic?",
+    "answers": [
+      "Oblansk",
+      "Karkaroff",
+      "Volkov",
+      "Zograf"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_41",
+    "categoryId": "hp_hard",
+    "text": "Who was the original owner of the locket Horcrux?",
+    "answers": [
+      "Salazar Slytherin",
+      "Merope Gaunt",
+      "Hepzibah Smith",
+      "Marvolo Gaunt"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_42",
+    "categoryId": "hp_hard",
+    "text": "What is the core of Hermione Granger's wand?",
+    "answers": [
+      "Phoenix Feather",
+      "Dragon Heartstring",
+      "Unicorn Hair",
+      "Veela Hair"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_43",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the wizarding hospital?",
+    "answers": [
+      "St. Mungo's Hospital for Magical Maladies and Injuries",
+      "The Wizarding Infirmary",
+      "The Magical Menagerie",
+      "St. Oswald's Hospital for Old Witches and Wizards"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_44",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the village where the Potters lived and were killed?",
+    "answers": [
+      "Hogsmeade",
+      "Little Hangleton",
+      "Godric's Hollow",
+      "Tinworth"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_hard_45",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the organization founded by Harry, Ron, and Hermione to oppose Dolores Umbridge?",
+    "answers": [
+      "The Order of the Phoenix",
+      "Dumbledore's Army",
+      "The Society for the Protection of Elfish Welfare",
+      "The Triwizard Champions"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_hard_46",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the Irish Quidditch team's Chasers?",
+    "answers": [
+      "Troy, Moran, and Quigley",
+      "Lynch, Connolly, and Ryan",
+      "Moran, Troy, and Connolly",
+      "Quigley, Lynch, and Ryan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_47",
+    "categoryId": "hp_hard",
+    "text": "Who was the Hogwarts librarian?",
+    "answers": [
+      "Irma Pince",
+      "Aurora Sinistra",
+      "Poppy Pomfrey",
+      "Charity Burbage"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_48",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the charm that conjures a snake?",
+    "answers": [
+      "Serpensortia",
+      "Vipera Evanesca",
+      "Anguis duo",
+      "Colubra apereo"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_49",
+    "categoryId": "hp_hard",
+    "text": "What is the name of the werewolf who bit Remus Lupin?",
+    "answers": [
+      "Fenrir Greyback",
+      "Silas Greyvane",
+      "Tiberius McLaggen",
+      "Yaxley"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_hard_50",
+    "categoryId": "hp_hard",
+    "text": "What is the incantation for the spell that killed Snape?",
+    "answers": [
+      "Avada Kedavra",
+      "Sectumsempra",
+      "Crucio",
+      "There was no incantation, Nagini killed him"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

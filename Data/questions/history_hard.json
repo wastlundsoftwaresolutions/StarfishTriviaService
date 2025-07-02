@@ -1,0 +1,602 @@
+[
+  {
+    "id": "history_hard_1",
+    "categoryId": "history_hard",
+    "text": "What treaty, signed in 1648, is generally considered to have ended the Thirty Years' War?",
+    "answers": [
+      "Treaty of Versailles",
+      "Peace of Westphalia",
+      "Congress of Vienna",
+      "Treaty of Tordesillas"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_2",
+    "categoryId": "history_hard",
+    "text": "The series of conflicts between Rome and Carthage for control of the Mediterranean were known as the:",
+    "answers": [
+      "Peloponnesian Wars",
+      "Gallic Wars",
+      "Punic Wars",
+      "Samnite Wars"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_3",
+    "categoryId": "history_hard",
+    "text": "Who was the first emperor of a unified China, beginning the Qin Dynasty?",
+    "answers": [
+      "Sun Tzu",
+      "Confucius",
+      "Emperor Wu of Han",
+      "Qin Shi Huang"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_4",
+    "categoryId": "history_hard",
+    "text": "The 'Pax Romana' was a long period of relative peace and stability experienced by which empire?",
+    "answers": [
+      "The British Empire",
+      "The Mongol Empire",
+      "The Roman Empire",
+      "The Ottoman Empire"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_5",
+    "categoryId": "history_hard",
+    "text": "The Khmer Rouge regime carried out a genocide in the 1970s in which modern-day country?",
+    "answers": [
+      "Vietnam",
+      "Thailand",
+      "Laos",
+      "Cambodia"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_6",
+    "categoryId": "history_hard",
+    "text": "The 'Glorious Revolution' in 1688 led to the overthrow of which English king?",
+    "answers": [
+      "Charles I",
+      "James II",
+      "Henry VIII",
+      "George III"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_7",
+    "categoryId": "history_hard",
+    "text": "Justinian I was a famous emperor of which empire, known for his legal code and attempts to reconquer western territories?",
+    "answers": [
+      "The Holy Roman Empire",
+      "The Byzantine Empire",
+      "The Persian Empire",
+      "The Carolingian Empire"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_8",
+    "categoryId": "history_hard",
+    "text": "The Meiji Restoration in the late 19th century marked a period of rapid modernization in which country?",
+    "answers": [
+      "China",
+      "Korea",
+      "Japan",
+      "Russia"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_9",
+    "categoryId": "history_hard",
+    "text": "What was the name of the system of racial segregation enforced in South Africa from 1948 to 1994?",
+    "answers": [
+      "Jim Crow",
+      "Segregation",
+      "Caste System",
+      "Apartheid"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_10",
+    "categoryId": "history_hard",
+    "text": "The Battle of Agincourt, a major English victory in the Hundred Years' War, was notable for the effectiveness of what weapon?",
+    "answers": [
+      "The catapult",
+      "The cannon",
+      "The longbow",
+      "The crossbow"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_11",
+    "categoryId": "history_hard",
+    "text": "The War of the Spanish Succession was ended by which 1713 treaty?",
+    "answers": [
+      "The Treaty of Paris",
+      "The Treaty of Westphalia",
+      "The Treaty of Utrecht",
+      "The Treaty of Aix-la-Chapelle"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_12",
+    "categoryId": "history_hard",
+    "text": "Who was the Carthaginian general who famously crossed the Alps with elephants to invade Italy?",
+    "answers": [
+      "Hamilcar Barca",
+      "Hannibal Barca",
+      "Hasdrubal Barca",
+      "Scipio Africanus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_13",
+    "categoryId": "history_hard",
+    "text": "The Taiping Rebellion, one of the deadliest conflicts in human history, occurred in which country during the mid-19th century?",
+    "answers": [
+      "India",
+      "Russia",
+      "Japan",
+      "China"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_14",
+    "categoryId": "history_hard",
+    "text": "What was the 'Great Schism' of 1054?",
+    "answers": [
+      "The split between the Roman Catholic and Eastern Orthodox churches",
+      "The period with multiple rival popes",
+      "The formal division of the Roman Empire",
+      "The start of the Protestant Reformation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_hard_15",
+    "categoryId": "history_hard",
+    "text": "The Battle of Lepanto in 1571 was a significant naval engagement between the Ottoman Empire and whom?",
+    "answers": [
+      "The Holy Roman Empire",
+      "The Spanish Empire",
+      "The Republic of Venice",
+      "The Holy League"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_16",
+    "categoryId": "history_hard",
+    "text": "The 'Edict of Nantes,' issued by Henry IV of France, granted substantial rights to which religious minority?",
+    "answers": [
+      "Jews",
+      "Catholics",
+      "Huguenots (Protestants)",
+      "Muslims"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_17",
+    "categoryId": "history_hard",
+    "text": "Who was the ruler of the Mali Empire, often considered one of the wealthiest people in history?",
+    "answers": [
+      "Sundiata Keita",
+      "Mansa Musa",
+      "Askia the Great",
+      "Idris Alooma"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_18",
+    "categoryId": "history_hard",
+    "text": "The political philosophy of 'Legalism' was most influential during which Chinese dynasty?",
+    "answers": [
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Song Dynasty",
+      "Qin Dynasty"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_19",
+    "categoryId": "history_hard",
+    "text": "What was the 'Zollverein', established in 1834?",
+    "answers": [
+      "A German military alliance",
+      "A customs union among German states",
+      "The German parliament",
+      "A German secret police force"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_20",
+    "categoryId": "history_hard",
+    "text": "The ancient Library of Alexandria was located in which modern-day country?",
+    "answers": [
+      "Greece",
+      "Turkey",
+      "Egypt",
+      "Italy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_21",
+    "categoryId": "history_hard",
+    "text": "The 'Shattering of the Union' or 'Time of Troubles' was a period of crisis in which country's history?",
+    "answers": [
+      "Poland",
+      "Russia",
+      "Sweden",
+      "The Ottoman Empire"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_22",
+    "categoryId": "history_hard",
+    "text": "Ashoka the Great, known for his conversion to Buddhism, was an emperor of which ancient Indian empire?",
+    "answers": [
+      "The Gupta Empire",
+      "The Mauryan Empire",
+      "The Kushan Empire",
+      "The Chola Dynasty"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_23",
+    "categoryId": "history_hard",
+    "text": "The 'Defenestration of Prague' in 1618 was a key trigger for which major European conflict?",
+    "answers": [
+      "The Seven Years' War",
+      "The Napoleonic Wars",
+      "The Thirty Years' War",
+      "The War of the Austrian Succession"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_24",
+    "categoryId": "history_hard",
+    "text": "What was the primary export of the Kingdom of Aksum, located in modern-day Ethiopia and Eritrea?",
+    "answers": [
+      "Gold",
+      "Ivory",
+      "Salt",
+      "Spices"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_25",
+    "categoryId": "history_hard",
+    "text": "The 'Investiture Controversy' was a conflict between secular rulers and what institution?",
+    "answers": [
+      "The Papacy",
+      "The Merchant Guilds",
+      "The Universities",
+      "The Knightly Orders"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_hard_26",
+    "categoryId": "history_hard",
+    "text": "The Battle of Dien Bien Phu in 1954 led to the withdrawal of which colonial power from Vietnam?",
+    "answers": [
+      "Great Britain",
+      "The United States",
+      "China",
+      "France"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_27",
+    "categoryId": "history_hard",
+    "text": "The 'Cahokia' mounds, a major pre-Columbian city, are located in which modern U.S. state?",
+    "answers": [
+      "Ohio",
+      "Illinois",
+      "Mississippi",
+      "Florida"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_28",
+    "categoryId": "history_hard",
+    "text": "What was the 'Jacquerie'?",
+    "answers": [
+      "A medieval French peasant revolt",
+      "A type of French sailing ship",
+      "A philosophical movement",
+      "A royal decree"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_hard_29",
+    "categoryId": "history_hard",
+    "text": "The 'Tanzimat' was a period of reform in the 19th century in which empire?",
+    "answers": [
+      "The Russian Empire",
+      "The Austro-Hungarian Empire",
+      "The Ottoman Empire",
+      "The Qing Dynasty"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_30",
+    "categoryId": "history_hard",
+    "text": "The Treaty of Tordesillas in 1494 divided the non-European world between which two countries?",
+    "answers": [
+      "England and France",
+      "Spain and Portugal",
+      "The Netherlands and England",
+      "Venice and Genoa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_31",
+    "categoryId": "history_hard",
+    "text": "Who was the chief architect of the post-Napoleonic European order at the Congress of Vienna?",
+    "answers": [
+      "Tsar Alexander I",
+      "Klemens von Metternich",
+      "Viscount Castlereagh",
+      "Charles Maurice de Talleyrand"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_32",
+    "categoryId": "history_hard",
+    "text": "The term 'Anschluss' refers to the 1938 annexation of which country by Nazi Germany?",
+    "answers": [
+      "Poland",
+      "Czechoslovakia",
+      "Austria",
+      "Denmark"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_33",
+    "categoryId": "history_hard",
+    "text": "The discovery of 'Linear B' script provided evidence of which civilization's control over Crete?",
+    "answers": [
+      "Minoan",
+      "Mycenaean Greek",
+      "Hittite",
+      "Phoenician"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_34",
+    "categoryId": "history_hard",
+    "text": "The 'Corn Laws' in 19th-century Britain were tariffs and restrictions on what type of imported goods?",
+    "answers": [
+      "Textiles",
+      "Iron",
+      "Grain",
+      "Luxury goods"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_35",
+    "categoryId": "history_hard",
+    "text": "The 'Sepoy Mutiny' or 'Indian Rebellion of 1857' was a major uprising against the rule of which entity?",
+    "answers": [
+      "The Mughal Empire",
+      "The French Empire",
+      "The British East India Company",
+      "The Portuguese Empire"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_36",
+    "categoryId": "history_hard",
+    "text": "The concept of 'zero' as a number was first developed by mathematicians in which region?",
+    "answers": [
+      "Ancient Greece",
+      "The Islamic Golden Age",
+      "The Mayan Civilization",
+      "Ancient India"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_37",
+    "categoryId": "history_hard",
+    "text": "Which conflict is often called the 'first modern war' due to its use of technologies like railways and telegraphs?",
+    "answers": [
+      "The Napoleonic Wars",
+      "The American Civil War",
+      "The Franco-Prussian War",
+      "The Crimean War"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_38",
+    "categoryId": "history_hard",
+    "text": "The 'Hanseatic League' was a medieval commercial and defensive confederation of merchant guilds and market towns in what region?",
+    "answers": [
+      "The Mediterranean",
+      "The Iberian Peninsula",
+      "Northern Europe",
+      "The Black Sea"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_39",
+    "categoryId": "history_hard",
+    "text": "What was the 'Kulturkampf' initiated by Otto von Bismarck in the German Empire?",
+    "answers": [
+      "A campaign to promote German culture abroad",
+      "An anti-socialist campaign",
+      "A struggle against the influence of the Catholic Church",
+      "A plan for rapid industrialization"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_40",
+    "categoryId": "history_hard",
+    "text": "The 'Code Noir' (Black Code) was a decree passed by which country to define the conditions of slavery in its colonies?",
+    "answers": [
+      "Spain",
+      "Portugal",
+      "Great Britain",
+      "France"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_hard_41",
+    "categoryId": "history_hard",
+    "text": "Which Pope initiated the First Crusade in 1095 at the Council of Clermont?",
+    "answers": [
+      "Gregory VII",
+      "Urban II",
+      "Innocent III",
+      "Leo IX"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_42",
+    "categoryId": "history_hard",
+    "text": "The 'An Lushan Rebellion' was a devastating conflict that took place during which Chinese dynasty?",
+    "answers": [
+      "Han",
+      "Song",
+      "Tang",
+      "Ming"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_43",
+    "categoryId": "history_hard",
+    "text": "The Battle of Adwa in 1896 was a significant victory for which African nation against a European colonial power?",
+    "answers": [
+      "Sudan",
+      "Ethiopia",
+      "South Africa",
+      "Algeria"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_44",
+    "categoryId": "history_hard",
+    "text": "The philosophical school of 'Stoicism' originated in which ancient city?",
+    "answers": [
+      "Rome",
+      "Sparta",
+      "Athens",
+      "Alexandria"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_45",
+    "categoryId": "history_hard",
+    "text": "What was the 'Putting-out system' that preceded the factory system in the Industrial Revolution?",
+    "answers": [
+      "A system of poor relief",
+      "A method for extinguishing fires in mines",
+      "A system of subcontracting work to be done in homes",
+      "A way of disposing of industrial waste"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_46",
+    "categoryId": "history_hard",
+    "text": "The 'Sonderweg' thesis is a controversial historical theory concerning the unique historical development of which country?",
+    "answers": [
+      "Russia",
+      "Japan",
+      "Germany",
+      "The United States"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_47",
+    "categoryId": "history_hard",
+    "text": "Which civilization, located in modern-day Turkey, was a major power in the ancient Near East and a rival of Egypt?",
+    "answers": [
+      "The Assyrians",
+      "The Babylonians",
+      "The Hittites",
+      "The Phoenicians"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_48",
+    "categoryId": "history_hard",
+    "text": "The 'War of the Triple Alliance' was a South American conflict that pitted Paraguay against which three countries?",
+    "answers": [
+      "Chile, Bolivia, and Peru",
+      "Argentina, Brazil, and Uruguay",
+      "Colombia, Venezuela, and Ecuador",
+      "Peru, Ecuador, and Bolivia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_hard_49",
+    "categoryId": "history_hard",
+    "text": "The 'Devshirme' system was used by which empire to recruit soldiers and bureaucrats from conquered Christian lands?",
+    "answers": [
+      "The Mongol Empire",
+      "The Holy Roman Empire",
+      "The Ottoman Empire",
+      "The Byzantine Empire"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_hard_50",
+    "categoryId": "history_hard",
+    "text": "The discovery of what resource in the Witwatersrand basin led to the founding of Johannesburg and the Second Boer War?",
+    "answers": [
+      "Diamonds",
+      "Gold",
+      "Coal",
+      "Oil"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

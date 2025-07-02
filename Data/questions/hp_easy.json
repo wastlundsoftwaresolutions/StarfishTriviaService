@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hp_easy_1",
+    "categoryId": "hp_easy",
+    "text": "What is the name of Harry's owl?",
+    "answers": [
+      "Hedwig",
+      "Errol",
+      "Pigwidgeon",
+      "Crookshanks"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_2",
+    "categoryId": "hp_easy",
+    "text": "What is the shape of the scar on Harry's forehead?",
+    "answers": [
+      "Star",
+      "Moon",
+      "Lightning Bolt",
+      "Cross"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_3",
+    "categoryId": "hp_easy",
+    "text": "What are the four houses of Hogwarts?",
+    "answers": [
+      "Gryffindor, Hufflepuff, Ravenclaw, Slytherin",
+      "Lions, Badgers, Eagles, Snakes",
+      "North, South, East, West",
+      "Fire, Water, Air, Earth"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_4",
+    "categoryId": "hp_easy",
+    "text": "Who is the Headmaster of Hogwarts when Harry first arrives?",
+    "answers": [
+      "Snape",
+      "McGonagall",
+      "Dumbledore",
+      "Sprout"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_5",
+    "categoryId": "hp_easy",
+    "text": "What position does Harry play on the Gryffindor Quidditch team?",
+    "answers": [
+      "Chaser",
+      "Beater",
+      "Keeper",
+      "Seeker"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_6",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the magical street where wizards shop?",
+    "answers": [
+      "Hogsmeade",
+      "Diagon Alley",
+      "Knockturn Alley",
+      "Godric's Hollow"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_7",
+    "categoryId": "hp_easy",
+    "text": "Who are Harry's two best friends?",
+    "answers": [
+      "Draco and Goyle",
+      "Neville and Luna",
+      "Ron and Hermione",
+      "Fred and George"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_8",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the gamekeeper at Hogwarts?",
+    "answers": [
+      "Filch",
+      "Hagrid",
+      "Flitwick",
+      "Lockhart"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_9",
+    "categoryId": "hp_easy",
+    "text": "What is 'He-Who-Must-Not-Be-Named's real name?",
+    "answers": [
+      "Sirius Black",
+      "Tom Riddle",
+      "Peter Pettigrew",
+      "Lucius Malfoy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_10",
+    "categoryId": "hp_easy",
+    "text": "What do students ride in to get from the train station to Hogwarts castle?",
+    "answers": [
+      "Buses",
+      "Thestrals",
+      "Broomsticks",
+      "Boats"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_11",
+    "categoryId": "hp_easy",
+    "text": "What class does Severus Snape teach?",
+    "answers": [
+      "Charms",
+      "Transfiguration",
+      "Herbology",
+      "Potions"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_12",
+    "categoryId": "hp_easy",
+    "text": "What is the name of Ron Weasley's pet rat?",
+    "answers": [
+      "Crookshanks",
+      "Trevor",
+      "Scabbers",
+      "Fang"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_13",
+    "categoryId": "hp_easy",
+    "text": "Which of these is NOT one of the Unforgivable Curses?",
+    "answers": [
+      "Avada Kedavra",
+      "Cruciatus Curse",
+      "Imperius Curse",
+      "Sectumsempra"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_14",
+    "categoryId": "hp_easy",
+    "text": "What object sorts new students into their houses?",
+    "answers": [
+      "The Sorting Hat",
+      "The Goblet of Fire",
+      "The Mirror of Erised",
+      "The Headmaster"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_15",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the wizarding bank?",
+    "answers": [
+      "Azkaban",
+      "Gringotts",
+      "The Leaky Cauldron",
+      "Ollivanders"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_16",
+    "categoryId": "hp_easy",
+    "text": "What does the spell 'Lumos' do?",
+    "answers": [
+      "Unlocks a door",
+      "Stuns an opponent",
+      "Creates light",
+      "Makes things float"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_17",
+    "categoryId": "hp_easy",
+    "text": "Who is the ghost of Gryffindor Tower?",
+    "answers": [
+      "The Bloody Baron",
+      "The Fat Friar",
+      "Nearly Headless Nick",
+      "The Grey Lady"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_18",
+    "categoryId": "hp_easy",
+    "text": "What is the core of Harry's wand?",
+    "answers": [
+      "Dragon Heartstring",
+      "Unicorn Hair",
+      "Phoenix Feather",
+      "Veela Hair"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_19",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the three-headed dog guarding the Sorcerer's Stone?",
+    "answers": [
+      "Fang",
+      "Fluffy",
+      "Norbert",
+      "Buckbeak"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_20",
+    "categoryId": "hp_easy",
+    "text": "What kind of creature is Dobby?",
+    "answers": [
+      "Goblin",
+      "House-elf",
+      "Dwarf",
+      "Centaur"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_21",
+    "categoryId": "hp_easy",
+    "text": "What is the platform number for the Hogwarts Express?",
+    "answers": [
+      "7 1/2",
+      "8 3/4",
+      "9 3/4",
+      "10 1/2"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_22",
+    "categoryId": "hp_easy",
+    "text": "What is the subject that Professor McGonagall teaches?",
+    "answers": [
+      "Transfiguration",
+      "Charms",
+      "Defense Against the Dark Arts",
+      "History of Magic"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_23",
+    "categoryId": "hp_easy",
+    "text": "Which candy makes you leap like a frog?",
+    "answers": [
+      "Bertie Bott's Every Flavour Beans",
+      "Chocolate Frogs",
+      "Fizzing Whizbees",
+      "Drooble's Best Blowing Gum"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_24",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the Weasley's home?",
+    "answers": [
+      "The Leaky Cauldron",
+      "Number 12, Grimmauld Place",
+      "The Burrow",
+      "Shell Cottage"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_25",
+    "categoryId": "hp_easy",
+    "text": "Who wrote 'Fantastic Beasts and Where to Find Them'?",
+    "answers": [
+      "Albus Dumbledore",
+      "Newt Scamander",
+      "Gilderoy Lockhart",
+      "Bathilda Bagshot"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_26",
+    "categoryId": "hp_easy",
+    "text": "What does a Nimbus 2000 refer to?",
+    "answers": [
+      "A potion",
+      "A spell",
+      "A broomstick",
+      "A creature"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_27",
+    "categoryId": "hp_easy",
+    "text": "Who is the poltergeist that haunts Hogwarts?",
+    "answers": [
+      "Moaning Myrtle",
+      "Peeves",
+      "The Bloody Baron",
+      "Sir Patrick Delaney-Podmore"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_28",
+    "categoryId": "hp_easy",
+    "text": "What is Hermione's cat's name?",
+    "answers": [
+      "Scabbers",
+      "Mrs. Norris",
+      "Crookshanks",
+      "Hedwig"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_29",
+    "categoryId": "hp_easy",
+    "text": "What is the primary function of the Remembrall?",
+    "answers": [
+      "It tells you the time",
+      "It reminds you if you've forgotten something",
+      "It shows your deepest desire",
+      "It plays music"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_30",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the prison for dark wizards?",
+    "answers": [
+      "Nurmengard",
+      "Gringotts",
+      "The Ministry of Magic",
+      "Azkaban"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_31",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the wizarding world's most popular sport?",
+    "answers": [
+      "Wizard's Chess",
+      "Gobstones",
+      "Quidditch",
+      "Dueling"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_32",
+    "categoryId": "hp_easy",
+    "text": "What magical creature can transform into a person's worst fear?",
+    "answers": [
+      "Dementor",
+      "Boggart",
+      "Ghoul",
+      "Imp"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_33",
+    "categoryId": "hp_easy",
+    "text": "Who is the head of Gryffindor house?",
+    "answers": [
+      "Professor Snape",
+      "Professor Flitwick",
+      "Professor Sprout",
+      "Professor McGonagall"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_34",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the school of witchcraft and wizardry in Great Britain?",
+    "answers": [
+      "Hogwarts",
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_35",
+    "categoryId": "hp_easy",
+    "text": "What is the Dursleys' address?",
+    "answers": [
+      "12 Grimmauld Place",
+      "The Burrow",
+      "Number 4, Privet Drive",
+      "Spinner's End"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_36",
+    "categoryId": "hp_easy",
+    "text": "What does the spell 'Wingardium Leviosa' do?",
+    "answers": [
+      "Starts a fire",
+      "Unlocks a door",
+      "Makes objects float",
+      "Stuns an enemy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_37",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the train that takes students to Hogwarts?",
+    "answers": [
+      "The Knight Bus",
+      "The Hogwarts Express",
+      "The Durmstrang Ship",
+      "The Beauxbatons Carriage"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_38",
+    "categoryId": "hp_easy",
+    "text": "Which magical object can make its user invisible?",
+    "answers": [
+      "The Remembrall",
+      "The Time-Turner",
+      "The Invisibility Cloak",
+      "The Pensieve"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_39",
+    "categoryId": "hp_easy",
+    "text": "Who is the potions master for most of Harry's time at Hogwarts?",
+    "answers": [
+      "Horace Slughorn",
+      "Gilderoy Lockhart",
+      "Remus Lupin",
+      "Severus Snape"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_40",
+    "categoryId": "hp_easy",
+    "text": "What type of pet does Hermione Granger have?",
+    "answers": [
+      "An owl",
+      "A cat",
+      "A toad",
+      "A rat"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_41",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the village near Hogwarts where students can visit?",
+    "answers": [
+      "Godric's Hollow",
+      "Hogsmeade",
+      "Little Hangleton",
+      "Ottery St Catchpole"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_42",
+    "categoryId": "hp_easy",
+    "text": "What is the goal of the Seeker in a Quidditch match?",
+    "answers": [
+      "To score with the Quaffle",
+      "To defend the goalposts",
+      "To hit Bludgers at opponents",
+      "To catch the Golden Snitch"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_43",
+    "categoryId": "hp_easy",
+    "text": "What class teaches students about magical plants?",
+    "answers": [
+      "Potions",
+      "Herbology",
+      "Transfiguration",
+      "Charms"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_44",
+    "categoryId": "hp_easy",
+    "text": "What are non-magical people called?",
+    "answers": [
+      "Squibs",
+      "No-Majs",
+      "Mundanes",
+      "Muggles"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_45",
+    "categoryId": "hp_easy",
+    "text": "What creature guards the vaults at Gringotts Bank?",
+    "answers": [
+      "Dragons",
+      "Goblins",
+      "Trolls",
+      "Sphinxes"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_easy_46",
+    "categoryId": "hp_easy",
+    "text": "Which of these is a form of wizarding money?",
+    "answers": [
+      "Dollars",
+      "Pounds",
+      "Knut",
+      "Euros"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_47",
+    "categoryId": "hp_easy",
+    "text": "What is the name of the dark wizard who killed Harry's parents?",
+    "answers": [
+      "Grindelwald",
+      "Lucius Malfoy",
+      "Lord Voldemort",
+      "Bellatrix Lestrange"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_easy_48",
+    "categoryId": "hp_easy",
+    "text": "What is the name of Hagrid's giant boarhound?",
+    "answers": [
+      "Fang",
+      "Norbert",
+      "Buckbeak",
+      "Aragog"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_easy_49",
+    "categoryId": "hp_easy",
+    "text": "What does the spell 'Alohomora' do?",
+    "answers": [
+      "Locks doors",
+      "Repairs broken objects",
+      "Creates water",
+      "Unlocks doors"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_easy_50",
+    "categoryId": "hp_easy",
+    "text": "Who are the mischievous twin brothers of Ron Weasley?",
+    "answers": [
+      "Percy and Charlie",
+      "Bill and Percy",
+      "Fred and George",
+      "Charlie and Bill"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

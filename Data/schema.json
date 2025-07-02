@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Trivia",
+  "description": "A collection of trivia categories and questions.",
+  "type": "object",
+  "properties": {
+    "categories": {
+      "description": "A list of trivia categories.",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Category"
+      }
+    },
+    "questions": {
+      "description": "A list of trivia questions.",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Question"
+      }
+    }
+  },
+  "required": ["categories", "questions"],
+  "definitions": {
+    "Category": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "The unique identifier for the category."
+        },
+        "name": {
+          "type": "string",
+          "description": "The name of the category."
+        }
+      },
+      "required": ["id", "name"]
+    },
+    "Question": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "The unique identifier for the question."
+        },
+        "categoryId": {
+          "type": "string",
+          "description": "The identifier of the category this question belongs to."
+        },
+        "text": {
+          "type": "string",
+          "description": "The text of the question."
+        },
+        "answers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "A list of possible answers to the question."
+        },
+        "correctAnswerIndex": {
+          "type": "integer",
+          "description": "The index of the correct answer in the 'answers' array."
+        }
+      },
+      "required": ["id", "categoryId", "text", "answers", "correctAnswerIndex"]
+    }
+  }
+}

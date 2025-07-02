@@ -1,0 +1,602 @@
+[
+  {
+    "id": "history_easy_1",
+    "categoryId": "history_easy",
+    "text": "Who was the first President of the United States?",
+    "answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington",
+      "John Adams"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_2",
+    "categoryId": "history_easy",
+    "text": "The ancient Egyptians are famous for building what monumental structures?",
+    "answers": [
+      "Ziggurats",
+      "Pyramids",
+      "Castles",
+      "Aqueducts"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_3",
+    "categoryId": "history_easy",
+    "text": "Which explorer is credited with discovering America in 1492?",
+    "answers": [
+      "Ferdinand Magellan",
+      "Marco Polo",
+      "Leif Erikson",
+      "Christopher Columbus"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_4",
+    "categoryId": "history_easy",
+    "text": "In which country did the ancient Olympic Games originate?",
+    "answers": [
+      "Rome",
+      "Egypt",
+      "Greece",
+      "China"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_5",
+    "categoryId": "history_easy",
+    "text": "What famous Roman general and dictator was assassinated on the Ides of March?",
+    "answers": [
+      "Augustus",
+      "Nero",
+      "Julius Caesar",
+      "Mark Antony"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_6",
+    "categoryId": "history_easy",
+    "text": "World War I was primarily fought from:",
+    "answers": [
+      "1905-1910",
+      "1914-1918",
+      "1929-1935",
+      "1939-1945"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_7",
+    "categoryId": "history_easy",
+    "text": "Who is famous for painting the Mona Lisa?",
+    "answers": [
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Pablo Picasso"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_8",
+    "categoryId": "history_easy",
+    "text": "What is the name of the ancient wall built in China to protect against invasions?",
+    "answers": [
+      "The Berlin Wall",
+      "Hadrian's Wall",
+      "The Great Wall",
+      "The Western Wall"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_9",
+    "categoryId": "history_easy",
+    "text": "What event marked the beginning of World War II in Europe?",
+    "answers": [
+      "The bombing of Pearl Harbor",
+      "The invasion of Poland",
+      "The Battle of Britain",
+      "The signing of the Treaty of Versailles"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_10",
+    "categoryId": "history_easy",
+    "text": "Who was the queen of ancient Egypt known for her beauty and alliance with Roman leaders?",
+    "answers": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra",
+      "Isis"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_11",
+    "categoryId": "history_easy",
+    "text": "What country gifted the Statue of Liberty to the United States?",
+    "answers": [
+      "Spain",
+      "Great Britain",
+      "France",
+      "Italy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_12",
+    "categoryId": "history_easy",
+    "text": "Who was the legendary king of Camelot in British folklore?",
+    "answers": [
+      "King Arthur",
+      "King Richard",
+      "King Edward",
+      "King Henry"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_easy_13",
+    "categoryId": "history_easy",
+    "text": "The Titanic sank in which ocean?",
+    "answers": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_14",
+    "categoryId": "history_easy",
+    "text": "Who was the first person to walk on the Moon?",
+    "answers": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_15",
+    "categoryId": "history_easy",
+    "text": "Which civilization invented paper?",
+    "answers": [
+      "Roman",
+      "Greek",
+      "Egyptian",
+      "Chinese"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_16",
+    "categoryId": "history_easy",
+    "text": "What famous document begins with the words 'When in the course of human events...'?",
+    "answers": [
+      "The Magna Carta",
+      "The Constitution",
+      "The Declaration of Independence",
+      "The Emancipation Proclamation"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_17",
+    "categoryId": "history_easy",
+    "text": "The Vikings were seafaring people from what region?",
+    "answers": [
+      "The Mediterranean",
+      "Scandinavia",
+      "The Middle East",
+      "North Africa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_18",
+    "categoryId": "history_easy",
+    "text": "Who led the civil rights movement in the United States and gave the 'I Have a Dream' speech?",
+    "answers": [
+      "Malcolm X",
+      "Rosa Parks",
+      "Martin Luther King Jr.",
+      "John F. Kennedy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_19",
+    "categoryId": "history_easy",
+    "text": "What was the main purpose of a medieval castle?",
+    "answers": [
+      "A place of worship",
+      "A marketplace",
+      "A residence for all people",
+      "Defense and residence for a lord"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_20",
+    "categoryId": "history_easy",
+    "text": "What ancient city was famously destroyed by the eruption of Mount Vesuvius?",
+    "answers": [
+      "Athens",
+      "Rome",
+      "Pompeii",
+      "Sparta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_21",
+    "categoryId": "history_easy",
+    "text": "Who was the President of the United States during the Civil War?",
+    "answers": [
+      "Andrew Jackson",
+      "Ulysses S. Grant",
+      "Thomas Jefferson",
+      "Abraham Lincoln"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_22",
+    "categoryId": "history_easy",
+    "text": "The 'Black Death' that swept through Europe in the 14th century was what kind of disease?",
+    "answers": [
+      "Smallpox",
+      "Influenza",
+      "Bubonic Plague",
+      "Cholera"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_23",
+    "categoryId": "history_easy",
+    "text": "Which country was the first to circumnavigate the globe?",
+    "answers": [
+      "Portugal",
+      "Spain",
+      "England",
+      "Netherlands"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_24",
+    "categoryId": "history_easy",
+    "text": "Who was the female pharaoh of ancient Egypt?",
+    "answers": [
+      "Nefertiti",
+      "Cleopatra",
+      "Hatshepsut",
+      "Ankhesenamun"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_25",
+    "categoryId": "history_easy",
+    "text": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+    "answers": [
+      "The Santa Maria",
+      "The Discovery",
+      "The Mayflower",
+      "The Susan Constant"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_26",
+    "categoryId": "history_easy",
+    "text": "What is the name of the ancient trade route that connected the East and West?",
+    "answers": [
+      "The Spice Route",
+      "The Silk Road",
+      "The Incense Route",
+      "The Amber Road"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_27",
+    "categoryId": "history_easy",
+    "text": "Which war was fought between the North and South in the United States?",
+    "answers": [
+      "The Revolutionary War",
+      "The War of 1812",
+      "The Civil War",
+      "World War I"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_28",
+    "categoryId": "history_easy",
+    "text": "What famous Greek philosopher was the teacher of Alexander the Great?",
+    "answers": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_29",
+    "categoryId": "history_easy",
+    "text": "The Declaration of Independence was signed in what year?",
+    "answers": [
+      "1776",
+      "1789",
+      "1812",
+      "1492"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_easy_30",
+    "categoryId": "history_easy",
+    "text": "Who was the leader of the Nazi Party in Germany?",
+    "answers": [
+      "Benito Mussolini",
+      "Joseph Stalin",
+      "Adolf Hitler",
+      "Winston Churchill"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_31",
+    "categoryId": "history_easy",
+    "text": "What is the name of the period in European history known for its revival of art and learning?",
+    "answers": [
+      "The Dark Ages",
+      "The Middle Ages",
+      "The Renaissance",
+      "The Enlightenment"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_32",
+    "categoryId": "history_easy",
+    "text": "What were the warriors of feudal Japan called?",
+    "answers": [
+      "Ninjas",
+      "Samurai",
+      "Shoguns",
+      "Daimyo"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_33",
+    "categoryId": "history_easy",
+    "text": "What event is marked by the fall of the Bastille in France?",
+    "answers": [
+      "The Hundred Years' War",
+      "The Napoleonic Wars",
+      "The French Revolution",
+      "The Franco-Prussian War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_34",
+    "categoryId": "history_easy",
+    "text": "The ancient Romans were known for building these to transport water.",
+    "answers": [
+      "Canals",
+      "Aqueducts",
+      "Bridges",
+      "Roads"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_35",
+    "categoryId": "history_easy",
+    "text": "Which country did the United States fight against in the Revolutionary War?",
+    "answers": [
+      "Spain",
+      "France",
+      "Germany",
+      "Great Britain"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_36",
+    "categoryId": "history_easy",
+    "text": "What is the name of the writing system of ancient Egypt?",
+    "answers": [
+      "Cuneiform",
+      "Alphabet",
+      "Hieroglyphics",
+      "Sanskrit"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_37",
+    "categoryId": "history_easy",
+    "text": "Who invented the printing press?",
+    "answers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Gutenberg",
+      "Leonardo da Vinci"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_38",
+    "categoryId": "history_easy",
+    "text": "What was the 'Boston Tea Party' a protest against?",
+    "answers": [
+      "British taxes",
+      "The price of tea",
+      "Slavery",
+      "The King of England"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_easy_39",
+    "categoryId": "history_easy",
+    "text": "What powerful city-state was the main rival of ancient Athens?",
+    "answers": [
+      "Corinth",
+      "Thebes",
+      "Sparta",
+      "Mycenae"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_40",
+    "categoryId": "history_easy",
+    "text": "Who was the famous French heroine who led the army against the English during the Hundred Years' War?",
+    "answers": [
+      "Marie Antoinette",
+      "Catherine de' Medici",
+      "Joan of Arc",
+      "Eleanor of Aquitaine"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_41",
+    "categoryId": "history_easy",
+    "text": "What was the capital of the ancient Roman Empire?",
+    "answers": [
+      "Athens",
+      "Constantinople",
+      "Alexandria",
+      "Rome"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_easy_42",
+    "categoryId": "history_easy",
+    "text": "What is the term for the system of government where the people rule?",
+    "answers": [
+      "Monarchy",
+      "Oligarchy",
+      "Democracy",
+      "Aristocracy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_43",
+    "categoryId": "history_easy",
+    "text": "Which empire was ruled by Alexander the Great?",
+    "answers": [
+      "The Persian Empire",
+      "The Roman Empire",
+      "The Macedonian Empire",
+      "The Egyptian Empire"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_44",
+    "categoryId": "history_easy",
+    "text": "What was the first successful English colony in North America?",
+    "answers": [
+      "Roanoke",
+      "Plymouth",
+      "Jamestown",
+      "St. Augustine"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_45",
+    "categoryId": "history_easy",
+    "text": "What is the name of the imaginary line that divides the Earth into Northern and Southern Hemispheres?",
+    "answers": [
+      "The Prime Meridian",
+      "The Equator",
+      "The Tropic of Cancer",
+      "The Tropic of Capricorn"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_46",
+    "categoryId": "history_easy",
+    "text": "What was the name of the war between Athens and Sparta?",
+    "answers": [
+      "The Punic Wars",
+      "The Persian Wars",
+      "The Peloponnesian War",
+      "The Trojan War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_47",
+    "categoryId": "history_easy",
+    "text": "What historical period is also known as the 'Dark Ages'?",
+    "answers": [
+      "The Renaissance",
+      "The Ancient Era",
+      "The Middle Ages",
+      "The Age of Enlightenment"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_easy_48",
+    "categoryId": "history_easy",
+    "text": "What does 'BC' stand for in dates?",
+    "answers": [
+      "Before Christ",
+      "Before Caesar",
+      "Before Civilization",
+      "Before Columbus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_easy_49",
+    "categoryId": "history_easy",
+    "text": "Which King of England had six wives?",
+    "answers": [
+      "Henry VII",
+      "Henry VIII",
+      "Richard III",
+      "Edward VI"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_easy_50",
+    "categoryId": "history_easy",
+    "text": "The Great Depression started in what decade?",
+    "answers": [
+      "The 1920s",
+      "The 1930s",
+      "The 1940s",
+      "The 1950s"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

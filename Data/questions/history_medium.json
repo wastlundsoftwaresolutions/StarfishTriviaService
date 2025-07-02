@@ -1,0 +1,602 @@
+[
+  {
+    "id": "history_medium_1",
+    "categoryId": "history_medium",
+    "text": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "answers": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Nikita Khrushchev",
+      "Mikhail Gorbachev"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_2",
+    "categoryId": "history_medium",
+    "text": "The Renaissance, a period of 'rebirth' in arts and sciences, began in which European country?",
+    "answers": [
+      "France",
+      "Spain",
+      "England",
+      "Italy"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_3",
+    "categoryId": "history_medium",
+    "text": "The Magna Carta, signed by King John in 1215, is considered a foundational document for the constitution of which country?",
+    "answers": [
+      "France",
+      "The United States",
+      "England",
+      "Germany"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_4",
+    "categoryId": "history_medium",
+    "text": "The Industrial Revolution in the 18th century began in which nation?",
+    "answers": [
+      "United States",
+      "Great Britain",
+      "Germany",
+      "France"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_5",
+    "categoryId": "history_medium",
+    "text": "What was the name of the battle in 1066 that led to the Norman conquest of England?",
+    "answers": [
+      "Battle of Agincourt",
+      "Battle of Waterloo",
+      "Battle of Hastings",
+      "Battle of Stamford Bridge"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_6",
+    "categoryId": "history_medium",
+    "text": "What system of writing was used by the ancient Sumerians in Mesopotamia?",
+    "answers": [
+      "Hieroglyphics",
+      "Cuneiform",
+      "Alphabet",
+      "Ideograms"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_7",
+    "categoryId": "history_medium",
+    "text": "Who was the last pharaoh of Ptolemaic Egypt?",
+    "answers": [
+      "Ramesses II",
+      "Akhenaten",
+      "King Tut",
+      "Cleopatra VII"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_8",
+    "categoryId": "history_medium",
+    "text": "The 'Cold War' was a state of geopolitical tension between which two superpowers?",
+    "answers": [
+      "China and Japan",
+      "The United States and the Soviet Union",
+      "The UK and Germany",
+      "France and Russia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_9",
+    "categoryId": "history_medium",
+    "text": "What empire was ruled by Genghis Khan and his descendants?",
+    "answers": [
+      "The Ottoman Empire",
+      "The Roman Empire",
+      "The Mongol Empire",
+      "The Persian Empire"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_10",
+    "categoryId": "history_medium",
+    "text": "Martin Luther's Ninety-five Theses were a catalyst for what major religious movement?",
+    "answers": [
+      "The Counter-Reformation",
+      "The Great Schism",
+      "The Protestant Reformation",
+      "The First Crusade"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_11",
+    "categoryId": "history_medium",
+    "text": "The Rosetta Stone was key to deciphering what ancient language?",
+    "answers": [
+      "Sumerian Cuneiform",
+      "Linear B",
+      "Egyptian Hieroglyphics",
+      "Mayan Glyphs"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_12",
+    "categoryId": "history_medium",
+    "text": "Who was the leader of the Bolshevik Revolution in Russia in 1917?",
+    "answers": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Vladimir Lenin",
+      "Tsar Nicholas II"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_13",
+    "categoryId": "history_medium",
+    "text": "The Battle of Waterloo in 1815 marked the final defeat of which French leader?",
+    "answers": [
+      "Louis XIV",
+      "Robespierre",
+      "Charlemagne",
+      "Napoleon Bonaparte"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_14",
+    "categoryId": "history_medium",
+    "text": "What was the 'Manhattan Project'?",
+    "answers": [
+      "The plan to invade Normandy",
+      "The development of the atomic bomb",
+      "The construction of the Panama Canal",
+      "The Apollo Moon landing program"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_15",
+    "categoryId": "history_medium",
+    "text": "The city of Constantinople, the capital of the Byzantine Empire, is now known as what?",
+    "answers": [
+      "Ankara",
+      "Istanbul",
+      "Athens",
+      "Beirut"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_16",
+    "categoryId": "history_medium",
+    "text": "Which empire, centered in modern-day Peru, was conquered by Francisco Pizarro?",
+    "answers": [
+      "The Aztec Empire",
+      "The Mayan Civilization",
+      "The Inca Empire",
+      "The Olmec Civilization"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_17",
+    "categoryId": "history_medium",
+    "text": "The period of philosophical and intellectual movement that dominated Europe in the 18th century was called:",
+    "answers": [
+      "The Reformation",
+      "The Renaissance",
+      "The Scientific Revolution",
+      "The Enlightenment"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_18",
+    "categoryId": "history_medium",
+    "text": "Who was the first female Prime Minister of the United Kingdom?",
+    "answers": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Queen Elizabeth II",
+      "Indira Gandhi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_19",
+    "categoryId": "history_medium",
+    "text": "The 'Hundred Years' War' was fought between which two countries?",
+    "answers": [
+      "Spain and Portugal",
+      "England and France",
+      "Germany and Russia",
+      "The Holy Roman Empire and the Ottoman Empire"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_20",
+    "categoryId": "history_medium",
+    "text": "What was the primary cause of the Opium Wars between Britain and China?",
+    "answers": [
+      "A dispute over tea prices",
+      "Britain's illegal opium trade in China",
+      "A territorial dispute over Hong Kong",
+      "Religious differences"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_21",
+    "categoryId": "history_medium",
+    "text": "What ancient civilization was located between the Tigris and Euphrates rivers?",
+    "answers": [
+      "The Indus Valley Civilization",
+      "Ancient Egypt",
+      "The Shang Dynasty",
+      "Mesopotamia"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_22",
+    "categoryId": "history_medium",
+    "text": "The policy of 'appeasement' before World War II is most associated with which British Prime Minister?",
+    "answers": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Stanley Baldwin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_23",
+    "categoryId": "history_medium",
+    "text": "The construction of the Panama Canal was initiated by which U.S. President?",
+    "answers": [
+      "William McKinley",
+      "Franklin D. Roosevelt",
+      "Theodore Roosevelt",
+      "Woodrow Wilson"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_24",
+    "categoryId": "history_medium",
+    "text": "Which battle is considered the turning point of World War II on the Eastern Front?",
+    "answers": [
+      "The Battle of Moscow",
+      "The Battle of Stalingrad",
+      "The Battle of Kursk",
+      "The Siege of Leningrad"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_25",
+    "categoryId": "history_medium",
+    "text": "Who was the Venetian explorer whose travels to Asia were recorded in a famous book?",
+    "answers": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Marco Polo",
+      "Vasco da Gama"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_26",
+    "categoryId": "history_medium",
+    "text": "The 'Scramble for Africa' refers to the occupation and colonization of Africa by which powers?",
+    "answers": [
+      "American",
+      "Asian",
+      "European",
+      "Middle Eastern"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_27",
+    "categoryId": "history_medium",
+    "text": "What was the name of the political and social system in medieval Europe where land was exchanged for military service?",
+    "answers": [
+      "Capitalism",
+      "Mercantilism",
+      "Feudalism",
+      "Socialism"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_28",
+    "categoryId": "history_medium",
+    "text": "Who was the leader of the Franks who was crowned Emperor of the Romans in 800 AD?",
+    "answers": [
+      "Clovis I",
+      "Charles Martel",
+      "Pepin the Short",
+      "Charlemagne"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_29",
+    "categoryId": "history_medium",
+    "text": "The Spanish Armada was a naval fleet sent to invade which country in 1588?",
+    "answers": [
+      "France",
+      "Portugal",
+      "England",
+      "The Netherlands"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_30",
+    "categoryId": "history_medium",
+    "text": "The fall of the Berlin Wall in 1989 symbolized the end of what?",
+    "answers": [
+      "World War II",
+      "The Vietnam War",
+      "The Cold War",
+      "The Korean War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_31",
+    "categoryId": "history_medium",
+    "text": "What was the main purpose of the Crusades?",
+    "answers": [
+      "To establish new trade routes",
+      "To explore new lands",
+      "To spread Christianity by force",
+      "To reclaim the Holy Land from Muslim rule"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_32",
+    "categoryId": "history_medium",
+    "text": "Who was the South African leader who was imprisoned for 27 years and later became president?",
+    "answers": [
+      "Desmond Tutu",
+      "F. W. de Klerk",
+      "Nelson Mandela",
+      "Thabo Mbeki"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_33",
+    "categoryId": "history_medium",
+    "text": "What was the name of the series of wars fought between the houses of Lancaster and York for the English throne?",
+    "answers": [
+      "The Hundred Years' War",
+      "The Glorious Revolution",
+      "The Wars of the Roses",
+      "The English Civil War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_34",
+    "categoryId": "history_medium",
+    "text": "The storming of the Winter Palace in 1917 took place in which city?",
+    "answers": [
+      "Moscow",
+      "Stalingrad",
+      "Kiev",
+      "Petrograd (St. Petersburg)"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_35",
+    "categoryId": "history_medium",
+    "text": "The ancient city of Babylon was located in which modern-day country?",
+    "answers": [
+      "Egypt",
+      "Iran",
+      "Iraq",
+      "Syria"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_36",
+    "categoryId": "history_medium",
+    "text": "What was the 'Domino Theory' during the Cold War?",
+    "answers": [
+      "The idea that nuclear war was unwinnable",
+      "The belief that if one country fell to communism, others nearby would follow",
+      "A strategy for economic development",
+      "A military formation for tanks"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_37",
+    "categoryId": "history_medium",
+    "text": "Who was the 'Maid of Orleans'?",
+    "answers": [
+      "Eleanor of Aquitaine",
+      "Joan of Arc",
+      "Marie Antoinette",
+      "Catherine the Great"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_38",
+    "categoryId": "history_medium",
+    "text": "The Aztec capital, Tenochtitlan, was located on the site of which modern city?",
+    "answers": [
+      "Lima",
+      "Bogot\u00e1",
+      "Mexico City",
+      "Guatemala City"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_39",
+    "categoryId": "history_medium",
+    "text": "The Zimmermann Telegram, which proposed an alliance between Germany and Mexico, helped draw which country into World War I?",
+    "answers": [
+      "Brazil",
+      "Canada",
+      "The United States",
+      "Argentina"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_40",
+    "categoryId": "history_medium",
+    "text": "What famous law code was established by an ancient Babylonian king?",
+    "answers": [
+      "The Code of Hammurabi",
+      "The Twelve Tables",
+      "The Draconian Code",
+      "The Justinian Code"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_medium_41",
+    "categoryId": "history_medium",
+    "text": "The Battle of Gettysburg was a major turning point in which war?",
+    "answers": [
+      "The Revolutionary War",
+      "The War of 1812",
+      "The Mexican-American War",
+      "The American Civil War"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_42",
+    "categoryId": "history_medium",
+    "text": "Who wrote 'The Communist Manifesto' along with Friedrich Engels?",
+    "answers": [
+      "Vladimir Lenin",
+      "Karl Marx",
+      "Leon Trotsky",
+      "Joseph Stalin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_43",
+    "categoryId": "history_medium",
+    "text": "What was the name given to the U.S. economic recovery program after World War II to help rebuild Western Europe?",
+    "answers": [
+      "The Truman Doctrine",
+      "The Marshall Plan",
+      "The New Deal",
+      "The Alliance for Progress"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_44",
+    "categoryId": "history_medium",
+    "text": "The Reign of Terror was a period of extreme violence during which revolution?",
+    "answers": [
+      "The American Revolution",
+      "The Russian Revolution",
+      "The Chinese Revolution",
+      "The French Revolution"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_45",
+    "categoryId": "history_medium",
+    "text": "Who was the founder of the Mongol Empire, one of the largest empires in history?",
+    "answers": [
+      "Kublai Khan",
+      "Genghis Khan",
+      "Attila the Hun",
+      "Timur"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_medium_46",
+    "categoryId": "history_medium",
+    "text": "What was the primary goal of the Lewis and Clark expedition?",
+    "answers": [
+      "To find a northwest passage to the Pacific",
+      "To conquer new territories",
+      "To establish trade with Native American tribes",
+      "To search for gold"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_medium_47",
+    "categoryId": "history_medium",
+    "text": "Which civilization is credited with the invention of democracy?",
+    "answers": [
+      "The Romans",
+      "The Persians",
+      "The Egyptians",
+      "The Ancient Greeks"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_48",
+    "categoryId": "history_medium",
+    "text": "The D-Day invasion of Normandy occurred on what date?",
+    "answers": [
+      "May 8, 1945",
+      "December 7, 1941",
+      "June 6, 1944",
+      "September 1, 1939"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_medium_49",
+    "categoryId": "history_medium",
+    "text": "Sun Tzu, the author of 'The Art of War,' was a general and strategist from which country?",
+    "answers": [
+      "Japan",
+      "Korea",
+      "Vietnam",
+      "China"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_medium_50",
+    "categoryId": "history_medium",
+    "text": "What was the main economic activity of the ancient city-state of Phoenicia?",
+    "answers": [
+      "Farming",
+      "Mining",
+      "Maritime trade",
+      "Manufacturing"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

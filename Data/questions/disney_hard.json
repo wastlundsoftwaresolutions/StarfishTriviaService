@@ -1,0 +1,602 @@
+[
+  {
+    "id": "disney_hard_1",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the shopkeeper in 'Frozen' who runs 'Wandering Oaken's Trading Post and Sauna'?",
+    "answers": [
+      "Sven",
+      "Kristoff",
+      "Hans",
+      "Oaken"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_2",
+    "categoryId": "disney_hard",
+    "text": "What is the address of the dentist's office where Nemo is kept in 'Finding Nemo'?",
+    "answers": [
+      "123 Fish Tank Rd",
+      "P. Sherman, 42 Wallaby Way, Sydney",
+      "10 Reef Street, Coral Bay",
+      "50 Ocean Ave, Marine World"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_3",
+    "categoryId": "disney_hard",
+    "text": "In 'WALL-E,' what does the acronym 'EVE' stand for?",
+    "answers": [
+      "Environmental Verification Entity",
+      "External Voyager Explorer",
+      "Extraterrestrial Vegetation Evaluator",
+      "Earth Vitality Examiner"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_4",
+    "categoryId": "disney_hard",
+    "text": "What is the full name of the villain in 'The Rescuers Down Under'?",
+    "answers": [
+      "Percival C. McLeach",
+      "Clayton",
+      "Sykes",
+      "Alameda Slim"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_5",
+    "categoryId": "disney_hard",
+    "text": "In 'Mulan,' what is the name of Mulan's horse?",
+    "answers": [
+      "Mushu",
+      "Khan",
+      "Yao",
+      "Ling"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_6",
+    "categoryId": "disney_hard",
+    "text": "What is the name of Lady Tremaine's wicked cat in 'Cinderella'?",
+    "answers": [
+      "Figaro",
+      "Sgt. Tibbs",
+      "Lucifer",
+      "Pom-Pom"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_7",
+    "categoryId": "disney_hard",
+    "text": "In 'Hercules,' what creatures are Pain and Panic shape-shifted into during the 'Zero to Hero' sequence?",
+    "answers": [
+      "Birds",
+      "Bunnies",
+      "Worms",
+      "Fish"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_8",
+    "categoryId": "disney_hard",
+    "text": "What are the names of the three stone gargoyles in 'The Hunchback of Notre Dame'?",
+    "answers": [
+      "Athos, Porthos, and Aramis",
+      "Victor, Hugo, and Laverne",
+      "Gus, Jaq, and Bruno",
+      "Larry, Moe, and Curly"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_9",
+    "categoryId": "disney_hard",
+    "text": "In 'The Princess and the Frog,' what is the name of the voodoo witch doctor?",
+    "answers": [
+      "Doctor Facilier",
+      "Lawrence",
+      "Mama Odie",
+      "JuJu"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_10",
+    "categoryId": "disney_hard",
+    "text": "In 'Zootopia,' what type of business is run by Mr. Big?",
+    "answers": [
+      "A bakery",
+      "A flower shop",
+      "The DMV",
+      "A crime organization"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_11",
+    "categoryId": "disney_hard",
+    "text": "In 'The Lion King,' what is the name of the baboon who serves as the shaman of the Pride Lands?",
+    "answers": [
+      "Zazu",
+      "Rafiki",
+      "Timon",
+      "Mufasa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_12",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the computer that controls the Axiom spaceship in 'WALL-E'?",
+    "answers": [
+      "HAL 9000",
+      "Master Control Program",
+      "Auto",
+      "GLaDOS"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_13",
+    "categoryId": "disney_hard",
+    "text": "In 'The Black Cauldron,' what is the name of the hero who must stop the Horned King?",
+    "answers": [
+      "Gurgi",
+      "Fflewddur Fflam",
+      "Dallben",
+      "Taran"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_14",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the Headless Horseman's horse in 'The Adventures of Ichabod and Mr. Toad'?",
+    "answers": [
+      "Nightmare",
+      "Daredevil",
+      "Phantom",
+      "Gunpowder"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_15",
+    "categoryId": "disney_hard",
+    "text": "In 'Ratatouille,' the motto 'Anyone Can Cook' is attributed to which famous chef?",
+    "answers": [
+      "Anton Ego",
+      "Skinner",
+      "Auguste Gusteau",
+      "Colette Tatou"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_16",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the planet that Captain Amelia's ship is headed for in 'Treasure Planet'?",
+    "answers": [
+      "Montressor",
+      "Legacy",
+      "Centurion",
+      "Treasure Planet"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_17",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the university that is the rival of Monsters University?",
+    "answers": [
+      "Scream Tech",
+      "Fear Co.",
+      "Scare School",
+      "Fear Tech"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_18",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the little girl who gives Jessie her cowgirl hat in 'Toy Story 2'?",
+    "answers": [
+      "Hannah",
+      "Emily",
+      "Molly",
+      "Bonnie"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_19",
+    "categoryId": "disney_hard",
+    "text": "In 'Big Hero 6,' what is the name of the process that allows microbots to be controlled telepathically?",
+    "answers": [
+      "Neuro-link",
+      "Mind-meld",
+      "Tele-connect",
+      "Neuro-transmitter"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_20",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the volcano where the final battle takes place in 'Moana'?",
+    "answers": [
+      "Mount Kilauea",
+      "Mount Fitu",
+      "Te Fiti",
+      "Te K\u0101"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_21",
+    "categoryId": "disney_hard",
+    "text": "Which character from 'The Jungle Book' is the only one to appear in 'TaleSpin'?",
+    "answers": [
+      "Mowgli",
+      "Baloo",
+      "Bagheera",
+      "Shere Khan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_22",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the magical land that the Pevensie children enter in 'The Chronicles of Narnia'?",
+    "answers": [
+      "Middle-earth",
+      "Fantasia",
+      "Narnia",
+      "Wonderland"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_23",
+    "categoryId": "disney_hard",
+    "text": "In 'The Emperor's New Groove,' what is the name of Pacha's wife?",
+    "answers": [
+      "Chaca",
+      "Tipo",
+      "Mata",
+      "Chicha"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_24",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the main villain in 'Kim Possible'?",
+    "answers": [
+      "Shego",
+      "Dr. Drakken",
+      "Monkey Fist",
+      "Duff Killigan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_25",
+    "categoryId": "disney_hard",
+    "text": "In 'The Great Mouse Detective,' what is the profession of the main character, Basil of Baker Street?",
+    "answers": [
+      "A baker",
+      "A police officer",
+      "A detective",
+      "A scientist"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_26",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the cat who is the main antagonist in the 'Chip 'n' Dale Rescue Rangers' series?",
+    "answers": [
+      "Fat Cat",
+      "Lucifer",
+      "Si",
+      "Am"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_27",
+    "categoryId": "disney_hard",
+    "text": "In 'DuckTales,' what is the name of Scrooge McDuck's rival for the title of 'Richest Duck in the World'?",
+    "answers": [
+      "John D. Rockerduck",
+      "Flintheart Glomgold",
+      "Magica De Spell",
+      "Beagle Boys"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_28",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the magical artifact that allows Darkwing Duck to travel through time?",
+    "answers": [
+      "The Time Top",
+      "The Chrono-Key",
+      "The Time-Spear",
+      "The Time-Turner"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_29",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the island where the Goof Troop lives?",
+    "answers": [
+      "Duckburg",
+      "St. Canard",
+      "Spoonerville",
+      "Cape Suzette"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_30",
+    "categoryId": "disney_hard",
+    "text": "In 'Gargoyles,' what is the name of the leader of the Manhattan Clan?",
+    "answers": [
+      "Broadway",
+      "Brooklyn",
+      "Lexington",
+      "Goliath"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_hard_31",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the planet where the movie 'John Carter' takes place?",
+    "answers": [
+      "Barsoom",
+      "Krypton",
+      "Tatooine",
+      "Arrakis"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_32",
+    "categoryId": "disney_hard",
+    "text": "In 'Who Framed Roger Rabbit,' what is the name of the private detective hired by Roger?",
+    "answers": [
+      "Judge Doom",
+      "Marvin Acme",
+      "Eddie Valiant",
+      "R.K. Maroon"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_33",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the enchanted forest where the fairies live in 'Sleeping Beauty'?",
+    "answers": [
+      "The Forbidden Forest",
+      "The Forest of Dean",
+      "The Enchanted Forest",
+      "The Whispering Woods"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_34",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the theme park that is the setting for the movie 'Tomorrowland'?",
+    "answers": [
+      "Epcot",
+      "Tomorrowland",
+      "Future World",
+      "Discoveryland"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_35",
+    "categoryId": "disney_hard",
+    "text": "In 'The Rocketeer,' what is the name of the hero who discovers the rocket pack?",
+    "answers": [
+      "Howard Hughes",
+      "Cliff Secord",
+      "Peevy",
+      "Neville Sinclair"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_36",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the fictional country where 'The Princess Diaries' is set?",
+    "answers": [
+      "Genovia",
+      "Aldovia",
+      "Belgravia",
+      "Maldonia"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_37",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the sorcerer in 'The Sorcerer's Apprentice'?",
+    "answers": [
+      "Yen Sid",
+      "Merlin",
+      "Gandalf",
+      "Dumbledore"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_38",
+    "categoryId": "disney_hard",
+    "text": "In 'Hocus Pocus,' what is the name of the black cat who was once a human boy?",
+    "answers": [
+      "Binx",
+      "Salem",
+      "Pyewacket",
+      "Figaro"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_39",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the ship that sinks in 'The Little Mermaid'?",
+    "answers": [
+      "The Black Pearl",
+      "The Flying Dutchman",
+      "Prince Eric's Ship",
+      "The Nautilus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_40",
+    "categoryId": "disney_hard",
+    "text": "In 'Enchanted,' what is the name of the fictional kingdom that Giselle is from?",
+    "answers": [
+      "Andalasia",
+      "Maldonia",
+      "Corona",
+      "Arendelle"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_41",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the dog that belongs to the Darling family in 'Peter Pan'?",
+    "answers": [
+      "Nana",
+      "Lady",
+      "Pongo",
+      "Perdita"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_42",
+    "categoryId": "disney_hard",
+    "text": "In 'The Rescuers,' what is the name of the organization that Bernard and Bianca work for?",
+    "answers": [
+      "The Rescue Aid Society",
+      "The International Mouse Taskforce",
+      "The League of Heroic Rodents",
+      "The Mouse Guard"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_43",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the villain's sidekick in 'Tangled,' the horse?",
+    "answers": [
+      "Maximus",
+      "Angus",
+      "Philippe",
+      "Khan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_44",
+    "categoryId": "disney_hard",
+    "text": "In 'The Aristocats,' what is the name of the alley cat who befriends Duchess and her kittens?",
+    "answers": [
+      "Scat Cat",
+      "Thomas O'Malley",
+      "Butch",
+      "Peppo"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_45",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the firefly in 'The Princess and the Frog'?",
+    "answers": [
+      "Louis",
+      "Ray",
+      "Tiana",
+      "Naveen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_46",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the main villain in 'Tarzan'?",
+    "answers": [
+      "Sabor",
+      "Kerchak",
+      "Clayton",
+      "Tublat"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_47",
+    "categoryId": "disney_hard",
+    "text": "In 'Dumbo,' what is the name of the mouse who becomes Dumbo's friend and mentor?",
+    "answers": [
+      "Timothy Q. Mouse",
+      "Jaques",
+      "Gus",
+      "Bernard"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_hard_48",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the magical object that the villain Horned King seeks in 'The Black Cauldron'?",
+    "answers": [
+      "The Sword in the Stone",
+      "The Black Cauldron",
+      "The Crystal Heart",
+      "The Magic Harp"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_hard_49",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the lost princess in 'Atlantis: The Lost Empire'?",
+    "answers": [
+      "Audrey",
+      "Helga",
+      "Kida",
+      "Milo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_hard_50",
+    "categoryId": "disney_hard",
+    "text": "What is the name of the toy museum in 'Toy Story 2'?",
+    "answers": [
+      "Konishi Toy Museum",
+      "Al's Toy Barn",
+      "The Children's Museum of Toys",
+      "The National Toy Museum"
+    ],
+    "correctAnswerIndex": 0
+  }
+]
