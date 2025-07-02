@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hg_1",
+    "categoryId": "hg",
+    "text": "Who is the main protagonist of 'The Hunger Games'?",
+    "answers": [
+      "Primrose Everdeen",
+      "Katniss Everdeen",
+      "Gale Hawthorne",
+      "Peeta Mellark"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_2",
+    "categoryId": "hg",
+    "text": "What is Katniss's home district?",
+    "answers": [
+      "District 1",
+      "District 4",
+      "District 11",
+      "District 12"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_3",
+    "categoryId": "hg",
+    "text": "What is Katniss's signature weapon?",
+    "answers": [
+      "Sword",
+      "Spear",
+      "Bow and Arrow",
+      "Knife"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_4",
+    "categoryId": "hg",
+    "text": "Who is the male tribute from District 12 in the 74th Hunger Games?",
+    "answers": [
+      "Gale Hawthorne",
+      "Haymitch Abernathy",
+      "Peeta Mellark",
+      "Finnick Odair"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_5",
+    "categoryId": "hg",
+    "text": "What is the symbol of the rebellion, worn as a pin by Katniss?",
+    "answers": [
+      "A golden arrow",
+      "A flaming bird",
+      "A mockingjay",
+      "A silent whistle"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_6",
+    "categoryId": "hg",
+    "text": "What is the name of the tyrannical president of Panem?",
+    "answers": [
+      "President Snow",
+      "President Coin",
+      "President Paylor",
+      "President Abernathy"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hg_7",
+    "categoryId": "hg",
+    "text": "What are the genetically engineered birds that can mimic sounds called?",
+    "answers": [
+      "Jabberjays",
+      "Tracker Jackers",
+      "Mockingbirds",
+      "Songbirds"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hg_8",
+    "categoryId": "hg",
+    "text": "Who is Katniss's stylist for the Hunger Games?",
+    "answers": [
+      "Effie Trinket",
+      "Cinna",
+      "Portia",
+      "Venia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_9",
+    "categoryId": "hg",
+    "text": "The third Quarter Quell required tributes to be chosen from what group of people?",
+    "answers": [
+      "Previous volunteers",
+      "Capitol citizens",
+      "Existing victors",
+      "Family of officials"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_10",
+    "categoryId": "hg",
+    "text": "What does the three-fingered salute signify in the districts?",
+    "answers": [
+      "Respect and rebellion",
+      "Loyalty to the Capitol",
+      "A call for help",
+      "A common greeting"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hg_11",
+    "categoryId": "hg",
+    "text": "Who is the president of the rebel District 13?",
+    "answers": [
+      "President Snow",
+      "Alma Coin",
+      "Commander Paylor",
+      "Plutarch Heavensbee"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_12",
+    "categoryId": "hg",
+    "text": "What is the primary industry of Katniss's home, District 12?",
+    "answers": [
+      "Fishing",
+      "Lumber",
+      "Coal mining",
+      "Agriculture"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_13",
+    "categoryId": "hg",
+    "text": "What is the name of the deadly, genetically engineered wasps?",
+    "answers": [
+      "Jabberjays",
+      "Tracker Jackers",
+      "Muttations",
+      "Creeper Vines"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_14",
+    "categoryId": "hg",
+    "text": "What is the name of Katniss's younger sister for whom she volunteers?",
+    "answers": [
+      "Rue",
+      "Madge",
+      "Primrose",
+      "Annie"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_15",
+    "categoryId": "hg",
+    "text": "Who is the charming victor from District 4 who wields a trident?",
+    "answers": [
+      "Peeta Mellark",
+      "Haymitch Abernathy",
+      "Gale Hawthorne",
+      "Finnick Odair"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_16",
+    "categoryId": "hg",
+    "text": "What is the name of the black market in District 12 where Katniss trades?",
+    "answers": [
+      "The Seam",
+      "The Hob",
+      "The Black Market",
+      "The Trade Post"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_17",
+    "categoryId": "hg",
+    "text": "What type of business does Peeta's family own?",
+    "answers": [
+      "A tailor shop",
+      "A bakery",
+      "A butcher shop",
+      "An apothecary"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_18",
+    "categoryId": "hg",
+    "text": "Who is the Head Gamemaker for the 75th Hunger Games (The Quarter Quell)?",
+    "answers": [
+      "Seneca Crane",
+      "Plutarch Heavensbee",
+      "Coriolanus Snow",
+      "Caesar Flickerman"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_19",
+    "categoryId": "hg",
+    "text": "What does Katniss do to honor Rue after her death in the arena?",
+    "answers": [
+      "Sings a lullaby",
+      "Gives the District 12 salute",
+      "Covers her in flowers",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_20",
+    "categoryId": "hg",
+    "text": "What is the name of the television host who interviews the tributes?",
+    "answers": [
+      "Claudius Templesmith",
+      "Seneca Crane",
+      "Caesar Flickerman",
+      "Plutarch Heavensbee"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_21",
+    "categoryId": "hg",
+    "text": "The arena for the 75th Hunger Games is designed to look like what?",
+    "answers": [
+      "A desert",
+      "A frozen tundra",
+      "A clock",
+      "A mountain range"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_22",
+    "categoryId": "hg",
+    "text": "What weapon does Johanna Mason from District 7 favor?",
+    "answers": [
+      "A sword",
+      "A bow",
+      "An axe",
+      "A spear"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_23",
+    "categoryId": "hg",
+    "text": "What are the propaganda videos starring Katniss called in 'Mockingjay'?",
+    "answers": [
+      "Rebel Reels",
+      "Propos",
+      "Capitol Commercials",
+      "Freedom Films"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_24",
+    "categoryId": "hg",
+    "text": "What is the name of Primrose Everdeen's cat?",
+    "answers": [
+      "Lion",
+      "Tiger",
+      "Buttercup",
+      "Dandelion"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_25",
+    "categoryId": "hg",
+    "text": "What is the name of the poisonous berries that lead to a rule change?",
+    "answers": [
+      "Moonseed",
+      "Nightlock",
+      "Hemlock",
+      "Wolfsbane"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_26",
+    "categoryId": "hg",
+    "text": "What is the primary industry of District 11, Rue's home district?",
+    "answers": [
+      "Technology",
+      "Livestock",
+      "Agriculture",
+      "Mining"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_27",
+    "categoryId": "hg",
+    "text": "Who gives Katniss the Mockingjay pin?",
+    "answers": [
+      "Her mother",
+      "Prim",
+      "Madge Undersee",
+      "Gale"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_28",
+    "categoryId": "hg",
+    "text": "What tribute from District 1 does Katniss kill, which haunts her?",
+    "answers": [
+      "Glimmer",
+      "Clove",
+      "Cato",
+      "Marvel"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_29",
+    "categoryId": "hg",
+    "text": "What is the primary industry of District 4, Finnick's home district?",
+    "answers": [
+      "Fishing",
+      "Lumber",
+      "Luxury",
+      "Power"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hg_30",
+    "categoryId": "hg",
+    "text": "What is the term for the day tributes are selected for the Hunger Games?",
+    "answers": [
+      "The Selection",
+      "The Draft",
+      "The Choosing",
+      "The Reaping"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_31",
+    "categoryId": "hg",
+    "text": "What does Katniss shoot an arrow at during her private session with the Gamemakers?",
+    "answers": [
+      "The Gamemakers' table",
+      "A roast pig",
+      "A dummy",
+      "The ceiling"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_32",
+    "categoryId": "hg",
+    "text": "Who kills President Coin at the end of the rebellion?",
+    "answers": [
+      "President Snow",
+      "Peeta Mellark",
+      "Katniss Everdeen",
+      "Gale Hawthorne"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_33",
+    "categoryId": "hg",
+    "text": "What major injury does Peeta sustain during the 74th Hunger Games?",
+    "answers": [
+      "Loses an arm",
+      "Loses a leg",
+      "Becomes deaf in one ear",
+      "Loses an eye"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_34",
+    "categoryId": "hg",
+    "text": "What is the name of the intelligent tribute from District 3 who helps Katniss destroy the Careers' supplies?",
+    "answers": [
+      "Wiress",
+      "Beetee",
+      "Blight",
+      "Gloss"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_35",
+    "categoryId": "hg",
+    "text": "What is the famous catchphrase of the Hunger Games, often said by Effie Trinket?",
+    "answers": [
+      "'And may the odds be ever in your favor.'",
+      "'Let the Games begin!'",
+      "'Happy Hunger Games!'",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hg_36",
+    "categoryId": "hg",
+    "text": "Where does Katniss find Peeta hiding after he is wounded by Cato?",
+    "answers": [
+      "In a cave",
+      "Up a tree",
+      "Camouflaged in a riverbank",
+      "In the Cornucopia"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_37",
+    "categoryId": "hg",
+    "text": "Who is Katniss's first official ally in the 74th Hunger Games?",
+    "answers": [
+      "Peeta",
+      "Rue",
+      "Thresh",
+      "Foxface"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_38",
+    "categoryId": "hg",
+    "text": "What is the final fate of President Snow?",
+    "answers": [
+      "Executed by Katniss",
+      "Escapes to the wilderness",
+      "Dies in a riot while choking",
+      "Imprisoned for life"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_39",
+    "categoryId": "hg",
+    "text": "What song, taught to Katniss by her father, becomes an anthem of the rebellion?",
+    "answers": [
+      "'Deep in the Meadow'",
+      "'The Valley Song'",
+      "'The Hanging Tree'",
+      "'Rue's Lullaby'"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_40",
+    "categoryId": "hg",
+    "text": "What is the name given to the mind-control torture Peeta endures in the Capitol?",
+    "answers": [
+      "Brainwashing",
+      "Re-programming",
+      "Hijacking",
+      "Conditioning"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_41",
+    "categoryId": "hg",
+    "text": "Who is the victor from District 12, besides Katniss and Peeta?",
+    "answers": [
+      "Gale Hawthorne",
+      "Haymitch Abernathy",
+      "Madge Undersee",
+      "There are no others"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_42",
+    "categoryId": "hg",
+    "text": "What is the nickname Katniss is given after the 74th Hunger Games?",
+    "answers": [
+      "The Mockingjay",
+      "The Girl on Fire",
+      "The Archer",
+      "The Victor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_43",
+    "categoryId": "hg",
+    "text": "What token from District 11 does Thresh spare Katniss for?",
+    "answers": [
+      "Her mockingjay pin",
+      "The bread from District 11",
+      "Her kindness to Rue",
+      "Her bow and arrows"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_44",
+    "categoryId": "hg",
+    "text": "What is the primary industry of District 7?",
+    "answers": [
+      "Lumber",
+      "Textiles",
+      "Masonry",
+      "Grain"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hg_45",
+    "categoryId": "hg",
+    "text": "What is the name of Katniss and Peeta's daughter?",
+    "answers": [
+      "Primrose",
+      "Rue",
+      "Willow",
+      "Hope"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_46",
+    "categoryId": "hg",
+    "text": "What color are the parachutes that deliver gifts from sponsors?",
+    "answers": [
+      "Gold",
+      "Silver",
+      "White",
+      "Red"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_47",
+    "categoryId": "hg",
+    "text": "Who is the elderly victor from District 4 who sacrifices herself for Peeta?",
+    "answers": [
+      "Wiress",
+      "Mags",
+      "Cecelia",
+      "Seeder"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hg_48",
+    "categoryId": "hg",
+    "text": "What is the primary food source for many in District 12?",
+    "answers": [
+      "Fish",
+      "Grain",
+      "Squirrel",
+      "Bread"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_49",
+    "categoryId": "hg",
+    "text": "What is the name of the Capitol's military force?",
+    "answers": [
+      "The Guard",
+      "The Army",
+      "Peacekeepers",
+      "Enforcers"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hg_50",
+    "categoryId": "hg",
+    "text": "How many victors were there from District 12 before Katniss and Peeta?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

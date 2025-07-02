@@ -1,0 +1,90 @@
+[
+  {
+    "id": "stargate",
+    "name": "Stargate"
+  },
+  {
+    "id": "dc",
+    "name": "DC Comics"
+  },
+  {
+    "id": "disney_hard",
+    "name": "Disney/Pixar (Hard)"
+  },
+  {
+    "id": "disney_easy",
+    "name": "Disney/Pixar (Easy)"
+  },
+  {
+    "id": "potc",
+    "name": "Pirates of the Caribbean"
+  },
+  {
+    "id": "disney_medium",
+    "name": "Disney/Pixar (Medium)"
+  },
+  {
+    "id": "hg",
+    "name": "The Hunger Games"
+  },
+  {
+    "id": "hp_medium",
+    "name": "Harry Potter (Medium)"
+  },
+  {
+    "id": "history_medium",
+    "name": "World History (Medium)"
+  },
+  {
+    "id": "hp_easy",
+    "name": "Harry Potter (Easy)"
+  },
+  {
+    "id": "marvel",
+    "name": "Marvel"
+  },
+  {
+    "id": "hp_hard",
+    "name": "Harry Potter (Hard)"
+  },
+  {
+    "id": "sw_medium",
+    "name": "Star Wars (Medium)"
+  },
+  {
+    "id": "lotr",
+    "name": "Lord of the Rings"
+  },
+  {
+    "id": "history_easy",
+    "name": "World History (Easy)"
+  },
+  {
+    "id": "star_trek",
+    "name": "Star Trek"
+  },
+  {
+    "id": "history_hard",
+    "name": "World History (Hard)"
+  },
+  {
+    "id": "twilight",
+    "name": "Twilight"
+  },
+  {
+    "id": "sw_easy",
+    "name": "Star Wars (Easy)"
+  },
+  {
+    "id": "sw_hard",
+    "name": "Star Wars (Hard)"
+  },
+  {
+    "id": "avatar",
+    "name": "Avatar: The Last Airbender"
+  },
+  {
+    "id": "geography",
+    "name": "Geography"
+  }
+]

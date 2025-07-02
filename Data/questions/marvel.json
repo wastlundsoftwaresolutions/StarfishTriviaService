@@ -1,0 +1,602 @@
+[
+  {
+    "id": "marvel_1",
+    "categoryId": "marvel",
+    "text": "What is the name of Thor's enchanted hammer?",
+    "answers": [
+      "Stormbreaker",
+      "Mjolnir",
+      "Gungnir",
+      "Hofund"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_2",
+    "categoryId": "marvel",
+    "text": "Who is the billionaire genius who becomes Iron Man?",
+    "answers": [
+      "Bruce Banner",
+      "Tony Stark",
+      "Steve Rogers",
+      "Reed Richards"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_3",
+    "categoryId": "marvel",
+    "text": "What is Captain America's shield made of?",
+    "answers": [
+      "Adamantium",
+      "Uru",
+      "Vibranium",
+      "Titanium"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_4",
+    "categoryId": "marvel",
+    "text": "Who is the main antagonist in 'The Avengers' (2012 film)?",
+    "answers": [
+      "Thanos",
+      "Ultron",
+      "Loki",
+      "Red Skull"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_5",
+    "categoryId": "marvel",
+    "text": "What is the name of the organization Nick Fury leads?",
+    "answers": [
+      "S.H.I.E.L.D.",
+      "HYDRA",
+      "S.W.O.R.D.",
+      "A.I.M."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "marvel_6",
+    "categoryId": "marvel",
+    "text": "Which Infinity Stone is embedded in Vision's forehead?",
+    "answers": [
+      "The Space Stone",
+      "The Reality Stone",
+      "The Power Stone",
+      "The Mind Stone"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "marvel_7",
+    "categoryId": "marvel",
+    "text": "What is the name of Black Panther's home country?",
+    "answers": [
+      "Sokovia",
+      "Wakanda",
+      "Latveria",
+      "Madripoor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_8",
+    "categoryId": "marvel",
+    "text": "Which Guardian of the Galaxy is a talking raccoon?",
+    "answers": [
+      "Groot",
+      "Drax",
+      "Star-Lord",
+      "Rocket"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "marvel_9",
+    "categoryId": "marvel",
+    "text": "How did Spider-Man get his powers?",
+    "answers": [
+      "He was born with them",
+      "A lab accident",
+      "Bitten by a radioactive spider",
+      "Exposed to gamma radiation"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_10",
+    "categoryId": "marvel",
+    "text": "What is the real name of the Hulk?",
+    "answers": [
+      "Tony Stark",
+      "Peter Parker",
+      "Bruce Banner",
+      "Stephen Strange"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_11",
+    "categoryId": "marvel",
+    "text": "What species is Groot from Guardians of the Galaxy?",
+    "answers": [
+      "Kree",
+      "Skrull",
+      "Flora Colossus",
+      "Celestial"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_12",
+    "categoryId": "marvel",
+    "text": "Who is Nick Fury's most trusted agent and second-in-command?",
+    "answers": [
+      "Phil Coulson",
+      "Maria Hill",
+      "Clint Barton",
+      "Natasha Romanoff"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_13",
+    "categoryId": "marvel",
+    "text": "What is the name of the AI Tony Stark creates that becomes Ultron?",
+    "answers": [
+      "J.A.R.V.I.S.",
+      "F.R.I.D.A.Y.",
+      "A peacekeeping program",
+      "The Iron Legion"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_14",
+    "categoryId": "marvel",
+    "text": "What is the real name of Black Widow?",
+    "answers": [
+      "Wanda Maximoff",
+      "Carol Danvers",
+      "Natasha Romanoff",
+      "Peggy Carter"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_15",
+    "categoryId": "marvel",
+    "text": "What is the real name of Hawkeye?",
+    "answers": [
+      "Clint Barton",
+      "Bucky Barnes",
+      "Sam Wilson",
+      "Scott Lang"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "marvel_16",
+    "categoryId": "marvel",
+    "text": "What is the name of Star-Lord's celestial father?",
+    "answers": [
+      "The Collector",
+      "Ronan",
+      "Ego",
+      "Yondu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_17",
+    "categoryId": "marvel",
+    "text": "In 'Avengers: Infinity War', who does Thanos sacrifice on Vormir to get the Soul Stone?",
+    "answers": [
+      "Nebula",
+      "Gamora",
+      "Loki",
+      "Iron Man"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_18",
+    "categoryId": "marvel",
+    "text": "What is the name of Ant-Man's daughter?",
+    "answers": [
+      "Hope",
+      "Janet",
+      "Cassie",
+      "Maggie"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_19",
+    "categoryId": "marvel",
+    "text": "What is the name of the microscopic universe Ant-Man travels to?",
+    "answers": [
+      "The Negative Zone",
+      "The Microverse",
+      "The Quantum Realm",
+      "The Astral Plane"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_20",
+    "categoryId": "marvel",
+    "text": "What is the name of Tony Stark's original A.I. assistant?",
+    "answers": [
+      "F.R.I.D.A.Y.",
+      "K.A.R.E.N.",
+      "J.A.R.V.I.S.",
+      "E.D.I.T.H."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_21",
+    "categoryId": "marvel",
+    "text": "On which planet did Thanos retrieve the Power Stone from the Nova Corps?",
+    "answers": [
+      "Sakaar",
+      "Knowhere",
+      "Ego",
+      "Xandar"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "marvel_22",
+    "categoryId": "marvel",
+    "text": "What is the name of the ex-S.H.I.E.L.D. agent who becomes the villain Crossbones?",
+    "answers": [
+      "Jack Rollins",
+      "Jasper Sitwell",
+      "Georges Batroc",
+      "Brock Rumlow"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "marvel_23",
+    "categoryId": "marvel",
+    "text": "What is the name of Peter Parker's best friend in the MCU?",
+    "answers": [
+      "Harry Osborn",
+      "Flash Thompson",
+      "Ned Leeds",
+      "Miles Morales"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_24",
+    "categoryId": "marvel",
+    "text": "What kind of doctor was Stephen Strange before his accident?",
+    "answers": [
+      "Cardiologist",
+      "Neurosurgeon",
+      "Trauma Surgeon",
+      "Oncologist"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_25",
+    "categoryId": "marvel",
+    "text": "What is the name of the event where Thanos snaps his fingers, wiping out half of all life?",
+    "answers": [
+      "The Snap",
+      "The Blip",
+      "The Decimation",
+      "The Infinity War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_26",
+    "categoryId": "marvel",
+    "text": "What is the name of Captain Marvel's cat, who is actually a Flerken?",
+    "answers": [
+      "Chewie",
+      "Goose",
+      "Redwing",
+      "Zola"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_27",
+    "categoryId": "marvel",
+    "text": "Who is the main villain in 'Spider-Man: Homecoming'?",
+    "answers": [
+      "The Tinkerer",
+      "Shocker",
+      "The Vulture",
+      "Mysterio"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_28",
+    "categoryId": "marvel",
+    "text": "Where is the Soul Stone hidden?",
+    "answers": [
+      "Nowhere",
+      "Asgard",
+      "Vormir",
+      "Knowhere"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_29",
+    "categoryId": "marvel",
+    "text": "What is the name of the sentient tree in Guardians of the Galaxy?",
+    "answers": [
+      "Rocket",
+      "Drax",
+      "Groot",
+      "Yggdrasil"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_30",
+    "categoryId": "marvel",
+    "text": "Which character says 'I can do this all day'?",
+    "answers": [
+      "Iron Man",
+      "Thor",
+      "Captain America",
+      "Hulk"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_31",
+    "categoryId": "marvel",
+    "text": "What is the name of the spy organization that infiltrated S.H.I.E.L.D.?",
+    "answers": [
+      "A.I.M.",
+      "The Ten Rings",
+      "HYDRA",
+      "The Hand"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_32",
+    "categoryId": "marvel",
+    "text": "Who is the Sorcerer Supreme before Doctor Strange?",
+    "answers": [
+      "Mordo",
+      "The Ancient One",
+      "Kaecilius",
+      "Wong"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_33",
+    "categoryId": "marvel",
+    "text": "What is the name of Peter Quill's (Star-Lord's) mother?",
+    "answers": [
+      "Laura Haddock",
+      "Meredith Quill",
+      "Carina Walters",
+      "Bereet"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_34",
+    "categoryId": "marvel",
+    "text": "What is the name of the treaty that divides the Avengers in 'Civil War'?",
+    "answers": [
+      "The Wakanda Accords",
+      "The S.H.I.E.L.D. Accords",
+      "The Sokovia Accords",
+      "The Avengers Accords"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_35",
+    "categoryId": "marvel",
+    "text": "Which Infinity Stone does Doctor Strange protect?",
+    "answers": [
+      "The Time Stone",
+      "The Reality Stone",
+      "The Soul Stone",
+      "The Space Stone"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "marvel_36",
+    "categoryId": "marvel",
+    "text": "What is the name of Thor's axe, forged in 'Infinity War'?",
+    "answers": [
+      "Mjolnir",
+      "Gungnir",
+      "Jarnbjorn",
+      "Stormbreaker"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "marvel_37",
+    "categoryId": "marvel",
+    "text": "Who is the leader of the Ravagers who raises Peter Quill?",
+    "answers": [
+      "Taserface",
+      "Kraglin",
+      "Yondu Udonta",
+      "Stakar Ogord"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_38",
+    "categoryId": "marvel",
+    "text": "In which film does Black Panther first appear?",
+    "answers": [
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Black Panther",
+      "Iron Man 2"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_39",
+    "categoryId": "marvel",
+    "text": "What is the name of Black Panther's sister, a technological genius?",
+    "answers": [
+      "Okoye",
+      "Nakia",
+      "Shuri",
+      "Ramonda"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_40",
+    "categoryId": "marvel",
+    "text": "What does 'S.H.I.E.L.D.' stand for?",
+    "answers": [
+      "Strategic Homeland Intervention, Enforcement and Logistics Division",
+      "Supreme Headquarters, International Espionage, Law-Enforcement Division",
+      "Strategic Hazard Intervention Espionage Logistics Directorate",
+      "There is no official meaning"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "marvel_41",
+    "categoryId": "marvel",
+    "text": "Which movie kicked off the Marvel Cinematic Universe?",
+    "answers": [
+      "The Incredible Hulk",
+      "Iron Man",
+      "Thor",
+      "Captain America: The First Avenger"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_42",
+    "categoryId": "marvel",
+    "text": "What gives Carol Danvers her powers?",
+    "answers": [
+      "Gamma radiation",
+      "A radioactive spider",
+      "The Tesseract's energy",
+      "The Super-Soldier Serum"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_43",
+    "categoryId": "marvel",
+    "text": "What is the real name of The Falcon?",
+    "answers": [
+      "Sam Wilson",
+      "James Rhodes",
+      "Bucky Barnes",
+      "T'Challa"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "marvel_44",
+    "categoryId": "marvel",
+    "text": "What is the Red Room?",
+    "answers": [
+      "A prison",
+      "A S.H.I.E.L.D. facility",
+      "A Black Widow training program",
+      "A HYDRA base"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_45",
+    "categoryId": "marvel",
+    "text": "Who is the primary villain of 'Guardians of the Galaxy'?",
+    "answers": [
+      "Thanos",
+      "The Collector",
+      "Ronan the Accuser",
+      "Ego"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_46",
+    "categoryId": "marvel",
+    "text": "What is the name of the planet where the Grandmaster holds his Contest of Champions?",
+    "answers": [
+      "Xandar",
+      "Knowhere",
+      "Sakaar",
+      "Asgard"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_47",
+    "categoryId": "marvel",
+    "text": "What is the real name of War Machine?",
+    "answers": [
+      "Tony Stark",
+      "Sam Wilson",
+      "James 'Rhodey' Rhodes",
+      "Happy Hogan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "marvel_48",
+    "categoryId": "marvel",
+    "text": "How many Infinity Stones are there?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_49",
+    "categoryId": "marvel",
+    "text": "What phrase does Bucky Barnes say when he is under HYDRA's control?",
+    "answers": [
+      "Hail HYDRA",
+      "Longing, Rusted, Seventeen...",
+      "I'm ready to comply",
+      "I am the Winter Soldier"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "marvel_50",
+    "categoryId": "marvel",
+    "text": "Who is the only character to say 'Avengers, assemble!' in the first Avengers movie?",
+    "answers": [
+      "Iron Man",
+      "Captain America",
+      "Nick Fury",
+      "No one says it"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "stargate_1",
+    "categoryId": "stargate",
+    "text": "What does the acronym SGC stand for?",
+    "answers": [
+      "Stargate Command",
+      "Space Gate Central",
+      "Stargate Center",
+      "System Genesis Command"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_2",
+    "categoryId": "stargate",
+    "text": "Who is the original leader of the SG-1 team?",
+    "answers": [
+      "Daniel Jackson",
+      "Samantha Carter",
+      "Jack O'Neill",
+      "Teal'c"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_3",
+    "categoryId": "stargate",
+    "text": "What is the name of the primary alien antagonists in Stargate SG-1?",
+    "answers": [
+      "The Asgard",
+      "The Nox",
+      "The Goa'uld",
+      "The Replicators"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_4",
+    "categoryId": "stargate",
+    "text": "What is the home planet of the Asgard in the Ida galaxy?",
+    "answers": [
+      "Orilla",
+      "Hala",
+      "Othala",
+      "Valhalla"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_5",
+    "categoryId": "stargate",
+    "text": "Teal'c is a member of which race?",
+    "answers": [
+      "Tok'ra",
+      "Human",
+      "Goa'uld",
+      "Jaffa"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_6",
+    "categoryId": "stargate",
+    "text": "What powerful energy source, created by the Ancients, is used to power city-ships and outposts?",
+    "answers": [
+      "A Naquadah Reactor",
+      "A Cold Fusion Core",
+      "A Zero Point Module (ZPM)",
+      "A Staff Weapon Power Coil"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_7",
+    "categoryId": "stargate",
+    "text": "In which galaxy is the city-ship of Atlantis located?",
+    "answers": [
+      "Andromeda",
+      "Triangulum",
+      "Ida",
+      "Pegasus"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_8",
+    "categoryId": "stargate",
+    "text": "Who is the initial military commander of the Atlantis expedition?",
+    "answers": [
+      "John Sheppard",
+      "Evan Lorne",
+      "Marshall Sumner",
+      "Abraham Ellis"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_9",
+    "categoryId": "stargate",
+    "text": "What is the name of the vampiric, hive-based species that feeds on humans in the Pegasus galaxy?",
+    "answers": [
+      "The Genii",
+      "The Travelers",
+      "The Wraith",
+      "The Asurans"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_10",
+    "categoryId": "stargate",
+    "text": "What is the name of the Ancient spaceship the characters in 'Stargate Universe' are stranded on?",
+    "answers": [
+      "Odyssey",
+      "Destiny",
+      "Prometheus",
+      "Aurora"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_11",
+    "categoryId": "stargate",
+    "text": "Dr. Daniel Jackson is an expert in what field?",
+    "answers": [
+      "Astrophysics",
+      "Xenobiology",
+      "Archaeology and Linguistics",
+      "Theoretical Physics"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_12",
+    "categoryId": "stargate",
+    "text": "What is the name of the Jaffa homeworld?",
+    "answers": [
+      "Chulak",
+      "Dakara",
+      "Abydos",
+      "Langara"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_13",
+    "categoryId": "stargate",
+    "text": "Which character frequently uses the phrase 'Indeed'?",
+    "answers": [
+      "Jack O'Neill",
+      "Daniel Jackson",
+      "Samantha Carter",
+      "Teal'c"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_14",
+    "categoryId": "stargate",
+    "text": "The Goa'uld who opposes the System Lords and fights with the Tau'ri is part of which group?",
+    "answers": [
+      "The Jaffa Rebellion",
+      "The Lucian Alliance",
+      "The Tok'ra",
+      "The Genii"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_15",
+    "categoryId": "stargate",
+    "text": "What is the designation of Earth's first interstellar battlecruiser?",
+    "answers": [
+      "BC-303 (Prometheus)",
+      "BC-304 (Daedalus)",
+      "F-302",
+      "Puddle Jumper"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_16",
+    "categoryId": "stargate",
+    "text": "Who becomes the leader of the SGC after General Hammond?",
+    "answers": [
+      "Jack O'Neill",
+      "Hank Landry",
+      "George Hammond",
+      "Elizabeth Weir"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_17",
+    "categoryId": "stargate",
+    "text": "What is the name of the self-replicating, block-based machines that threaten the Asgard and the Milky Way?",
+    "answers": [
+      "The Borg",
+      "The Cybermen",
+      "The Replicators",
+      "The Asurans"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_18",
+    "categoryId": "stargate",
+    "text": "Which Ancient is known for ascending and occasionally helping SG-1?",
+    "answers": [
+      "Merlin",
+      "Ganos Lal (Morgan Le Fay)",
+      "Oma Desala",
+      "Janus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_19",
+    "categoryId": "stargate",
+    "text": "What is the real name of the race that built the Stargates?",
+    "answers": [
+      "The Ancients (Alterans)",
+      "The Furlings",
+      "The Nox",
+      "The Asgard"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_20",
+    "categoryId": "stargate",
+    "text": "In 'Stargate Universe', who is the civilian leader in charge of the expedition?",
+    "answers": [
+      "Everett Young",
+      "Nicholas Rush",
+      "Camile Wray",
+      "Eli Wallace"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_21",
+    "categoryId": "stargate",
+    "text": "What is the home planet of the Unas?",
+    "answers": [
+      "P3X-888",
+      "Abydos",
+      "Langara",
+      "Tollana"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_22",
+    "categoryId": "stargate",
+    "text": "What is the symbol on Teal'c's forehead a mark of?",
+    "answers": [
+      "Apophis",
+      "Ra",
+      "Anubis",
+      "Cronus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_23",
+    "categoryId": "stargate",
+    "text": "Dr. Rodney McKay is a brilliant but arrogant scientist in which series?",
+    "answers": [
+      "Stargate SG-1",
+      "Stargate Atlantis",
+      "Stargate Universe",
+      "Stargate Origins"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_24",
+    "categoryId": "stargate",
+    "text": "What is the primary weapon of a Jaffa warrior?",
+    "answers": [
+      "Zat'nik'tel",
+      "Staff weapon",
+      "Intar",
+      "P-90"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_25",
+    "categoryId": "stargate",
+    "text": "The Ori are a race of ascended beings who demand what from their followers?",
+    "answers": [
+      "Sacrifice",
+      "Obedience",
+      "Worship",
+      "Tribute"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_26",
+    "categoryId": "stargate",
+    "text": "What does a Zat'nik'tel do on the first, second, and third shot?",
+    "answers": [
+      "Stun, Kill, Disintegrate",
+      "Wound, Stun, Kill",
+      "Kill, Stun, Revive",
+      "Disintegrate, Stun, Kill"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_27",
+    "categoryId": "stargate",
+    "text": "Who is the leader of the Genii in the Pegasus galaxy?",
+    "answers": [
+      "Kolya",
+      "Ladon Radim",
+      "Cowen",
+      "Sora"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_28",
+    "categoryId": "stargate",
+    "text": "Vala Mal Doran was once the human host for which Goa'uld?",
+    "answers": [
+      "Osiris",
+      "Ba'al",
+      "Nirrti",
+      "Qetesh"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_29",
+    "categoryId": "stargate",
+    "text": "The address for Earth is composed of how many chevrons?",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_30",
+    "categoryId": "stargate",
+    "text": "What device allows for long-distance communication by swapping consciousness with another person?",
+    "answers": [
+      "The Quantum Mirror",
+      "The Communication Stones",
+      "The Tollan Communicator",
+      "The FTL Radio"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_31",
+    "categoryId": "stargate",
+    "text": "Who is the leader of the Lucian Alliance?",
+    "answers": [
+      "Netan",
+      "Vala Mal Doran",
+      "Jolan",
+      "Worrel"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_32",
+    "categoryId": "stargate",
+    "text": "What is the name of the SGC's off-world research base established in the series?",
+    "answers": [
+      "Alpha Site",
+      "Beta Site",
+      "Gamma Site",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_33",
+    "categoryId": "stargate",
+    "text": "Which character from 'Stargate Atlantis' is a Satedan?",
+    "answers": [
+      "John Sheppard",
+      "Teyla Emmagan",
+      "Aiden Ford",
+      "Ronon Dex"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_34",
+    "categoryId": "stargate",
+    "text": "What is the name of the small, puddle-like spaceships used by the Atlantis team?",
+    "answers": [
+      "Puddle Jumpers",
+      "Gateships",
+      "Scouts",
+      "Both A and B"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_35",
+    "categoryId": "stargate",
+    "text": "Who is the last of the Goa'uld System Lords to be defeated?",
+    "answers": [
+      "Anubis",
+      "Apophis",
+      "Sokar",
+      "Ba'al"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_36",
+    "categoryId": "stargate",
+    "text": "What is the name of the child of Skaara and the Goa'uld Klorel?",
+    "answers": [
+      "Shifu",
+      "Rya'c",
+      "Harsesis",
+      "Apophis Jr."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_37",
+    "categoryId": "stargate",
+    "text": "What element is the key component in building Stargates and other advanced technology?",
+    "answers": [
+      "Trinium",
+      "Naquadah",
+      "Neutronium",
+      "Iridium"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_38",
+    "categoryId": "stargate",
+    "text": "Where is Stargate Command located?",
+    "answers": [
+      "Area 51, Nevada",
+      "Cheyenne Mountain, Colorado",
+      "Wright-Patterson AFB, Ohio",
+      "The Pentagon, Virginia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_39",
+    "categoryId": "stargate",
+    "text": "Who composed the main theme music for 'Stargate SG-1'?",
+    "answers": [
+      "Joel Goldsmith",
+      "David Arnold",
+      "Jerry Goldsmith",
+      "Bear McCreary"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_40",
+    "categoryId": "stargate",
+    "text": "Which ancient civilization does the planet Tollana resemble?",
+    "answers": [
+      "Roman",
+      "Greek",
+      "Egyptian",
+      "Norse"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "stargate_41",
+    "categoryId": "stargate",
+    "text": "The Replicators in the Pegasus Galaxy are also known by what name?",
+    "answers": [
+      "The Brotherhood",
+      "The Asurans",
+      "The Celestials",
+      "The Mecha"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_42",
+    "categoryId": "stargate",
+    "text": "What is the name of the planet where the SGC finds the Antarctic Stargate?",
+    "answers": [
+      "Abydos",
+      "Heliopolis",
+      "Praclarush Taonas",
+      "P3X-984"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_43",
+    "categoryId": "stargate",
+    "text": "What is the designation for the Earth-built fighter craft?",
+    "answers": [
+      "F-16",
+      "X-301",
+      "F-302",
+      "X-303"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_44",
+    "categoryId": "stargate",
+    "text": "Who is the leader of the Nox?",
+    "answers": [
+      "Lya",
+      "Ohper",
+      "Anteaus",
+      "They have no leader"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_45",
+    "categoryId": "stargate",
+    "text": "What is the name of the device that can cure almost any ailment, invented by the Goa'uld?",
+    "answers": [
+      "The Healing Cube",
+      "The Sarcophagus",
+      "The Regeneration Chamber",
+      "The Life Crystal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_46",
+    "categoryId": "stargate",
+    "text": "What is the name of the Athosian leader and friend of the Atlantis team?",
+    "answers": [
+      "Kanaan",
+      "Halling",
+      "Teyla Emmagan",
+      "Jinto"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "stargate_47",
+    "categoryId": "stargate",
+    "text": "Which SG-1 member has a tattoo of a serpent on their arm?",
+    "answers": [
+      "Jack O'Neill",
+      "Daniel Jackson",
+      "Samantha Carter",
+      "No one"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_48",
+    "categoryId": "stargate",
+    "text": "In 'Stargate Universe', what is the purpose of the ship Destiny?",
+    "answers": [
+      "To colonize new worlds",
+      "To follow a ship that seeded Stargates",
+      "To escape a dying galaxy",
+      "To find the source of a mysterious signal"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "stargate_49",
+    "categoryId": "stargate",
+    "text": "What is the name of the 'fifth race' in the ancient alliance?",
+    "answers": [
+      "The Asgard",
+      "The Furlings",
+      "The Nox",
+      "The Ancients"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "stargate_50",
+    "categoryId": "stargate",
+    "text": "Which System Lord was the main villain in the original 'Stargate' movie?",
+    "answers": [
+      "Apophis",
+      "Anubis",
+      "Ba'al",
+      "Ra"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

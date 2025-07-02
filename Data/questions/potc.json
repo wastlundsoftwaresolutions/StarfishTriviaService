@@ -1,0 +1,602 @@
+[
+  {
+    "id": "potc_1",
+    "categoryId": "potc",
+    "text": "What is the name of Captain Jack Sparrow's ship?",
+    "answers": [
+      "The Flying Dutchman",
+      "The Queen Anne's Revenge",
+      "The Black Pearl",
+      "The Interceptor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_2",
+    "categoryId": "potc",
+    "text": "Who is the blacksmith who teams up with Jack Sparrow to rescue Elizabeth Swann?",
+    "answers": [
+      "James Norrington",
+      "Will Turner",
+      "Hector Barbossa",
+      "Joshamee Gibbs"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_3",
+    "categoryId": "potc",
+    "text": "What is the curse on Captain Barbossa and his crew in the first film?",
+    "answers": [
+      "They cannot die and are skeletons in moonlight",
+      "They are slowly turning into fish-men",
+      "They are immortal but cannot feel pleasure",
+      "They are bound to their ship forever"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_4",
+    "categoryId": "potc",
+    "text": "Who is the fearsome captain of the Flying Dutchman?",
+    "answers": [
+      "Blackbeard",
+      "Salazar",
+      "Davy Jones",
+      "Lord Cutler Beckett"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_5",
+    "categoryId": "potc",
+    "text": "What is contained within the Dead Man's Chest?",
+    "answers": [
+      "Gold and jewels",
+      "Davy Jones's beating heart",
+      "The Trident of Poseidon",
+      "A map to the Fountain of Youth"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_6",
+    "categoryId": "potc",
+    "text": "What is the name of the sea goddess who was imprisoned in a human body?",
+    "answers": [
+      "Athena",
+      "Amphitrite",
+      "Calypso",
+      "Tethys"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_7",
+    "categoryId": "potc",
+    "text": "What is the name of Barbossa's monkey?",
+    "answers": [
+      "Jack",
+      "Spike",
+      "Cotton",
+      "Hector"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_8",
+    "categoryId": "potc",
+    "text": "To break the Aztec curse, what must the pirates do?",
+    "answers": [
+      "Return all the cursed gold",
+      "Sacrifice a pirate",
+      "Return all the gold and repay a blood debt",
+      "Find a magic amulet"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_9",
+    "categoryId": "potc",
+    "text": "What is Jack Sparrow's magical compass supposed to point to?",
+    "answers": [
+      "North",
+      "The nearest treasure",
+      "The thing the holder wants most",
+      "The Black Pearl"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_10",
+    "categoryId": "potc",
+    "text": "Who becomes the new captain of the Flying Dutchman at the end of 'At World's End'?",
+    "answers": [
+      "Jack Sparrow",
+      "Davy Jones",
+      "Will Turner",
+      "James Norrington"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_11",
+    "categoryId": "potc",
+    "text": "What is the name of the legendary sea monster controlled by Davy Jones?",
+    "answers": [
+      "The Leviathan",
+      "The Hydra",
+      "The Kraken",
+      "The Scylla"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_12",
+    "categoryId": "potc",
+    "text": "Who is the Pirate Lord of the Caspian Sea?",
+    "answers": [
+      "Jack Sparrow",
+      "Sao Feng",
+      "Hector Barbossa",
+      "Chevalle"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_13",
+    "categoryId": "potc",
+    "text": "What is the name of the primary antagonist in 'On Stranger Tides'?",
+    "answers": [
+      "Davy Jones",
+      "Salazar",
+      "Lord Beckett",
+      "Blackbeard"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_14",
+    "categoryId": "potc",
+    "text": "What is the main quest in 'On Stranger Tides'?",
+    "answers": [
+      "To find the Dead Man's Chest",
+      "To find the Fountain of Youth",
+      "To find the Trident of Poseidon",
+      "To rescue Calypso"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_15",
+    "categoryId": "potc",
+    "text": "What is the name of the main antagonist in 'Dead Men Tell No Tales'?",
+    "answers": [
+      "Captain Brand",
+      "Captain Salazar",
+      "Captain Blackheart",
+      "Captain Morgan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_16",
+    "categoryId": "potc",
+    "text": "What is Will Turner's father's nickname?",
+    "answers": [
+      "Old Bill",
+      "Bootstrap Bill",
+      "Barnacle Bill",
+      "Salty Bill"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_17",
+    "categoryId": "potc",
+    "text": "What is the name of the main British trading company trying to eliminate piracy?",
+    "answers": [
+      "West India Trading Company",
+      "British Imperial Trading",
+      "East India Trading Company",
+      "Royal Navy Trading Co."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_18",
+    "categoryId": "potc",
+    "text": "Which character has a parrot that speaks for him?",
+    "answers": [
+      "Pintel",
+      "Ragetti",
+      "Gibbs",
+      "Cotton"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_19",
+    "categoryId": "potc",
+    "text": "What is the human name of the sea goddess Calypso?",
+    "answers": [
+      "Anamaria",
+      "Giselle",
+      "Tia Dalma",
+      "Scarlett"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_20",
+    "categoryId": "potc",
+    "text": "How is the Brethren Court of Pirate Lords summoned?",
+    "answers": [
+      "By lighting a beacon",
+      "By sounding a horn",
+      "By using the Pieces of Eight",
+      "By a magical map"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_21",
+    "categoryId": "potc",
+    "text": "What is Jack Sparrow's father's name?",
+    "answers": [
+      "Captain Teague",
+      "Captain Jack Sr.",
+      "Captain Edward",
+      "Captain Bill"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_22",
+    "categoryId": "potc",
+    "text": "What is the name of the British Royal Navy officer who is a rival to both Will and Jack?",
+    "answers": [
+      "Lieutenant Groves",
+      "Admiral Croft",
+      "Commodore Norrington",
+      "Captain Mullroy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_23",
+    "categoryId": "potc",
+    "text": "What does Jack Sparrow famously ask? 'But why is the ___ gone?'",
+    "answers": [
+      "Gold",
+      "Rum",
+      "Ship",
+      "Food"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_24",
+    "categoryId": "potc",
+    "text": "In 'At World's End', who is elected the Pirate King?",
+    "answers": [
+      "Hector Barbossa",
+      "Sao Feng",
+      "Jack Sparrow",
+      "Elizabeth Swann"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_25",
+    "categoryId": "potc",
+    "text": "What is the duty of the captain of the Flying Dutchman?",
+    "answers": [
+      "To rule the seas",
+      "To ferry souls lost at sea to the next world",
+      "To protect the ocean's treasures",
+      "To sink any ship they find"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_26",
+    "categoryId": "potc",
+    "text": "What is the name of Blackbeard's magical sword?",
+    "answers": [
+      "The Sword of Triton",
+      "The Sword of Cort\u00e9s",
+      "The Sword of Poseidon",
+      "The Sword of Calypso"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_27",
+    "categoryId": "potc",
+    "text": "What item is needed to find the way to Davy Jones' Locker?",
+    "answers": [
+      "A magical compass",
+      "A star chart",
+      "A navigational chart",
+      "A magical telescope"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_28",
+    "categoryId": "potc",
+    "text": "Who kills Lord Cutler Beckett?",
+    "answers": [
+      "Jack Sparrow",
+      "His ship is destroyed by the Black Pearl and Flying Dutchman",
+      "Davy Jones",
+      "Will Turner"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_29",
+    "categoryId": "potc",
+    "text": "What is the name of the main port town for pirates?",
+    "answers": [
+      "Port Royal",
+      "Singapore",
+      "Tortuga",
+      "Shipwreck Cove"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_30",
+    "categoryId": "potc",
+    "text": "What is the 'black spot' a summons for?",
+    "answers": [
+      "A duel with another pirate",
+      "A debt to be paid to Davy Jones",
+      "A meeting of the Brethren Court",
+      "Execution for breaking the Pirate Code"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_31",
+    "categoryId": "potc",
+    "text": "What is the name of the character with a wooden eye?",
+    "answers": [
+      "Pintel",
+      "Gibbs",
+      "Ragetti",
+      "Cotton"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_32",
+    "categoryId": "potc",
+    "text": "What must one do to become immortal at the Fountain of Youth?",
+    "answers": [
+      "Drink the water",
+      "Drink from two chalices, one with a mermaid's tear",
+      "Bathe in the water",
+      "Sacrifice someone"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_33",
+    "categoryId": "potc",
+    "text": "Who is the daughter of Hector Barbossa?",
+    "answers": [
+      "Angelica",
+      "Syrena",
+      "Carina Smyth",
+      "Anna Maria"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_34",
+    "categoryId": "potc",
+    "text": "What is the Trident of Poseidon capable of doing?",
+    "answers": [
+      "Controlling the weather",
+      "Creating sea monsters",
+      "Breaking every curse of the sea",
+      "Granting immortality"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_35",
+    "categoryId": "potc",
+    "text": "What is the name of the fort where Elizabeth Swann lives at the beginning of the series?",
+    "answers": [
+      "Fort Charles",
+      "Fort Nassau",
+      "Fort James",
+      "Fort George"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_36",
+    "categoryId": "potc",
+    "text": "Who is Jack Sparrow looking for in 'On Stranger Tides' who is impersonating him?",
+    "answers": [
+      "Blackbeard",
+      "Angelica",
+      "Anamaria",
+      "The Spaniard"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_37",
+    "categoryId": "potc",
+    "text": "How did Captain Salazar and his crew become ghosts?",
+    "answers": [
+      "A deal with Davy Jones",
+      "Cursed by Calypso",
+      "Tricked by a young Jack Sparrow into sailing into the Devil's Triangle",
+      "A magical storm"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_38",
+    "categoryId": "potc",
+    "text": "What is the name of the Pirate Code's keeper?",
+    "answers": [
+      "Captain Teague",
+      "Captain Jack Sparrow",
+      "Captain Barbossa",
+      "Captain Sao Feng"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_39",
+    "categoryId": "potc",
+    "text": "What is the only thing that can kill an immortal pirate captain of the Flying Dutchman?",
+    "answers": [
+      "A special sword",
+      "Another immortal",
+      "Destroying the ship",
+      "Stabbing the captain's heart"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_40",
+    "categoryId": "potc",
+    "text": "Who is the son of Will Turner and Elizabeth Swann?",
+    "answers": [
+      "Jack Turner",
+      "Philip Swift",
+      "Henry Turner",
+      "William Turner III"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_41",
+    "categoryId": "potc",
+    "text": "What do the Nine Pieces of Eight actually turn out to be?",
+    "answers": [
+      "Golden coins",
+      "Random junk items",
+      "Silver medallions",
+      "Magical gems"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_42",
+    "categoryId": "potc",
+    "text": "Where is the Brethren Court's meeting place?",
+    "answers": [
+      "Tortuga",
+      "Port Royal",
+      "Isla de Muerta",
+      "Shipwreck Cove"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_43",
+    "categoryId": "potc",
+    "text": "What is the name of Blackbeard's ship?",
+    "answers": [
+      "The Silent Mary",
+      "The Endeavour",
+      "The Queen Anne's Revenge",
+      "The Cobra"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_44",
+    "categoryId": "potc",
+    "text": "What is the title given to the head of the East India Trading Company's forces?",
+    "answers": [
+      "Admiral",
+      "Lord",
+      "Governor",
+      "Commodore"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "potc_45",
+    "categoryId": "potc",
+    "text": "How does Jack Sparrow escape the gallows in the first film?",
+    "answers": [
+      "He is rescued by the Black Pearl's crew",
+      "He fights his way out",
+      "Will Turner helps him escape",
+      "He makes a deal with Norrington"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_46",
+    "categoryId": "potc",
+    "text": "What is Jack Sparrow's favorite drink?",
+    "answers": [
+      "Grog",
+      "Beer",
+      "Wine",
+      "Rum"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "potc_47",
+    "categoryId": "potc",
+    "text": "Which character says, 'They're not just pieces of eight, they're just pieces of junk'?",
+    "answers": [
+      "Jack Sparrow",
+      "Pintel",
+      "Gibbs",
+      "Ragetti"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "potc_48",
+    "categoryId": "potc",
+    "text": "What is the name of the missionary held captive on Blackbeard's ship?",
+    "answers": [
+      "Philip Swift",
+      "Theodore Groves",
+      "Gillette",
+      "Salaman"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_49",
+    "categoryId": "potc",
+    "text": "What happens to a person every ten years if they are captain of the Flying Dutchman?",
+    "answers": [
+      "They get one day on land",
+      "They must fight the Kraken",
+      "They lose a piece of their soul",
+      "The ship gets a new coat of paint"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "potc_50",
+    "categoryId": "potc",
+    "text": "What is Jack Sparrow's official title he insists on?",
+    "answers": [
+      "Commodore",
+      "Captain",
+      "First Mate",
+      "Admiral"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

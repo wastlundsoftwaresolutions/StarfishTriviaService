@@ -1,0 +1,602 @@
+[
+  {
+    "id": "dc_1",
+    "categoryId": "dc",
+    "text": "What is the secret identity of Batman?",
+    "answers": [
+      "Clark Kent",
+      "Bruce Wayne",
+      "Hal Jordan",
+      "Barry Allen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_2",
+    "categoryId": "dc",
+    "text": "What is Superman's home planet?",
+    "answers": [
+      "Mars",
+      "Krypton",
+      "Daxam",
+      "Earth"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_3",
+    "categoryId": "dc",
+    "text": "Who is Batman's arch-nemesis, also known as the 'Clown Prince of Crime'?",
+    "answers": [
+      "The Riddler",
+      "The Penguin",
+      "The Joker",
+      "Two-Face"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_4",
+    "categoryId": "dc",
+    "text": "What is the name of Wonder Woman's home island?",
+    "answers": [
+      "Atlantis",
+      "Themyscira",
+      "Asgard",
+      "Krypton"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_5",
+    "categoryId": "dc",
+    "text": "Which superhero is known as the 'Fastest Man Alive'?",
+    "answers": [
+      "Superman",
+      "Aquaman",
+      "The Flash",
+      "Green Lantern"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_6",
+    "categoryId": "dc",
+    "text": "What is the name of the fictional city that Superman protects?",
+    "answers": [
+      "Gotham City",
+      "Star City",
+      "Central City",
+      "Metropolis"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_7",
+    "categoryId": "dc",
+    "text": "What is the source of a Green Lantern's power?",
+    "answers": [
+      "A magic word",
+      "A power ring",
+      "A Speed Force",
+      "A yellow sun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_8",
+    "categoryId": "dc",
+    "text": "What is Aquaman's real name?",
+    "answers": [
+      "Clark Kent",
+      "Bruce Wayne",
+      "Arthur Curry",
+      "Barry Allen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_9",
+    "categoryId": "dc",
+    "text": "Which team of superheroes includes Batman, Superman, and Wonder Woman?",
+    "answers": [
+      "The Avengers",
+      "The Justice League",
+      "The Teen Titans",
+      "The Suicide Squad"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_10",
+    "categoryId": "dc",
+    "text": "What is Superman's main weakness?",
+    "answers": [
+      "Magic",
+      "Fire",
+      "Kryptonite",
+      "Lead"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_11",
+    "categoryId": "dc",
+    "text": "What is the name of Batman's loyal butler?",
+    "answers": [
+      "James Gordon",
+      "Lucius Fox",
+      "Alfred Pennyworth",
+      "Harvey Dent"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_12",
+    "categoryId": "dc",
+    "text": "What is the name of Superman's alter ego, the mild-mannered reporter?",
+    "answers": [
+      "Bruce Wayne",
+      "Clark Kent",
+      "Peter Parker",
+      "Hal Jordan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_13",
+    "categoryId": "dc",
+    "text": "Which villain broke Batman's back in the 'Knightfall' comic storyline?",
+    "answers": [
+      "The Joker",
+      "Bane",
+      "Ra's al Ghul",
+      "Killer Croc"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_14",
+    "categoryId": "dc",
+    "text": "What is the name of Wonder Woman's signature weapon, a magical rope?",
+    "answers": [
+      "The Golden Fleece",
+      "The Aegis Shield",
+      "The Lasso of Truth",
+      "The Sword of Athena"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_15",
+    "categoryId": "dc",
+    "text": "Who is the original Green Lantern of Earth?",
+    "answers": [
+      "John Stewart",
+      "Guy Gardner",
+      "Hal Jordan",
+      "Alan Scott"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_16",
+    "categoryId": "dc",
+    "text": "What is the name of the asylum for the criminally insane in Gotham City?",
+    "answers": [
+      "Belle Reve",
+      "Stryker's Island",
+      "Iron Heights",
+      "Arkham Asylum"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_17",
+    "categoryId": "dc",
+    "text": "Who is the original Robin, who later becomes Nightwing?",
+    "answers": [
+      "Jason Todd",
+      "Tim Drake",
+      "Dick Grayson",
+      "Damian Wayne"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_18",
+    "categoryId": "dc",
+    "text": "What is the name of the king of Atlantis and Aquaman's half-brother?",
+    "answers": [
+      "Black Manta",
+      "Ocean Master",
+      "Nereus",
+      "Vulko"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_19",
+    "categoryId": "dc",
+    "text": "What is the real name of The Flash (Barry Allen)?",
+    "answers": [
+      "Wally West",
+      "Jay Garrick",
+      "Barry Allen",
+      "Bart Allen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_20",
+    "categoryId": "dc",
+    "text": "What is the name of Superman's cousin, who is also a superhero?",
+    "answers": [
+      "Power Girl",
+      "Superwoman",
+      "Supergirl",
+      "Stargirl"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_21",
+    "categoryId": "dc",
+    "text": "Which DC villain is a brilliant scientist who controls plants?",
+    "answers": [
+      "Poison Ivy",
+      "Catwoman",
+      "Harley Quinn",
+      "Talia al Ghul"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "dc_22",
+    "categoryId": "dc",
+    "text": "What is the name of the intergalactic police force that Green Lantern belongs to?",
+    "answers": [
+      "The Nova Corps",
+      "The Green Lantern Corps",
+      "The Sinestro Corps",
+      "The Star Sapphire Corps"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_23",
+    "categoryId": "dc",
+    "text": "What is the source of The Flash's super speed?",
+    "answers": [
+      "A science experiment",
+      "A magic spell",
+      "The Speed Force",
+      "Alien technology"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_24",
+    "categoryId": "dc",
+    "text": "Who killed Batman's parents?",
+    "answers": [
+      "The Joker",
+      "A random mugger named Joe Chill",
+      "Carmine Falcone",
+      "It was never solved"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_25",
+    "categoryId": "dc",
+    "text": "What is the name of the newspaper where Clark Kent works?",
+    "answers": [
+      "The Gotham Gazette",
+      "The Central City Citizen",
+      "The Daily Planet",
+      "The New York Times"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_26",
+    "categoryId": "dc",
+    "text": "Which superhero is also known as the 'Dark Knight'?",
+    "answers": [
+      "Superman",
+      "Green Arrow",
+      "Batman",
+      "Martian Manhunter"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_27",
+    "categoryId": "dc",
+    "text": "What is the name of the government agent who runs the Suicide Squad?",
+    "answers": [
+      "Amanda Waller",
+      "Steve Trevor",
+      "Maxwell Lord",
+      "Lex Luthor"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "dc_28",
+    "categoryId": "dc",
+    "text": "What is the real name of the Martian Manhunter?",
+    "answers": [
+      "J'onn J'onzz",
+      "K'lar J'onzz",
+      "M'gann M'orzz",
+      "D'kay D'razz"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "dc_29",
+    "categoryId": "dc",
+    "text": "Which member of the Batman family was paralyzed by the Joker and became Oracle?",
+    "answers": [
+      "Selina Kyle",
+      "Barbara Gordon",
+      "Kate Kane",
+      "Cassandra Cain"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_30",
+    "categoryId": "dc",
+    "text": "What powerful cosmic entity is the main villain in 'Justice League' (2017 film)?",
+    "answers": [
+      "Darkseid",
+      "Brainiac",
+      "Steppenwolf",
+      "Doomsday"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_31",
+    "categoryId": "dc",
+    "text": "What is Superman's birth name on Krypton?",
+    "answers": [
+      "Jor-El",
+      "Zor-El",
+      "Kal-El",
+      "Dru-Zod"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_32",
+    "categoryId": "dc",
+    "text": "Which villain is known for his obsession with riddles?",
+    "answers": [
+      "The Joker",
+      "The Penguin",
+      "The Riddler",
+      "Scarecrow"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_33",
+    "categoryId": "dc",
+    "text": "What is the name of Wonder Woman's mother, the queen of the Amazons?",
+    "answers": [
+      "Antiope",
+      "Artemis",
+      "Hippolyta",
+      "Diana"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_34",
+    "categoryId": "dc",
+    "text": "Who is the arch-nemesis of The Flash?",
+    "answers": [
+      "Captain Cold",
+      "Gorilla Grodd",
+      "The Reverse-Flash",
+      "The Trickster"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_35",
+    "categoryId": "dc",
+    "text": "What is the name of the underwater kingdom Aquaman rules?",
+    "answers": [
+      "Themyscira",
+      "Xebel",
+      "Atlantis",
+      "The Trench"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_36",
+    "categoryId": "dc",
+    "text": "Which character famously says 'Shazam!' to transform into a superhero?",
+    "answers": [
+      "Captain Marvel",
+      "Black Adam",
+      "Billy Batson",
+      "Freddy Freeman"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_37",
+    "categoryId": "dc",
+    "text": "What metal are Wonder Woman's bracelets made of?",
+    "answers": [
+      "Vibranium",
+      "Adamantium",
+      "Nth Metal",
+      "Amazonium/Feminum"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_38",
+    "categoryId": "dc",
+    "text": "What color of Kryptonite is lethal to Superman?",
+    "answers": [
+      "Red",
+      "Blue",
+      "Green",
+      "Black"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_39",
+    "categoryId": "dc",
+    "text": "What is the real name of Green Arrow?",
+    "answers": [
+      "Roy Harper",
+      "John Diggle",
+      "Oliver Queen",
+      "Arthur King"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_40",
+    "categoryId": "dc",
+    "text": "What is the headquarters of the Justice League called?",
+    "answers": [
+      "The Hall of Justice",
+      "The Watchtower",
+      "The Fortress of Solitude",
+      "Titans Tower"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_41",
+    "categoryId": "dc",
+    "text": "Which Robin was beaten to death by the Joker?",
+    "answers": [
+      "Dick Grayson",
+      "Jason Todd",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_42",
+    "categoryId": "dc",
+    "text": "What is the name of the entity that embodies fear and powers Sinestro's corps?",
+    "answers": [
+      "The Butcher",
+      "Ophidian",
+      "Parallax",
+      "The Predator"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_43",
+    "categoryId": "dc",
+    "text": "What is the name of Superman's dog?",
+    "answers": [
+      "Ace",
+      "Krypto",
+      "Comet",
+      "Streaky"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_44",
+    "categoryId": "dc",
+    "text": "Who is the god of war and a frequent antagonist of Wonder Woman?",
+    "answers": [
+      "Zeus",
+      "Hades",
+      "Ares",
+      "Apollo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_45",
+    "categoryId": "dc",
+    "text": "What is the real name of Cyborg?",
+    "answers": [
+      "John Henry Irons",
+      "Victor Stone",
+      "Ronnie Raymond",
+      "Michael Carter"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_46",
+    "categoryId": "dc",
+    "text": "What is the name of the event that rebooted the DC Universe in 2011?",
+    "answers": [
+      "Crisis on Infinite Earths",
+      "Infinite Crisis",
+      "Final Crisis",
+      "Flashpoint"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_47",
+    "categoryId": "dc",
+    "text": "Which villain famously deduced Batman's secret identity on his own?",
+    "answers": [
+      "The Joker",
+      "The Riddler",
+      "Hugo Strange",
+      "Bane"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "dc_48",
+    "categoryId": "dc",
+    "text": "What is the name of the organization founded by Ra's al Ghul?",
+    "answers": [
+      "The Court of Owls",
+      "The League of Assassins",
+      "H.I.V.E.",
+      "Kobra Cult"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "dc_49",
+    "categoryId": "dc",
+    "text": "Which superhero team is based in Titans Tower?",
+    "answers": [
+      "Justice League",
+      "Justice Society",
+      "The Outsiders",
+      "Teen Titans"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "dc_50",
+    "categoryId": "dc",
+    "text": "What is the name of the planet-devouring villain who has heralds like the Silver Surfer in Marvel, but has a DC counterpart?",
+    "answers": [
+      "Galactus",
+      "Anti-Monitor",
+      "Imperiex",
+      "Brainiac"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

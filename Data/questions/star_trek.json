@@ -1,0 +1,602 @@
+[
+  {
+    "id": "star_trek_1",
+    "categoryId": "star_trek",
+    "text": "Who is the original captain of the starship Enterprise (NCC-1701)?",
+    "answers": [
+      "Christopher Pike",
+      "James T. Kirk",
+      "Robert April",
+      "Jonathan Archer"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_2",
+    "categoryId": "star_trek",
+    "text": "What is the guiding principle of Starfleet that prohibits interference with less developed cultures?",
+    "answers": [
+      "The Omega Directive",
+      "The Prime Directive",
+      "General Order 1",
+      "The First Commandment"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_3",
+    "categoryId": "star_trek",
+    "text": "Which alien race is known for their logical philosophy and pointed ears?",
+    "answers": [
+      "Klingons",
+      "Romulans",
+      "Vulcans",
+      "Andorians"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_4",
+    "categoryId": "star_trek",
+    "text": "Who is the android officer who serves aboard the Enterprise-D in 'The Next Generation'?",
+    "answers": [
+      "Lore",
+      "Data",
+      "B-4",
+      "Lal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_5",
+    "categoryId": "star_trek",
+    "text": "The Borg are a cyborg collective with what famous catchphrase?",
+    "answers": [
+      "'We are the Borg.'",
+      "'Resistance is futile.'",
+      "'You will be assimilated.'",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_6",
+    "categoryId": "star_trek",
+    "text": "What is the name of the space station that is the primary setting for 'Deep Space Nine'?",
+    "answers": [
+      "Deep Space 9",
+      "Starbase 375",
+      "Empok Nor",
+      "Terok Nor"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_7",
+    "categoryId": "star_trek",
+    "text": "Which quadrant of the galaxy is the USS Voyager stranded in?",
+    "answers": [
+      "Alpha Quadrant",
+      "Beta Quadrant",
+      "Gamma Quadrant",
+      "Delta Quadrant"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_8",
+    "categoryId": "star_trek",
+    "text": "Who is the captain of the USS Voyager?",
+    "answers": [
+      "Benjamin Sisko",
+      "Jean-Luc Picard",
+      "Kathryn Janeway",
+      "Erica Ortegas"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_9",
+    "categoryId": "star_trek",
+    "text": "What is the name of the Klingon homeworld?",
+    "answers": [
+      "Romulus",
+      "Cardassia Prime",
+      "Qo'noS",
+      "Vulcan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_10",
+    "categoryId": "star_trek",
+    "text": "What is the name of the first warp-capable Earth ship in 'Star Trek: First Contact'?",
+    "answers": [
+      "The Phoenix",
+      "The Enterprise",
+      "The Intrepid",
+      "The Conestoga"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_11",
+    "categoryId": "star_trek",
+    "text": "What is the registry number of the USS Enterprise in 'The Original Series'?",
+    "answers": [
+      "NCC-1701-D",
+      "NCC-1701",
+      "NX-01",
+      "NCC-74656"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_12",
+    "categoryId": "star_trek",
+    "text": "Who is the first officer and best friend of Captain Kirk?",
+    "answers": [
+      "Dr. McCoy",
+      "Scotty",
+      "Sulu",
+      "Spock"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_13",
+    "categoryId": "star_trek",
+    "text": "The main antagonists in 'Deep Space Nine' are from the Gamma Quadrant and are called what?",
+    "answers": [
+      "The Cardassians",
+      "The Romulans",
+      "The Dominion",
+      "The Breen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_14",
+    "categoryId": "star_trek",
+    "text": "Which character is a former Borg drone who joins the crew of USS Voyager?",
+    "answers": [
+      "The Doctor",
+      "Neelix",
+      "Seven of Nine",
+      "Tuvok"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_15",
+    "categoryId": "star_trek",
+    "text": "Who is the captain of the first Starship Enterprise (NX-01) in 'Star Trek: Enterprise'?",
+    "answers": [
+      "Jonathan Archer",
+      "Jeffery Hunter",
+      "Robert April",
+      "Matthew Decker"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_16",
+    "categoryId": "star_trek",
+    "text": "What is the name of the Klingon Chancellor who seeks peace with the Federation in 'Star Trek VI'?",
+    "answers": [
+      "Gorkon",
+      "Martok",
+      "Gowron",
+      "Chang"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_17",
+    "categoryId": "star_trek",
+    "text": "In 'The Next Generation', what is the name of the omnipotent being who frequently tests humanity?",
+    "answers": [
+      "The Traveler",
+      "The Nagus",
+      "Q",
+      "The Caretaker"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_18",
+    "categoryId": "star_trek",
+    "text": "What is the standard greeting and salute of the Vulcan people?",
+    "answers": [
+      "'Peace and long life'",
+      "'Live long and prosper'",
+      "'Glory to you and your house'",
+      "'My honor is my life'"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_19",
+    "categoryId": "star_trek",
+    "text": "Which species is known for their obsession with profit and their 'Rules of Acquisition'?",
+    "answers": [
+      "The Pakleds",
+      "The Ferengi",
+      "The Breen",
+      "The Bolians"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_20",
+    "categoryId": "star_trek",
+    "text": "What is the name of Worf's son?",
+    "answers": [
+      "Martok",
+      "Kurn",
+      "Alexander Rozhenko",
+      "Gowron"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_21",
+    "categoryId": "star_trek",
+    "text": "What is a 'holodeck'?",
+    "answers": [
+      "A type of engine",
+      "A cargo bay",
+      "An energy-matter simulation room",
+      "The main bridge"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_22",
+    "categoryId": "star_trek",
+    "text": "Who is the chief engineer of the Enterprise-D?",
+    "answers": [
+      "Miles O'Brien",
+      "Reginald Barclay",
+      "Geordi La Forge",
+      "B'Elanna Torres"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_23",
+    "categoryId": "star_trek",
+    "text": "The Cardassians occupied which planet for many years before the events of 'Deep Space Nine'?",
+    "answers": [
+      "Bajor",
+      "Vulcan",
+      "Ferenginar",
+      "Trill"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_24",
+    "categoryId": "star_trek",
+    "text": "What is the name of the ship's counselor aboard the Enterprise-D?",
+    "answers": [
+      "Beverly Crusher",
+      "Deanna Troi",
+      "Natasha Yar",
+      "Ro Laren"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_25",
+    "categoryId": "star_trek",
+    "text": "What is the name of the test for Starfleet cadets that is designed to be unwinnable?",
+    "answers": [
+      "The Picard Maneuver",
+      "The Starfleet Marathon",
+      "The Kobayashi Maru",
+      "The Vulcan Mastery Test"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_26",
+    "categoryId": "star_trek",
+    "text": "What is the name of the shapeshifting security chief on Deep Space 9?",
+    "answers": [
+      "Quark",
+      "Garak",
+      "Odo",
+      "Weyoun"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_27",
+    "categoryId": "star_trek",
+    "text": "Which film features the crew of the original Enterprise traveling back in time to 1986 San Francisco?",
+    "answers": [
+      "Star Trek: The Motion Picture",
+      "Star Trek II: The Wrath of Khan",
+      "Star Trek III: The Search for Spock",
+      "Star Trek IV: The Voyage Home"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_28",
+    "categoryId": "star_trek",
+    "text": "What is the name of the Romulan ship that can cloak or become invisible?",
+    "answers": [
+      "Bird-of-Prey",
+      "Warbird",
+      "D'deridex-class",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_29",
+    "categoryId": "star_trek",
+    "text": "The 'Neutral Zone' is a buffer of space between the Federation and which other power?",
+    "answers": [
+      "The Klingon Empire",
+      "The Romulan Star Empire",
+      "The Cardassian Union",
+      "The Breen Confederacy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_30",
+    "categoryId": "star_trek",
+    "text": "Who is the main antagonist in the film 'Star Trek II: The Wrath of Khan'?",
+    "answers": [
+      "General Chang",
+      "Kruge",
+      "Khan Noonien Singh",
+      "Sybok"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_31",
+    "categoryId": "star_trek",
+    "text": "Which character in 'Star Trek: Discovery' is Spock's adopted sister?",
+    "answers": [
+      "Saru",
+      "Sylvia Tilly",
+      "Michael Burnham",
+      "Philippa Georgiou"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_32",
+    "categoryId": "star_trek",
+    "text": "What is the name of Captain Picard's signature beverage order?",
+    "answers": [
+      "Coffee, black",
+      "Tea, Earl Grey, hot",
+      "Raktajino",
+      "Kanar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_33",
+    "categoryId": "star_trek",
+    "text": "What is the name of the wormhole near Deep Space 9?",
+    "answers": [
+      "The Barzan Wormhole",
+      "The Subspace Corridor",
+      "The Bajoran Wormhole",
+      "The Celestial Temple"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_34",
+    "categoryId": "star_trek",
+    "text": "In 'Star Trek: Picard', Jean-Luc has retired from Starfleet and lives where?",
+    "answers": [
+      "On Earth, in France",
+      "On Vulcan",
+      "On Risa",
+      "On Nepenthe"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "star_trek_35",
+    "categoryId": "star_trek",
+    "text": "What species is Neelix, the morale officer and cook on USS Voyager?",
+    "answers": [
+      "Ocampan",
+      "Talaxian",
+      "Kazon",
+      "Hirogen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_36",
+    "categoryId": "star_trek",
+    "text": "What is the name of the emergency medical program on USS Voyager?",
+    "answers": [
+      "The EMH",
+      "The Doctor",
+      "The Medical Hologram",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_37",
+    "categoryId": "star_trek",
+    "text": "What is the traditional Klingon weapon of honor?",
+    "answers": [
+      "The D'k tahg",
+      "The Mek'leth",
+      "The Bat'leth",
+      "The Disruptor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_38",
+    "categoryId": "star_trek",
+    "text": "What is the title of the leader of the Ferengi Alliance?",
+    "answers": [
+      "The First Clerk",
+      "The Chief Executive",
+      "The Grand Nagus",
+      "The Prime Minister"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_39",
+    "categoryId": "star_trek",
+    "text": "Who is the chief medical officer on the original Enterprise?",
+    "answers": [
+      "Dr. Phlox",
+      "Dr. Crusher",
+      "Dr. Pulaski",
+      "Dr. Leonard 'Bones' McCoy"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_40",
+    "categoryId": "star_trek",
+    "text": "The United Federation of Planets was founded in what city on Earth?",
+    "answers": [
+      "Paris",
+      "New York",
+      "San Francisco",
+      "London"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_41",
+    "categoryId": "star_trek",
+    "text": "What is the name of the 'mirror' universe where the Federation is a brutal empire?",
+    "answers": [
+      "The Dark Universe",
+      "The Terran Universe",
+      "The Shadow Universe",
+      "The Prime Universe"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_42",
+    "categoryId": "star_trek",
+    "text": "Who is the first officer of the Enterprise-D, known for his beard and trombone playing?",
+    "answers": [
+      "Data",
+      "Geordi La Forge",
+      "Worf",
+      "William T. Riker"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "star_trek_43",
+    "categoryId": "star_trek",
+    "text": "What is the name of the race of shapeshifters who founded the Dominion?",
+    "answers": [
+      "The Vorta",
+      "The Jem'Hadar",
+      "The Founders",
+      "The Changelings"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_44",
+    "categoryId": "star_trek",
+    "text": "Which character in 'Star Trek: Lower Decks' is an Ensign known for being 'bad at Starfleet stuff'?",
+    "answers": [
+      "Beckett Mariner",
+      "Brad Boimler",
+      "D'Vana Tendi",
+      "Sam Rutherford"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_45",
+    "categoryId": "star_trek",
+    "text": "What is the name of the Vulcan ritual where they suppress all emotion?",
+    "answers": [
+      "Pon farr",
+      "Kolinahr",
+      "Tal-shaya",
+      "Fal-tor-pan"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_46",
+    "categoryId": "star_trek",
+    "text": "Who created the 'Star Trek' franchise?",
+    "answers": [
+      "George Lucas",
+      "Isaac Asimov",
+      "Gene Roddenberry",
+      "J.J. Abrams"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "star_trek_47",
+    "categoryId": "star_trek",
+    "text": "What color uniform do command division officers typically wear in 'The Original Series' and 'The Next Generation'?",
+    "answers": [
+      "Blue",
+      "Gold/Yellow",
+      "Red",
+      "Green"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_48",
+    "categoryId": "star_trek",
+    "text": "Who is the main villain in 'Star Trek Into Darkness'?",
+    "answers": [
+      "Nero",
+      "Khan",
+      "Krall",
+      "Admiral Marcus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_49",
+    "categoryId": "star_trek",
+    "text": "What are the celestial beings who live in the Bajoran wormhole called by the Bajorans?",
+    "answers": [
+      "The Founders",
+      "The Prophets",
+      "The Caretakers",
+      "The Watchers"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "star_trek_50",
+    "categoryId": "star_trek",
+    "text": "What is the name of the device used for transporting people from one location to another?",
+    "answers": [
+      "Replicator",
+      "Transporter",
+      "Warp Core",
+      "Deflector Dish"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

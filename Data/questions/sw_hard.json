@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sw_hard_1",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Sith Lord who established the 'Rule of Two'?",
+    "answers": [
+      "Darth Revan",
+      "Darth Bane",
+      "Darth Plagueis",
+      "Darth Malak"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_2",
+    "categoryId": "sw_hard",
+    "text": "What is Grand Moff Tarkin's first name?",
+    "answers": [
+      "Orson",
+      "Sheev",
+      "Wilhuff",
+      "Gallius"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_3",
+    "categoryId": "sw_hard",
+    "text": "Who was Jabba the Hutt's Twi'lek majordomo?",
+    "answers": [
+      "Oola",
+      "Lyn Me",
+      "Bib Fortuna",
+      "Max Rebo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_4",
+    "categoryId": "sw_hard",
+    "text": "How many members serve on the Jedi High Council?",
+    "answers": [
+      "10",
+      "12",
+      "15",
+      "7"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_5",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the aggressive lightsaber combat form created by Mace Windu?",
+    "answers": [
+      "Soresu",
+      "Ataru",
+      "Juyo",
+      "Vaapad"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_6",
+    "categoryId": "sw_hard",
+    "text": "What is the specific model of the Millennium Falcon?",
+    "answers": [
+      "Gozanti-class cruiser",
+      "YT-2400 light freighter",
+      "VCX-100 light freighter",
+      "YT-1300 light freighter"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_7",
+    "categoryId": "sw_hard",
+    "text": "What species was responsible for delivering the plans for the second Death Star to the Rebel Alliance?",
+    "answers": [
+      "Sullustans",
+      "Mon Calamari",
+      "Bothans",
+      "Ithorians"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_8",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the crystal that powers a lightsaber?",
+    "answers": [
+      "Adegan crystal",
+      "Kyber crystal",
+      "Pontite crystal",
+      "Mephite crystal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_9",
+    "categoryId": "sw_hard",
+    "text": "In Legends, what is the name of Darth Vader's secret apprentice?",
+    "answers": [
+      "Asajj Ventress",
+      "Savage Opress",
+      "Galen Marek",
+      "Lumiya"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_10",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Imperial Star Destroyer that captured the Tantive IV at the beginning of 'A New Hope'?",
+    "answers": [
+      "The Executor",
+      "The Chimaera",
+      "The Devastator",
+      "The Avenger"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_11",
+    "categoryId": "sw_hard",
+    "text": "Who was the admiral in command of the Imperial fleet at the Battle of Endor?",
+    "answers": [
+      "Admiral Ozzel",
+      "Admiral Motti",
+      "Admiral Piett",
+      "Admiral Thrawn"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_12",
+    "categoryId": "sw_hard",
+    "text": "Chirrut \u00cemwe and Baze Malbus were Guardians of the Whills on which holy moon?",
+    "answers": [
+      "Yavin 4",
+      "Wobani",
+      "Jedha",
+      "Eadu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_13",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the crime syndicate led by Darth Maul during the Clone Wars?",
+    "answers": [
+      "Crimson Dawn",
+      "Black Sun",
+      "The Pyke Syndicate",
+      "The Shadow Collective"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_14",
+    "categoryId": "sw_hard",
+    "text": "What is the model number of Han Solo's signature heavy blaster pistol?",
+    "answers": [
+      "E-11",
+      "A280",
+      "DL-44",
+      "DH-17"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_15",
+    "categoryId": "sw_hard",
+    "text": "Who was Qui-Gon Jinn's Jedi Master before he left the Order?",
+    "answers": [
+      "Mace Windu",
+      "Yoda",
+      "Count Dooku",
+      "Plo Koon"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_16",
+    "categoryId": "sw_hard",
+    "text": "The Rebel base in 'A New Hope' was on Yavin 4, a moon of which gas giant?",
+    "answers": [
+      "Bespin",
+      "Endor",
+      "Yavin Prime",
+      "Tatoo I"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_17",
+    "categoryId": "sw_hard",
+    "text": "What is the designation of the medical droid that treats Luke in the bacta tank?",
+    "answers": [
+      "FX-7",
+      "2-1B",
+      "EV-9D9",
+      "8D8"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_18",
+    "categoryId": "sw_hard",
+    "text": "The Trade Federation placed a blockade around which planet in 'The Phantom Menace'?",
+    "answers": [
+      "Coruscant",
+      "Tatooine",
+      "Naboo",
+      "Alderaan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_19",
+    "categoryId": "sw_hard",
+    "text": "According to the Sith Code, 'Peace is a lie, there is only...'",
+    "answers": [
+      "War",
+      "Conflict",
+      "Power",
+      "Passion"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_20",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Pau'an who served as the Grand Inquisitor?",
+    "answers": [
+      "The Son",
+      "The Fifth Brother",
+      "The Grand Inquisitor",
+      "The Eighth Brother"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_21",
+    "categoryId": "sw_hard",
+    "text": "What species is the bounty hunter Bossk?",
+    "answers": [
+      "Gand",
+      "Rodian",
+      "Trandoshan",
+      "Ithorian"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_22",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Resistance base planet in 'The Force Awakens'?",
+    "answers": [
+      "Crait",
+      "Takodana",
+      "D'Qar",
+      "Hosnian Prime"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_23",
+    "categoryId": "sw_hard",
+    "text": "Which Jedi Master was the original owner of Luke's green lightsaber?",
+    "answers": [
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "Qui-Gon Jinn",
+      "He constructed it himself"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_24",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where Jedi Master Depa Billaba found Kanan Jarrus (Caleb Dume)?",
+    "answers": [
+      "Lothal",
+      "Kaller",
+      "Mygeeto",
+      "Felucia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_25",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Imperial project to build the Death Star on Geonosis?",
+    "answers": [
+      "Project Stardust",
+      "Project Cinder",
+      "Project Celestial Power",
+      "Project Hammertong"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_26",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the gambling city visited in 'The Last Jedi'?",
+    "answers": [
+      "Kijimi",
+      "Canto Bight",
+      "Coronet City",
+      "Mos Espa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_27",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Mandalorian leader who wielded the Darksaber before Bo-Katan?",
+    "answers": [
+      "Fenn Rau",
+      "Pre Vizsla",
+      "Gar Saxon",
+      "Paz Vizsla"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_28",
+    "categoryId": "sw_hard",
+    "text": "What type of crystal is found on the planet Ilum and used in lightsabers?",
+    "answers": [
+      "Kyber",
+      "Meiloorun",
+      "Doonium",
+      "Lommite"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_29",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the ancient Sith homeworld, now a desolate landscape?",
+    "answers": [
+      "Dromund Kaas",
+      "Korriban (Moraband)",
+      "Ziost",
+      "Exegol"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_30",
+    "categoryId": "sw_hard",
+    "text": "Who was the pilot of Red Five before Luke Skywalker took the callsign?",
+    "answers": [
+      "Jek Porkins",
+      "Garven Dreis",
+      "Biggs Darklighter",
+      "Pedrin Gaul"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_31",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the ancient species that the 'Mortis gods' belong to?",
+    "answers": [
+      "The Celestials",
+      "The Ones",
+      "The Rakata",
+      "The Whills"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_32",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the first Jedi Temple was located?",
+    "answers": [
+      "Tython",
+      "Ossus",
+      "Coruscant",
+      "Ahch-To"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_33",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the secret Imperial facility on Scarif?",
+    "answers": [
+      "The Citadel",
+      "The Spire",
+      "The Vault",
+      "The Maw"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_34",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Yuuzhan Vong's living starships in Legends?",
+    "answers": [
+      "Koros-Strohna",
+      "Yorik-Strohna",
+      "Vua'Strohna",
+      "Shree-Strohna"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_35",
+    "categoryId": "sw_hard",
+    "text": "Who was the founder of the Inquisitorius program?",
+    "answers": [
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Grand Moff Tarkin",
+      "The Grand Inquisitor"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_36",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the force-sensitive tree that was located in the Jedi Temple on Coruscant?",
+    "answers": [
+      "The Great Tree",
+      "The Force Tree",
+      "The Uneti Tree",
+      "The Giving Tree"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sw_hard_37",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the battle between Obi-Wan Kenobi and General Grievous took place?",
+    "answers": [
+      "Mygeeto",
+      "Felucia",
+      "Saleucami",
+      "Utapau"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_38",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Mandalorian who created the Darksaber?",
+    "answers": [
+      "Tarre Vizsla",
+      "Pre Vizsla",
+      "Paz Vizsla",
+      "Fenn Rau"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_39",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the species that pilots the Separatist droid control ships?",
+    "answers": [
+      "Neimoidians",
+      "Skakoans",
+      "Muuns",
+      "Koorivars"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_40",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the Starkiller Base was constructed?",
+    "answers": [
+      "Ilum",
+      "D'Qar",
+      "Crait",
+      "Takodana"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_41",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the ancient Sith superweapon that could destroy stars?",
+    "answers": [
+      "The Sun Crusher",
+      "The Star Forge",
+      "The Celestial Hammer",
+      "The Galaxy Gun"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_42",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the protocol that allows a droid to ignore its programming and kill its master?",
+    "answers": [
+      "Protocol 66",
+      "The Omega Protocol",
+      "The Inhibitor Chip",
+      "The Zillo Beast Protocol"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_43",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Jedi Master who was known as the 'Lord of the Light'?",
+    "answers": [
+      "Odan-Urr",
+      "Ulic Qel-Droma",
+      "Nomi Sunrider",
+      "Thon"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sw_hard_44",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the Rakatan Star Forge was located?",
+    "answers": [
+      "Lehon",
+      "Korriban",
+      "Dromund Kaas",
+      "Ziost"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_45",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Sith Lord who was known as the 'Lord of Hunger'?",
+    "answers": [
+      "Darth Nihilus",
+      "Darth Sion",
+      "Darth Traya",
+      "Darth Malak"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_46",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the Amaxine warriors were from?",
+    "answers": [
+      "Amaxine",
+      "Tasu Leech",
+      "Kanjiklub",
+      "The Guavian Death Gang"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_47",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the secret organization that controlled both the Republic and the Separatists during the Clone Wars?",
+    "answers": [
+      "The Banking Clan",
+      "The Sith",
+      "The Trade Federation",
+      "The Techno Union"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sw_hard_48",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the planet where the 'Mortis' arc takes place in 'The Clone Wars'?",
+    "answers": [
+      "Mortis",
+      "Lola Sayu",
+      "Umbara",
+      "Kiros"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_49",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the species that is native to the planet Utapau?",
+    "answers": [
+      "Pau'ans and Utai",
+      "Talz and Ortolans",
+      "Lurmen and Twi'leks",
+      "Iktotchi and Cereans"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sw_hard_50",
+    "categoryId": "sw_hard",
+    "text": "What is the name of the Jedi Master who created the first Holocron?",
+    "answers": [
+      "Ood Bnar",
+      "Arca Jeth",
+      "Gnost-Dural",
+      "Ulic Qel-Droma"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

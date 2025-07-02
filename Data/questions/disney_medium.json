@@ -1,0 +1,602 @@
+[
+  {
+    "id": "disney_medium_1",
+    "categoryId": "disney_medium",
+    "text": "In 'The Incredibles,' what is the name of Frozone's wife, who is never seen on screen?",
+    "answers": [
+      "Honey",
+      "Sugar",
+      "Sweetie",
+      "Precious"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_medium_2",
+    "categoryId": "disney_medium",
+    "text": "What is the motto of the company in 'Monsters, Inc.'?",
+    "answers": [
+      "'Fright is Right'",
+      "'We Scare Because We Care'",
+      "'Screams for the Team'",
+      "'Your Fear is Our Gear'"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_3",
+    "categoryId": "disney_medium",
+    "text": "In 'Coco,' what song did H\u00e9ctor write for his daughter?",
+    "answers": [
+      "'Un Poco Loco'",
+      "'The World Es Mi Familia'",
+      "'Proud Coraz\u00f3n'",
+      "'Remember Me'"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_4",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the restaurant that Remy the rat works in in 'Ratatouille'?",
+    "answers": [
+      "La Ratatouille",
+      "Le Remy",
+      "Gusteau's",
+      "Skinner's"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_5",
+    "categoryId": "disney_medium",
+    "text": "In 'Up,' Carl Fredricksen attaches balloons to his house to fly it to which location?",
+    "answers": [
+      "Angel Falls",
+      "Victoria Falls",
+      "Paradise Falls",
+      "Niagara Falls"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_6",
+    "categoryId": "disney_medium",
+    "text": "What are the names of the three hyenas in 'The Lion King'?",
+    "answers": [
+      "Larry, Curly, and Moe",
+      "Flotsam, Jetsam, and Ursula",
+      "Pain, Panic, and Hades",
+      "Shenzi, Banzai, and Ed"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_7",
+    "categoryId": "disney_medium",
+    "text": "In 'Beauty and the Beast,' how many eggs does Gaston claim to eat every morning to help him get large?",
+    "answers": [
+      "Three dozen",
+      "Four dozen",
+      "Five dozen",
+      "Six dozen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_8",
+    "categoryId": "disney_medium",
+    "text": "What is the name of Andy's destructive neighbor in 'Toy Story'?",
+    "answers": [
+      "Al",
+      "Sid",
+      "Davis",
+      "Molly"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_9",
+    "categoryId": "disney_medium",
+    "text": "In 'Brave,' a witch gives Merida a cursed tart that turns her mother into what animal?",
+    "answers": [
+      "A horse",
+      "A bear",
+      "A wolf",
+      "A dragon"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_10",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the high-energy pop star in 'A Goofy Movie'?",
+    "answers": [
+      "Te-vin Campbell",
+      "Bobby Brown",
+      "Powerline",
+      "Lester"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_11",
+    "categoryId": "disney_medium",
+    "text": "In 'Tangled,' what is the name of the pub filled with thugs who sing 'I've Got a Dream'?",
+    "answers": [
+      "The King's Head",
+      "The Queen's Crown",
+      "The Snuggly Duckling",
+      "The Rusty Scabbard"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_12",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the company that owns the spaceship Axiom in 'WALL-E'?",
+    "answers": [
+      "OmniCorp",
+      "Buy n Large",
+      "Cyberdyne Systems",
+      "Weyland-Yutani"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_13",
+    "categoryId": "disney_medium",
+    "text": "In 'The Princess and the Frog,' what instrument does Louis the alligator play?",
+    "answers": [
+      "Saxophone",
+      "Clarinet",
+      "Trumpet",
+      "Trombone"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_14",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the main antagonist (the villainous car) in 'Cars 2'?",
+    "answers": [
+      "Chick Hicks",
+      "Jackson Storm",
+      "Professor Z",
+      "Sir Miles Axlerod"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_15",
+    "categoryId": "disney_medium",
+    "text": "In 'Hercules,' Hades' two minions are named:",
+    "answers": [
+      "Fear and Terror",
+      "Agony and Misery",
+      "Pain and Panic",
+      "Chaos and Disorder"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_16",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the lost-and-found toy penguin in 'Toy Story 2'?",
+    "answers": [
+      "Stinky Pete",
+      "Wheezy",
+      "Slinky",
+      "Lenny"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_17",
+    "categoryId": "disney_medium",
+    "text": "In 'Zootopia,' what kind of animal is Flash, who works at the DMV?",
+    "answers": [
+      "A cheetah",
+      "A tortoise",
+      "A sloth",
+      "A snail"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_18",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the ocean current that Crush and his turtle friends ride in 'Finding Nemo'?",
+    "answers": [
+      "The California Current",
+      "The East Australian Current",
+      "The Gulf Stream",
+      "The Kuroshio Current"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_19",
+    "categoryId": "disney_medium",
+    "text": "In 'Inside Out,' what is the name of Riley's imaginary friend?",
+    "answers": [
+      "Fuzzy Lumpkins",
+      "Rainbow Unicorn",
+      "Bing Bong",
+      "Mr. Honeydew"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_20",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the bear who teaches Mowgli the 'Bare Necessities' in 'The Jungle Book'?",
+    "answers": [
+      "Shere Khan",
+      "Bagheera",
+      "Kaa",
+      "Baloo"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_21",
+    "categoryId": "disney_medium",
+    "text": "In 'Aladdin,' what does Jafar want to retrieve from the Cave of Wonders?",
+    "answers": [
+      "A flying carpet",
+      "A magic lamp",
+      "A chest of gold",
+      "A powerful scepter"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_22",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the rival arcade to Litwak's in 'Wreck-It Ralph'?",
+    "answers": [
+      "The Game Grid",
+      "Flynn's Arcade",
+      "There is no rival arcade mentioned",
+      "The Joystick"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_23",
+    "categoryId": "disney_medium",
+    "text": "What is the secret ingredient in the 'love' potion that Yzma gives to Kuzco?",
+    "answers": [
+      "Extract of Llama",
+      "A flea circus",
+      "There is no secret ingredient",
+      "A drop of poison"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_medium_24",
+    "categoryId": "disney_medium",
+    "text": "What is the motto of the Wilderness Explorers in 'Up'?",
+    "answers": [
+      "'Adventure is out there!'",
+      "'Be prepared!'",
+      "'An explorer is a friend to all'",
+      "'The wilderness must be explored!'"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_25",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the daycare center in 'Toy Story 3'?",
+    "answers": [
+      "Little Tykes Daycare",
+      "Andy's Play Place",
+      "Sunnyvale Preschool",
+      "Sunnyside Daycare"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_26",
+    "categoryId": "disney_medium",
+    "text": "In 'Moana,' what is the name of the giant coconut crab?",
+    "answers": [
+      "Kakamora",
+      "Heihei",
+      "Pua",
+      "Tamatoa"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_27",
+    "categoryId": "disney_medium",
+    "text": "In 'Pocahontas,' what does Governor Ratcliffe believe the Native Americans are hiding?",
+    "answers": [
+      "Food",
+      "Gold",
+      "Weapons",
+      "Secret pathways"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_28",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the video game that Ralph is the villain of in 'Wreck-It Ralph'?",
+    "answers": [
+      "Hero's Duty",
+      "Sugar Rush",
+      "Fix-It Felix, Jr.",
+      "Tapper"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_29",
+    "categoryId": "disney_medium",
+    "text": "In 'The Incredibles,' what is Syndrome's real name?",
+    "answers": [
+      "Bob Parr",
+      "Lucius Best",
+      "Buddy Pine",
+      "Rick Dicker"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_30",
+    "categoryId": "disney_medium",
+    "text": "What are the names of Cinderella's evil stepsisters?",
+    "answers": [
+      "Anastasia and Drizella",
+      "Beatrice and Eugenie",
+      "Mary and Prudence",
+      "Hazel and Agatha"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_medium_31",
+    "categoryId": "disney_medium",
+    "text": "In 'Lilo & Stitch,' what is Stitch's experiment number?",
+    "answers": [
+      "Experiment 625",
+      "Experiment 626",
+      "Experiment 627",
+      "Experiment 628"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_32",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the horse that belongs to Captain Phoebus in 'The Hunchback of Notre Dame'?",
+    "answers": [
+      "Achilles",
+      "Samson",
+      "Frou-Frou",
+      "Maximus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "disney_medium_33",
+    "categoryId": "disney_medium",
+    "text": "In 'Big Hero 6,' what is the name of the healthcare companion robot?",
+    "answers": [
+      "Wasabi",
+      "Hiro",
+      "Tadashi",
+      "Baymax"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_34",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the magical flower in 'Tangled'?",
+    "answers": [
+      "The Moonpetal",
+      "The Sun Drop",
+      "The Star Bloom",
+      "The Golden Lily"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_35",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the jazz-loving cat in 'The Aristocats'?",
+    "answers": [
+      "Thomas O'Malley",
+      "Scat Cat",
+      "Toulouse",
+      "Berlioz"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_36",
+    "categoryId": "disney_medium",
+    "text": "In 'Coco,' what is the name of the famous musician Miguel idolizes?",
+    "answers": [
+      "H\u00e9ctor Rivera",
+      "Chicharr\u00f3n",
+      "Ernesto de la Cruz",
+      "Gustavo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_37",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the racing brand that Lightning McQueen gets sponsored by at the end of 'Cars'?",
+    "answers": [
+      "Rust-eze",
+      "Dinoco",
+      "Hostile Takeover Bank",
+      "Allinol"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_38",
+    "categoryId": "disney_medium",
+    "text": "In 'Peter Pan,' what are the three things you need to fly?",
+    "answers": [
+      "A happy thought, a feather, and wind",
+      "Faith, trust, and pixie dust",
+      "A running start, a jump, and a wish",
+      "Magic, hope, and a song"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_39",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the villainous tiger in 'The Jungle Book'?",
+    "answers": [
+      "Kaa",
+      "Baloo",
+      "Bagheera",
+      "Shere Khan"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_40",
+    "categoryId": "disney_medium",
+    "text": "Which one of the Seven Dwarfs wears glasses?",
+    "answers": [
+      "Grumpy",
+      "Happy",
+      "Sneezy",
+      "Doc"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "disney_medium_41",
+    "categoryId": "disney_medium",
+    "text": "What type of business does Tiana dream of opening in 'The Princess and the Frog'?",
+    "answers": [
+      "A dress shop",
+      "A bakery",
+      "A restaurant",
+      "A hotel"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_42",
+    "categoryId": "disney_medium",
+    "text": "In 'Robin Hood,' what kind of animal is Prince John?",
+    "answers": [
+      "A bear",
+      "A snake",
+      "A lion",
+      "A wolf"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_43",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the college that Mike and Sulley attend in 'Monsters University'?",
+    "answers": [
+      "Fear Tech",
+      "Monsters University",
+      "Scare State",
+      "Frighton College"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_44",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the super-dog in the movie 'Bolt'?",
+    "answers": [
+      "Thunder",
+      "Lightning",
+      "Bolt",
+      "Storm"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_45",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the street where the Banks family lives in 'Mary Poppins'?",
+    "answers": [
+      "Maple Street",
+      "Privet Drive",
+      "Cherry Tree Lane",
+      "Baker Street"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_46",
+    "categoryId": "disney_medium",
+    "text": "In 'The Sword in the Stone,' what is the name of Merlin's highly educated owl?",
+    "answers": [
+      "Hedwig",
+      "Archimedes",
+      "Socrates",
+      "Plato"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_47",
+    "categoryId": "disney_medium",
+    "text": "In 'Atlantis: The Lost Empire,' what is the name of the powerful energy source?",
+    "answers": [
+      "The Crystal Core",
+      "The Heart of Atlantis",
+      "The Power of the Ancients",
+      "The Atlantean Star"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_48",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the kingdom in 'The Emperor's New Groove'?",
+    "answers": [
+      "The Incan Empire",
+      "The Aztec Nation",
+      "The Kuzconian Empire",
+      "The Mayan Kingdom"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "disney_medium_49",
+    "categoryId": "disney_medium",
+    "text": "In 'Bambi,' what does Thumper say his father taught him?",
+    "answers": [
+      "'Look before you leap.'",
+      "'If you can't say somethin' nice, don't say nothin' at all.'",
+      "'A friend in need is a friend indeed.'",
+      "'The early bird gets the worm.'"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "disney_medium_50",
+    "categoryId": "disney_medium",
+    "text": "What is the name of the toy collector who steals Woody in 'Toy Story 2'?",
+    "answers": [
+      "Sid Phillips",
+      "Al McWhiggin",
+      "Geri",
+      "Andy Davis"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

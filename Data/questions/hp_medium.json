@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hp_medium_1",
+    "categoryId": "hp_medium",
+    "text": "What is the full name of the Hogwarts headmaster when Harry arrives?",
+    "answers": [
+      "Albus Dumbledore",
+      "Albus Percival Wulfric Brian Dumbledore",
+      "Albus Brian Dumbledore",
+      "Albus Wulfric Dumbledore"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_2",
+    "categoryId": "hp_medium",
+    "text": "What are the three objects that make up the Deathly Hallows?",
+    "answers": [
+      "The Sword, the Diadem, the Cup",
+      "The Sorcerer's Stone, the Time-Turner, the Portkey",
+      "The Elder Wand, the Resurrection Stone, the Cloak of Invisibility",
+      "The Locket, the Ring, the Diary"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_3",
+    "categoryId": "hp_medium",
+    "text": "Which ingredient is NOT used in the Polyjuice Potion?",
+    "answers": [
+      "Lacewing flies",
+      "Leeches",
+      "Fluxweed",
+      "Mandrake Root"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_4",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the organization founded by Hermione to advocate for house-elf rights?",
+    "answers": [
+      "Society for the Promotion of Elfish Welfare (S.P.E.W.)",
+      "Elves Liberation Front (E.L.F.)",
+      "House Elf Freedom Association (H.E.F.A.)",
+      "Dobby's Army (D.A.)"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_5",
+    "categoryId": "hp_medium",
+    "text": "Who was the original owner of the Sorting Hat?",
+    "answers": [
+      "Salazar Slytherin",
+      "Helga Hufflepuff",
+      "Rowena Ravenclaw",
+      "Godric Gryffindor"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_6",
+    "categoryId": "hp_medium",
+    "text": "What is the incantation for the Patronus Charm?",
+    "answers": [
+      "Accio Patronus",
+      "Expecto Patronum",
+      "Patronus Maximus",
+      "Lumos Patronum"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_7",
+    "categoryId": "hp_medium",
+    "text": "Who is the Half-Blood Prince?",
+    "answers": [
+      "Harry Potter",
+      "Tom Riddle",
+      "Albus Dumbledore",
+      "Severus Snape"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_8",
+    "categoryId": "hp_medium",
+    "text": "What type of dragon did Harry face in the first task of the Triwizard Tournament?",
+    "answers": [
+      "Swedish Short-Snout",
+      "Chinese Fireball",
+      "Common Welsh Green",
+      "Hungarian Horntail"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_9",
+    "categoryId": "hp_medium",
+    "text": "What is the name of Voldemort's snake?",
+    "answers": [
+      "Basilisk",
+      "Nagini",
+      "Serpens",
+      "Vipera"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_10",
+    "categoryId": "hp_medium",
+    "text": "What is the name of Fred and George's joke shop?",
+    "answers": [
+      "Zonko's Joke Shop",
+      "Weasleys' Wizard Wheezes",
+      "Gambol and Japes",
+      "The Magic Menagerie"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_11",
+    "categoryId": "hp_medium",
+    "text": "Who was the secret keeper for the Potters' Fidelius Charm?",
+    "answers": [
+      "Sirius Black",
+      "Albus Dumbledore",
+      "Remus Lupin",
+      "Peter Pettigrew"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_12",
+    "categoryId": "hp_medium",
+    "text": "What does the Mirror of Erised show the viewer?",
+    "answers": [
+      "Their future",
+      "Their worst fear",
+      "Their deepest desire",
+      "Their past"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_13",
+    "categoryId": "hp_medium",
+    "text": "What is the form of Hermione's Patronus?",
+    "answers": [
+      "A stag",
+      "A jack russell terrier",
+      "An otter",
+      "A hare"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_14",
+    "categoryId": "hp_medium",
+    "text": "Which of these is not a Horcrux?",
+    "answers": [
+      "Nagini",
+      "Ravenclaw's Diadem",
+      "The Sword of Gryffindor",
+      "Hufflepuff's Cup"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_15",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the magical map of Hogwarts?",
+    "answers": [
+      "The Marauder's Map",
+      "The Hogwarts Charter",
+      "The Room of Requirement Map",
+      "The Secret Keeper's Chart"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_16",
+    "categoryId": "hp_medium",
+    "text": "Who killed Dumbledore?",
+    "answers": [
+      "Draco Malfoy",
+      "Bellatrix Lestrange",
+      "Severus Snape",
+      "Fenrir Greyback"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_17",
+    "categoryId": "hp_medium",
+    "text": "What magical creature pulls the Hogwarts carriages for students who can see death?",
+    "answers": [
+      "Hippogriffs",
+      "Thestrals",
+      "Unicorns",
+      "Centaurs"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_18",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the street where Severus Snape lived?",
+    "answers": [
+      "Privet Drive",
+      "Magnolia Crescent",
+      "Spinner's End",
+      "Godric's Hollow"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_19",
+    "categoryId": "hp_medium",
+    "text": "Which school participated in the Triwizard Tournament alongside Hogwarts and Durmstrang?",
+    "answers": [
+      "Ilvermorny",
+      "Castelobruxo",
+      "Mahoutokoro",
+      "Beauxbatons"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_20",
+    "categoryId": "hp_medium",
+    "text": "What is the core of Voldemort's wand?",
+    "answers": [
+      "Dragon Heartstring",
+      "Unicorn Hair",
+      "Phoenix Feather",
+      "Thestral Tail Hair"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_21",
+    "categoryId": "hp_medium",
+    "text": "What is the antidote to most poisons?",
+    "answers": [
+      "A bezoar",
+      "Dittany",
+      "Mandrake draught",
+      "Wolfsbane potion"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_22",
+    "categoryId": "hp_medium",
+    "text": "What position does Ron Weasley play on the Gryffindor Quidditch team?",
+    "answers": [
+      "Chaser",
+      "Seeker",
+      "Keeper",
+      "Beater"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_23",
+    "categoryId": "hp_medium",
+    "text": "Who was Tom Riddle's mother?",
+    "answers": [
+      "Merope Gaunt",
+      "Bellatrix Lestrange",
+      "Narcissa Malfoy",
+      "Walburga Black"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_24",
+    "categoryId": "hp_medium",
+    "text": "What does O.W.L. stand for in the context of wizarding exams?",
+    "answers": [
+      "Official Wizarding Level",
+      "Ordinary Wizarding Level",
+      "Outstanding Wizarding Laurels",
+      "Official Wizarding License"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_25",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+    "answers": [
+      "Gornuk",
+      "Bogrod",
+      "Griphook",
+      "Ragnok"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_26",
+    "categoryId": "hp_medium",
+    "text": "Who was the Defense Against the Dark Arts teacher in Harry's second year?",
+    "answers": [
+      "Remus Lupin",
+      "Gilderoy Lockhart",
+      "Quirinus Quirrell",
+      "Dolores Umbridge"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_27",
+    "categoryId": "hp_medium",
+    "text": "What is the name of Argus Filch's cat?",
+    "answers": [
+      "Crookshanks",
+      "Tiddles",
+      "Mrs. Norris",
+      "Fang"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_28",
+    "categoryId": "hp_medium",
+    "text": "What does the spell 'Riddikulus' do?",
+    "answers": [
+      "Creates a funny illusion",
+      "Reveals a hidden object",
+      "Unlocks a door",
+      "Transforms a Boggart into something amusing"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_29",
+    "categoryId": "hp_medium",
+    "text": "What is the form of Luna Lovegood's Patronus?",
+    "answers": [
+      "An otter",
+      "A rabbit (hare)",
+      "A swan",
+      "A doe"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_30",
+    "categoryId": "hp_medium",
+    "text": "What is the location of the Order of the Phoenix headquarters?",
+    "answers": [
+      "The Burrow",
+      "Hogwarts Castle",
+      "12 Grimmauld Place",
+      "The Ministry of Magic"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_31",
+    "categoryId": "hp_medium",
+    "text": "Who gave Harry the Marauder's Map?",
+    "answers": [
+      "Sirius Black",
+      "Remus Lupin",
+      "Fred and George Weasley",
+      "His father, James Potter"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_32",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the wizarding wireless network?",
+    "answers": [
+      "Wizarding Wireless Network (WWN)",
+      "Magical Radio Service (MRS)",
+      "The Potterwatch Program",
+      "The Quibbler Radio"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_33",
+    "categoryId": "hp_medium",
+    "text": "What is the form of Ginny Weasley's Patronus?",
+    "answers": [
+      "A horse",
+      "An otter",
+      "A doe",
+      "A swan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_34",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the Bulgarian Seeker that Harry competes against in the Quidditch World Cup?",
+    "answers": [
+      "Igor Karkaroff",
+      "Gellert Grindelwald",
+      "Viktor Krum",
+      "Poliakoff"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_35",
+    "categoryId": "hp_medium",
+    "text": "Which creature's tears are the only known antidote to Basilisk venom?",
+    "answers": [
+      "Phoenix",
+      "Griffin",
+      "Unicorn",
+      "Dragon"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_36",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the house-elf who served the Black family?",
+    "answers": [
+      "Dobby",
+      "Winky",
+      "Hokey",
+      "Kreacher"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_37",
+    "categoryId": "hp_medium",
+    "text": "Which Hogwarts professor was a champion in the Triwizard Tournament?",
+    "answers": [
+      "Cedric Diggory",
+      "Fleur Delacour",
+      "Alastor 'Mad-Eye' Moody (Barty Crouch Jr.)",
+      "There wasn't one"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_38",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the potion that grants good luck?",
+    "answers": [
+      "Draught of Living Death",
+      "Felix Felicis",
+      "Veritaserum",
+      "Amortentia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_39",
+    "categoryId": "hp_medium",
+    "text": "Who was the flying instructor at Hogwarts?",
+    "answers": [
+      "Madam Pince",
+      "Madam Pomfrey",
+      "Madam Hooch",
+      "Madam Malkin"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_40",
+    "categoryId": "hp_medium",
+    "text": "What organization did Lord Voldemort create?",
+    "answers": [
+      "The Order of the Phoenix",
+      "Dumbledore's Army",
+      "The Death Eaters",
+      "The Ministry of Magic"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_41",
+    "categoryId": "hp_medium",
+    "text": "What is the first password to the Gryffindor common room that Harry uses?",
+    "answers": [
+      "Fortuna Major",
+      "Mimbulus Mimbletonia",
+      "Balderdash",
+      "Caput Draconis"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_42",
+    "categoryId": "hp_medium",
+    "text": "What does a Howler do when it's opened?",
+    "answers": [
+      "Sings a song",
+      "Delivers a message in a loud, shouting voice",
+      "Explodes with confetti",
+      "Releases a bad smell"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_43",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the magical creature that can be seen only by those who have witnessed death?",
+    "answers": [
+      "Thestral",
+      "Hippogriff",
+      "Grindylow",
+      "Banshee"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "hp_medium_44",
+    "categoryId": "hp_medium",
+    "text": "Who wrote the seven-volume series 'The Rise and Fall of the Dark Arts'?",
+    "answers": [
+      "Bathilda Bagshot",
+      "Gilderoy Lockhart",
+      "Adalbert Waffling",
+      "Galatea Merrythought"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_45",
+    "categoryId": "hp_medium",
+    "text": "What is the spell used to disarm an opponent?",
+    "answers": [
+      "Stupefy",
+      "Expelliarmus",
+      "Rictusempra",
+      "Petrificus Totalus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_46",
+    "categoryId": "hp_medium",
+    "text": "What kind of wood is Harry's wand made of?",
+    "answers": [
+      "Oak",
+      "Yew",
+      "Vine",
+      "Holly"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "hp_medium_47",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the reporter for the Daily Prophet who often writes sensationalist stories?",
+    "answers": [
+      "Betty Braithwaite",
+      "Rita Skeeter",
+      "Wilhelmina Grubbly-Plank",
+      "Elphias Doge"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "hp_medium_48",
+    "categoryId": "hp_medium",
+    "text": "What is the name of the love potion featured in 'Harry Potter and the Half-Blood Prince'?",
+    "answers": [
+      "Veritaserum",
+      "Polyjuice Potion",
+      "Amortentia",
+      "Felix Felicis"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_49",
+    "categoryId": "hp_medium",
+    "text": "Which character is known for the catchphrase 'Constant vigilance!'?",
+    "answers": [
+      "Remus Lupin",
+      "Sirius Black",
+      "Alastor 'Mad-Eye' Moody",
+      "Arthur Weasley"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "hp_medium_50",
+    "categoryId": "hp_medium",
+    "text": "Who was the caretaker of Hogwarts before Argus Filch?",
+    "answers": [
+      "Apollyon Pringle",
+      "Ogg",
+      "Rancorous Carpe",
+      "Gladys Boothby"
+    ],
+    "correctAnswerIndex": 0
+  }
+]

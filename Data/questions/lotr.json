@@ -1,0 +1,602 @@
+[
+  {
+    "id": "lotr_1",
+    "categoryId": "lotr",
+    "text": "What is the name of the wizard who guides the Fellowship of the Ring?",
+    "answers": [
+      "Saruman",
+      "Gandalf",
+      "Radagast",
+      "Alatar"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_2",
+    "categoryId": "lotr",
+    "text": "What is the name of Aragorn's sword, reforged from the shards of Narsil?",
+    "answers": [
+      "Glamdring",
+      "Orcrist",
+      "Sting",
+      "And\u00faril"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_3",
+    "categoryId": "lotr",
+    "text": "What creature does Gandalf fight on the Bridge of Khazad-d\u00fbm?",
+    "answers": [
+      "A Dragon",
+      "A Cave Troll",
+      "An Orc",
+      "A Balrog"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_4",
+    "categoryId": "lotr",
+    "text": "Who is the elf princess of Rivendell who is in love with Aragorn?",
+    "answers": [
+      "Galadriel",
+      "Arwen",
+      "Tauriel",
+      "\u00c9owyn"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_5",
+    "categoryId": "lotr",
+    "text": "What is the name of Gollum's 'precious' possession?",
+    "answers": [
+      "The Arkenstone",
+      "A Silmaril",
+      "The One Ring",
+      "The Palant\u00edr"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_6",
+    "categoryId": "lotr",
+    "text": "Which two hobbits are captured by the Uruk-hai at the end of 'The Fellowship of the Ring'?",
+    "answers": [
+      "Frodo and Sam",
+      "Merry and Pippin",
+      "Sam and Pippin",
+      "Frodo and Merry"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_7",
+    "categoryId": "lotr",
+    "text": "What is the name of the giant spider that Frodo encounters in Mordor?",
+    "answers": [
+      "Aragog",
+      "Shelob",
+      "Ungoliant",
+      "Mirkwood Spider"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_8",
+    "categoryId": "lotr",
+    "text": "What is the name of the fortress of Sauron in Mordor?",
+    "answers": [
+      "Minas Tirith",
+      "Isengard",
+      "Barad-d\u00fbr",
+      "Helm's Deep"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_9",
+    "categoryId": "lotr",
+    "text": "What are the golden-leafed trees of Lothl\u00f3rien called?",
+    "answers": [
+      "Weirwood",
+      "Ents",
+      "Mallorn",
+      "Huorns"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_10",
+    "categoryId": "lotr",
+    "text": "Who is the King of Rohan?",
+    "answers": [
+      "Th\u00e9oden",
+      "Denethor",
+      "Elrond",
+      "Aragorn"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "lotr_11",
+    "categoryId": "lotr",
+    "text": "Who is Legolas's father, the king of the Mirkwood Elves?",
+    "answers": [
+      "Elrond",
+      "Celeborn",
+      "Thranduil",
+      "Gil-galad"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_12",
+    "categoryId": "lotr",
+    "text": "What is the name of the Ent who befriends Merry and Pippin?",
+    "answers": [
+      "Quickbeam",
+      "Treebeard",
+      "Leaflock",
+      "Skinbark"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_13",
+    "categoryId": "lotr",
+    "text": "Who is the Steward of Gondor and father of Boromir and Faramir?",
+    "answers": [
+      "Denethor",
+      "Th\u00e9oden",
+      "Aragorn",
+      "Imrahil"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "lotr_14",
+    "categoryId": "lotr",
+    "text": "What gift does Galadriel give Frodo to help him in dark places?",
+    "answers": [
+      "A new sword",
+      "Elven rope",
+      "Lembas bread",
+      "The Phial of Galadriel"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_15",
+    "categoryId": "lotr",
+    "text": "What is the password to open the Doors of Durin, the west gate of Moria?",
+    "answers": [
+      "Open",
+      "Friendship",
+      "Mellon",
+      "Durin"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_16",
+    "categoryId": "lotr",
+    "text": "Gimli, son of Gl\u00f3in, belongs to which race of Middle-earth?",
+    "answers": [
+      "Hobbit",
+      "Man",
+      "Elf",
+      "Dwarf"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_17",
+    "categoryId": "lotr",
+    "text": "What is the name of the inn in Bree where the hobbits first meet Aragorn?",
+    "answers": [
+      "The Green Dragon",
+      "The Prancing Pony",
+      "The Golden Perch",
+      "The Ivy Bush"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_18",
+    "categoryId": "lotr",
+    "text": "What is the name of the evil wizard who controls Isengard?",
+    "answers": [
+      "Gandalf",
+      "Sauron",
+      "Saruman",
+      "Radagast"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_19",
+    "categoryId": "lotr",
+    "text": "How many members make up the Fellowship of the Ring?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_20",
+    "categoryId": "lotr",
+    "text": "What special bread given by the elves can sustain a traveler for a whole day?",
+    "answers": [
+      "Cram",
+      "Waybread",
+      "Lembas",
+      "Miruvor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_21",
+    "categoryId": "lotr",
+    "text": "Who slays the Witch-king of Angmar during the Battle of the Pelennor Fields?",
+    "answers": [
+      "Aragorn",
+      "Th\u00e9oden",
+      "\u00c9omer",
+      "\u00c9owyn"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_22",
+    "categoryId": "lotr",
+    "text": "What is the name of Frodo's home in Hobbiton?",
+    "answers": [
+      "Brandy Hall",
+      "Tuckborough",
+      "Bag End",
+      "The Great Smials"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_23",
+    "categoryId": "lotr",
+    "text": "What are the two fortresses referred to in 'The Two Towers'?",
+    "answers": [
+      "Helm's Deep and Minas Tirith",
+      "Barad-d\u00fbr and Minas Morgul",
+      "Orthanc and Barad-d\u00fbr",
+      "Isengard and Mordor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_24",
+    "categoryId": "lotr",
+    "text": "What does Samwise Gamgee famously say he wants to do with potatoes in Mordor?",
+    "answers": [
+      "Roast 'em",
+      "Slice 'em",
+      "Put 'em in a stew",
+      "Boil 'em, mash 'em, stick 'em in a stew"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_25",
+    "categoryId": "lotr",
+    "text": "What is the name of Gandalf's majestic white horse?",
+    "answers": [
+      "Bill",
+      "Arod",
+      "Brego",
+      "Shadowfax"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_26",
+    "categoryId": "lotr",
+    "text": "Who is the first member of the Fellowship to die?",
+    "answers": [
+      "Gandalf",
+      "Boromir",
+      "Frodo",
+      "Aragorn"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_27",
+    "categoryId": "lotr",
+    "text": "What is the name of the dragon Bilbo Baggins confronts in 'The Hobbit'?",
+    "answers": [
+      "Glaurung",
+      "Ancalagon",
+      "Smaug",
+      "Scatha"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_28",
+    "categoryId": "lotr",
+    "text": "What is the capital city of Gondor?",
+    "answers": [
+      "Osgiliath",
+      "Minas Tirith",
+      "Edoras",
+      "Dol Amroth"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_29",
+    "categoryId": "lotr",
+    "text": "How many Rings of Power were given to the Dwarf-lords?",
+    "answers": [
+      "3",
+      "9",
+      "1",
+      "7"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_30",
+    "categoryId": "lotr",
+    "text": "Who becomes King of Gondor at the end of the War of the Ring?",
+    "answers": [
+      "Faramir",
+      "Aragorn",
+      "Boromir",
+      "Imrahil"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_31",
+    "categoryId": "lotr",
+    "text": "What is the name of the river that flows through the Elven realm of Lothl\u00f3rien?",
+    "answers": [
+      "Anduin",
+      "Isen",
+      "Celebrant",
+      "Bruinen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_32",
+    "categoryId": "lotr",
+    "text": "From which creature did Bilbo Baggins acquire the One Ring?",
+    "answers": [
+      "Sauron",
+      "A dragon",
+      "Gollum",
+      "An orc"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_33",
+    "categoryId": "lotr",
+    "text": "What is the name of Th\u00e9oden's son, who dies in battle?",
+    "answers": [
+      "\u00c9omer",
+      "Th\u00e9odred",
+      "Haleth",
+      "Grimbold"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_34",
+    "categoryId": "lotr",
+    "text": "What seeing-stones were used for communication and to see events far away?",
+    "answers": [
+      "Silmarils",
+      "Arkenstones",
+      "Palant\u00edri",
+      "Elfstones"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_35",
+    "categoryId": "lotr",
+    "text": "What is the name of the Horn of Gondor, carried by Boromir?",
+    "answers": [
+      "The Horn of Helm Hammerhand",
+      "The Horn of Valere",
+      "The War-horn of Vorondil",
+      "The Great Horn"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_36",
+    "categoryId": "lotr",
+    "text": "Who is the Lord of Rivendell and father of Arwen?",
+    "answers": [
+      "Thranduil",
+      "Celeborn",
+      "Elrond",
+      "C\u00edrdan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_37",
+    "categoryId": "lotr",
+    "text": "The Dead Marshes are haunted by the spirits of which battle?",
+    "answers": [
+      "Battle of the Five Armies",
+      "Battle of Dagorlad",
+      "Battle of the Pelennor Fields",
+      "Battle of the Morannon"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_38",
+    "categoryId": "lotr",
+    "text": "What is the Elvish word for 'friend'?",
+    "answers": [
+      "Elen",
+      "Valar",
+      "Mellon",
+      "Amdir"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_39",
+    "categoryId": "lotr",
+    "text": "Who carries Frodo up the final stretch of Mount Doom?",
+    "answers": [
+      "Gandalf",
+      "Aragorn",
+      "Gollum",
+      "Samwise Gamgee"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_40",
+    "categoryId": "lotr",
+    "text": "What is the name of the capital city of Rohan?",
+    "answers": [
+      "Helm's Deep",
+      "Minas Tirith",
+      "Aldburg",
+      "Edoras"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_41",
+    "categoryId": "lotr",
+    "text": "What is the name of Faramir and Boromir's father?",
+    "answers": [
+      "Denethor",
+      "Th\u00e9oden",
+      "Aragorn",
+      "Elrond"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "lotr_42",
+    "categoryId": "lotr",
+    "text": "What is the name of the Dark Lord of Mordor?",
+    "answers": [
+      "Saruman",
+      "The Witch-king",
+      "Sauron",
+      "Morgoth"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_43",
+    "categoryId": "lotr",
+    "text": "What gift does Lady Galadriel give to Gimli?",
+    "answers": [
+      "A dagger",
+      "An Elven cloak",
+      "Three strands of her hair",
+      "A bow"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_44",
+    "categoryId": "lotr",
+    "text": "What is the name of the battle where Isildur cut the Ring from Sauron's hand?",
+    "answers": [
+      "Battle of the Last Alliance",
+      "Battle of the Pelennor Fields",
+      "Battle of Dagorlad",
+      "War of Wrath"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "lotr_45",
+    "categoryId": "lotr",
+    "text": "What does Aragorn's royal name, Elessar, mean?",
+    "answers": [
+      "Hope",
+      "Elfstone",
+      "King",
+      "Longshanks"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_46",
+    "categoryId": "lotr",
+    "text": "Who is the last of the Ringwraiths to be destroyed?",
+    "answers": [
+      "Kham\u00fbl the Easterling",
+      "The Witch-king of Angmar",
+      "They are destroyed with the Ring",
+      "The Dwimmerlaik"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "lotr_47",
+    "categoryId": "lotr",
+    "text": "What kind of creature is Tom Bombadil?",
+    "answers": [
+      "Wizard",
+      "Man",
+      "Hobbit",
+      "His nature is a mystery"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_48",
+    "categoryId": "lotr",
+    "text": "Which Hobbit becomes the Mayor of Michel Delving?",
+    "answers": [
+      "Frodo Baggins",
+      "Pippin Took",
+      "Merry Brandybuck",
+      "Samwise Gamgee"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "lotr_49",
+    "categoryId": "lotr",
+    "text": "What is the name of Samwise Gamgee's pony?",
+    "answers": [
+      "Stybba",
+      "Bill",
+      "Fatty Lumpkin",
+      "Arod"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "lotr_50",
+    "categoryId": "lotr",
+    "text": "What is the language of Mordor called?",
+    "answers": [
+      "Quenya",
+      "Sindarin",
+      "Westron",
+      "The Black Speech"
+    ],
+    "correctAnswerIndex": 3
+  }
+]
