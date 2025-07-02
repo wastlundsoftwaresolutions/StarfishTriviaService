@@ -78,5 +78,13 @@
   {
     "id": "sw_hard",
     "name": "Star Wars (Hard)"
+  },
+  {
+    "id": "avatar",
+    "name": "Avatar: The Last Airbender"
+  },
+  {
+    "id": "geography",
+    "name": "Geography"
   }
 ]

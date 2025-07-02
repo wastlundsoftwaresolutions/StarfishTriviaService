@@ -19,6 +19,8 @@
     "sw_medium",
     "hp_hard",
     "hp_medium",
-    "hp_easy"
+    "hp_easy",
+    "avatar",
+    "geography"
   ]
 }

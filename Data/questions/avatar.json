@@ -1,0 +1,602 @@
+[
+  {
+    "id": "avatar_1",
+    "categoryId": "avatar",
+    "text": "What is the name of the main protagonist, who is the Avatar?",
+    "answers": [
+      "Zuko",
+      "Sokka",
+      "Aang",
+      "Roku"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_2",
+    "categoryId": "avatar",
+    "text": "What are the four nations in the world of Avatar?",
+    "answers": [
+      "Water, Earth, Fire, Air",
+      "Sea, Land, Fire, Sky",
+      "Oceans, Continents, Volcanoes, Mountains",
+      "Tribe, Kingdom, Nation, Temple"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "avatar_3",
+    "categoryId": "avatar",
+    "text": "What is the name of Aang's flying bison?",
+    "answers": [
+      "Momo",
+      "Appa",
+      "Naga",
+      "Pabu"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_4",
+    "categoryId": "avatar",
+    "text": "Who are Aang's main companions from the Southern Water Tribe?",
+    "answers": [
+      "Zuko and Iroh",
+      "Toph and Bumi",
+      "Katara and Sokka",
+      "Suki and Yue"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_5",
+    "categoryId": "avatar",
+    "text": "What is the name of the Fire Lord who started the 100-year war?",
+    "answers": [
+      "Ozai",
+      "Azulon",
+      "Zuko",
+      "Sozin"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_6",
+    "categoryId": "avatar",
+    "text": "What is the name of Zuko's wise and kind uncle?",
+    "answers": [
+      "Ozai",
+      "Iroh",
+      "Jeong Jeong",
+      "Piandao"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_7",
+    "categoryId": "avatar",
+    "text": "Which blind earthbender becomes Aang's teacher?",
+    "answers": [
+      "King Bumi",
+      "The Boulder",
+      "Haru",
+      "Toph Beifong"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_8",
+    "categoryId": "avatar",
+    "text": "Who is the primary antagonist and Zuko's father?",
+    "answers": [
+      "Fire Lord Sozin",
+      "Fire Lord Ozai",
+      "Admiral Zhao",
+      "Long Feng"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_9",
+    "categoryId": "avatar",
+    "text": "What is the name of Zuko's sister, a firebending prodigy?",
+    "answers": [
+      "Mai",
+      "Ty Lee",
+      "Azula",
+      "Ursa"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_10",
+    "categoryId": "avatar",
+    "text": "What is the spiritual state Aang enters to access immense power?",
+    "answers": [
+      "The Spirit World",
+      "The Avatar State",
+      "Enlightenment",
+      "Energybending"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_11",
+    "categoryId": "avatar",
+    "text": "What is the name of the massive, walled city in the Earth Kingdom?",
+    "answers": [
+      "Omashu",
+      "Gaoling",
+      "Ba Sing Se",
+      "Kyoshi Island"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_12",
+    "categoryId": "avatar",
+    "text": "What type of bending can Katara use that is rare and dangerous?",
+    "answers": [
+      "Metalbending",
+      "Lightning Generation",
+      "Bloodbending",
+      "Healing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_13",
+    "categoryId": "avatar",
+    "text": "What is the name of Aang's winged lemur?",
+    "answers": [
+      "Appa",
+      "Pabu",
+      "Momo",
+      "Naga"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_14",
+    "categoryId": "avatar",
+    "text": "Who was the Avatar before Aang?",
+    "answers": [
+      "Kyoshi",
+      "Kuruk",
+      "Yangchen",
+      "Roku"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_15",
+    "categoryId": "avatar",
+    "text": "What is the name of the Kyoshi Warriors' leader?",
+    "answers": [
+      "Ty Lee",
+      "Suki",
+      "Mai",
+      "Yue"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_16",
+    "categoryId": "avatar",
+    "text": "What special form of firebending can Iroh and Zuko redirect?",
+    "answers": [
+      "Blue Fire",
+      "Combustion",
+      "Lightning",
+      "Solar Flares"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_17",
+    "categoryId": "avatar",
+    "text": "What is the name of the ancient library in the desert guarded by a spirit?",
+    "answers": [
+      "The Archives of Omashu",
+      "The Great Library of Agna Qel'a",
+      "Wan Shi Tong's Library",
+      "The Fire Sage Temple Library"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_18",
+    "categoryId": "avatar",
+    "text": "Who are Azula's two main companions?",
+    "answers": [
+      "Katara and Suki",
+      "Yue and Toph",
+      "June and Smellerbee",
+      "Mai and Ty Lee"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_19",
+    "categoryId": "avatar",
+    "text": "What special ability does Ty Lee possess?",
+    "answers": [
+      "Healing",
+      "Chi blocking",
+      "Fortune telling",
+      "Invisibility"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_20",
+    "categoryId": "avatar",
+    "text": "Princess Yue of the Northern Water Tribe sacrifices herself to become what?",
+    "answers": [
+      "The Ocean Spirit",
+      "A Guardian Angel",
+      "The Sun Spirit",
+      "The Moon Spirit"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_21",
+    "categoryId": "avatar",
+    "text": "What is the name of the secret society within Ba Sing Se that brainwashes people?",
+    "answers": [
+      "The White Lotus",
+      "The Dai Li",
+      "The Red Lotus",
+      "The Freedom Fighters"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_22",
+    "categoryId": "avatar",
+    "text": "What is the Day of Black Sun?",
+    "answers": [
+      "A Fire Nation holiday",
+      "A solar eclipse when firebenders lose their power",
+      "A time when waterbenders are strongest",
+      "A spiritual festival for Avatars"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_23",
+    "categoryId": "avatar",
+    "text": "What is the name of the play the Gaang watches that parodies their adventures?",
+    "answers": [
+      "The Rise of the Phoenix King",
+      "Love Amongst the Dragons",
+      "The Boy in the Iceberg",
+      "The Western Air Temple"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_24",
+    "categoryId": "avatar",
+    "text": "Who teaches Aang energybending?",
+    "answers": [
+      "Avatar Roku",
+      "Guru Pathik",
+      "A lion turtle",
+      "The spirit Koh"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_25",
+    "categoryId": "avatar",
+    "text": "What does Aang do to Fire Lord Ozai instead of killing him?",
+    "answers": [
+      "Traps him in the Spirit World",
+      "Imprisons him in ice",
+      "Takes away his bending",
+      "Forces him into exile"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_26",
+    "categoryId": "avatar",
+    "text": "What is the title of the final four-part episode of the series?",
+    "answers": [
+      "The Day of Black Sun",
+      "The Siege of the North",
+      "Sozin's Comet",
+      "The Crossroads of Destiny"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_27",
+    "categoryId": "avatar",
+    "text": "What is Sokka's primary weapon, which he learns to use from a master?",
+    "answers": [
+      "A spear",
+      "A club",
+      "A sword",
+      "A bow"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_28",
+    "categoryId": "avatar",
+    "text": "What is the name of the episode where the Gaang tells stories about their time in Ba Sing Se?",
+    "answers": [
+      "City of Walls and Secrets",
+      "The Tales of Ba Sing Se",
+      "The Earth King",
+      "Lake Laogai"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_29",
+    "categoryId": "avatar",
+    "text": "What is Iroh's favorite type of tea?",
+    "answers": [
+      "Oolong",
+      "Green",
+      "Ginseng",
+      "Jasmine"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_30",
+    "categoryId": "avatar",
+    "text": "What is Toph's nickname for Aang?",
+    "answers": [
+      "Sugar Queen",
+      "Twinkle Toes",
+      "Snoozles",
+      "Flopsy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_31",
+    "categoryId": "avatar",
+    "text": "What song does Iroh sing in memory of his son, Lu Ten?",
+    "answers": [
+      "Four Seasons",
+      "The Agni Kai",
+      "Leaves from the Vine",
+      "Secret Tunnel"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_32",
+    "categoryId": "avatar",
+    "text": "What is the nickname Sokka gives to the combustion-bending assassin?",
+    "answers": [
+      "Fire Fist",
+      "Boom-Boom Man",
+      "Sparky Sparky Boom Man",
+      "The Exploder"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_33",
+    "categoryId": "avatar",
+    "text": "What does Sokka invent to help the invasion force on the Day of Black Sun?",
+    "answers": [
+      "Airships",
+      "Tanks",
+      "Catapults",
+      "Submarines"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "avatar_34",
+    "categoryId": "avatar",
+    "text": "Who becomes the new Fire Lord at the end of the series?",
+    "answers": [
+      "Iroh",
+      "Azula",
+      "Zuko",
+      "Aang"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_35",
+    "categoryId": "avatar",
+    "text": "What new form of earthbending does Toph invent?",
+    "answers": [
+      "Sandbending",
+      "Metalbending",
+      "Lavabending",
+      "Crystalbending"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_36",
+    "categoryId": "avatar",
+    "text": "Who is the eccentric king of Omashu and Aang's old friend?",
+    "answers": [
+      "The Boulder",
+      "Haru",
+      "King Bumi",
+      "Long Feng"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_37",
+    "categoryId": "avatar",
+    "text": "What animal are the first earthbenders said to have learned from?",
+    "answers": [
+      "Gopher-bears",
+      "Badgermoles",
+      "Shirshu",
+      "Dragon-moose"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_38",
+    "categoryId": "avatar",
+    "text": "What is the name of the traveling musician who sings 'Secret Tunnel'?",
+    "answers": [
+      "Chong",
+      "Moku",
+      "Chit Sang",
+      "Shoji"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "avatar_39",
+    "categoryId": "avatar",
+    "text": "What is the name of the spirit who guards the Spirit World entrance at the North Pole?",
+    "answers": [
+      "Hei Bai",
+      "Wan Shi Tong",
+      "Koh the Face Stealer",
+      "Fang"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_40",
+    "categoryId": "avatar",
+    "text": "What is the name of the Fire Nation colony in the Earth Kingdom where Katara pretends to be 'The Painted Lady'?",
+    "answers": [
+      "Jang Hui",
+      "Yon Rha's village",
+      "The Great Divide",
+      "The Southern Raiders' camp"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "avatar_41",
+    "categoryId": "avatar",
+    "text": "What does Zuko's mother, Ursa, say to him before she disappears?",
+    "answers": [
+      "\"I will see you again.\"",
+      "\"Never forget who you are.\"",
+      "\"Be strong, my son.\"",
+      "\"Your destiny is your own.\""
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_42",
+    "categoryId": "avatar",
+    "text": "What is the name of the prison Zuko and Sokka infiltrate to rescue Hakoda?",
+    "answers": [
+      "The Boiling Rock",
+      "The Cooler",
+      "The Black Cliffs",
+      "The Iron Fortress"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "avatar_43",
+    "categoryId": "avatar",
+    "text": "What kind of bending is passed down through Hama's lineage in the Fire Nation?",
+    "answers": [
+      "Combustionbending",
+      "Bloodbending",
+      "Lightning generation",
+      "Spiritual projection"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_44",
+    "categoryId": "avatar",
+    "text": "What element must the Avatar master last, according to the cycle?",
+    "answers": [
+      "Water",
+      "Earth",
+      "Fire",
+      "Air"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_45",
+    "categoryId": "avatar",
+    "text": "Which character is known for their sarcastic remarks and deadpan humor?",
+    "answers": [
+      "Katara",
+      "Aang",
+      "Sokka",
+      "Toph"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_46",
+    "categoryId": "avatar",
+    "text": "Who is the leader of the White Lotus, an ancient and secret society?",
+    "answers": [
+      "Pakku",
+      "Bumi",
+      "Iroh",
+      "Jeong Jeong"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "avatar_47",
+    "categoryId": "avatar",
+    "text": "What is the name of the giant, un-bendable wolf spirit?",
+    "answers": [
+      "Fang",
+      "Hei Bai",
+      "Bosco",
+      "Appa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_48",
+    "categoryId": "avatar",
+    "text": "What is the name of the episode where the Gaang gets into a conflict over a canyon?",
+    "answers": [
+      "The Swamp",
+      "The Great Divide",
+      "Bitter Work",
+      "The Chase"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_49",
+    "categoryId": "avatar",
+    "text": "Where does Aang first learn he is the Avatar?",
+    "answers": [
+      "From the Fire Sages",
+      "From the Monks at the Southern Air Temple",
+      "From Avatar Roku",
+      "From Gyatso"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "avatar_50",
+    "categoryId": "avatar",
+    "text": "What recurring misfortune befalls the Cabbage Merchant?",
+    "answers": [
+      "He loses his wallet.",
+      "His cart breaks down.",
+      "His cabbages are destroyed.",
+      "He gets lost."
+    ],
+    "correctAnswerIndex": 2
+  }
+] 
